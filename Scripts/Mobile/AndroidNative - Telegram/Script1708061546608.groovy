@@ -26,7 +26,13 @@ Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/and
 
 Mobile.scrollToText('Benin')
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - 229'), 0)
+Mobile.tap(findTestObject('Mobile/AndroidNative - Telegram/android.widget.TextView - 229'), 0, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView'), 0)
+
+Mobile.scrollToText('Benin')
+
+Mobile.tap(findTestObject('Mobile/AndroidNative - Telegram/android.widget.TextView - 229'), 0, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View'), 0)
 
