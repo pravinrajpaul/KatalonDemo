@@ -46,10 +46,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Set GPS geolocation for the mobile device.\r\n\t *\r\n\t * @param latitude the latitude of the location\r\n\t * @param longitude the longitude of the location\r\n\t * @param altitude the altitude of the location\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
