@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add filterFilter</name>
+   <tag></tag>
+   <elementGuidId>d9e8f465-b1a2-4279-acb5-722e185c8160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Component'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_neutral.addFilter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4330a84d-9468-46ec-b5f7-249eebe7b4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_neutral addFilter</value>
+      <webElementGuid>e0d42584-163a-4ae3-89a1-c21a60dc2d15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>872cd576-8a09-4ed9-bfd1-1d3504dc475c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add filterFilter</value>
+      <webElementGuid>da047626-6974-4c3b-a9c0-8977029a32a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;01Z5D000000EeERUA0 dashboardApp&quot;]/div[@class=&quot;toolbar&quot;]/div[2]/div[@class=&quot;toolbarActions&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;slds-button slds-button_neutral addFilter&quot;]</value>
+      <webElementGuid>eba19678-893e-4d8d-924a-30016c780088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR_Salesforce New/Dashboard/Page_Katalon Dashboard  Salesforce/iframe_View Calendar_sfxdash-iframe2</value>
+      <webElementGuid>d5ac339e-477c-4cbf-9b0a-0379b92ce1c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Component'])[1]/following::button[1]</value>
+      <webElementGuid>0dffc9ab-5566-4ac5-abf3-e575bb801d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undo: Add component.'])[1]/preceding::button[1]</value>
+      <webElementGuid>ca74c2f8-5927-4d37-a9bb-24feac209617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
+      <webElementGuid>b74b0c2f-75a2-41c2-9317-7e8b93a28aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@class = 'slds-button slds-button_neutral addFilter' and @type = 'button' and (text() = 'Add filterFilter' or . = 'Add filterFilter')]</value>
+      <webElementGuid>157e2b14-366d-4a48-b2b2-cbbbce235158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>a6ab7550-e6d6-4add-a7e0-5bf2f16038df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>2088def5-543e-44c3-97e7-f341c02071ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>b0d0627c-1d9b-435d-85ab-12e362869ebf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

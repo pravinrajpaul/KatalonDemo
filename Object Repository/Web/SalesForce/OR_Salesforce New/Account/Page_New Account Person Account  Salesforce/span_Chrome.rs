@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chrome</name>
+   <tag></tag>
+   <elementGuidId>a4653e96-b4ab-4804-b707-a8dec0fee2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-listbox__option.slds-listbox__option_plain.slds-media.slds-media_small.slds-media_inline.slds-is-selected > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[2]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24a420da-a9df-4071-b498-23fd71157402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>6ce05fba-1ffb-414a-b39e-bd6d649aaca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Chrome</value>
+      <webElementGuid>51646b44-1b66-44d0-9036-e251b735039a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chrome</value>
+      <webElementGuid>6257e8f4-1729-4f21-8a0a-c43db60f53b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;source-list-484&quot;)/li[@class=&quot;slds-listbox__item&quot;]/div[@class=&quot;slds-listbox__option slds-listbox__option_plain slds-media slds-media_small slds-media_inline slds-is-selected&quot;]/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>534b3e44-febd-4287-9176-2f55d68c0dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[2]/following::span[2]</value>
+      <webElementGuid>7ce026c1-418a-489f-bdee-41b3075d4d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browsers'])[1]/following::span[3]</value>
+      <webElementGuid>ca0dd016-9fd2-4d2d-be08-79bf6e75cae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefox'])[1]/preceding::span[1]</value>
+      <webElementGuid>332d9285-6e2c-4395-ac58-d7d73469b68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safari'])[1]/preceding::span[3]</value>
+      <webElementGuid>0fb70960-022b-4477-808f-52e2c303379c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chrome']/parent::*</value>
+      <webElementGuid>c5239ccf-e5b6-4d40-b407-50c3904b15e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = 'slds-truncate' and @title = 'Chrome' and (text() = 'Chrome' or . = 'Chrome')]</value>
+      <webElementGuid>112cf7c6-7cd2-4bdd-82fb-f3eb1d13eceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='source-list-484']/li/div/span/span</value>
+      <webElementGuid>5487efba-dc0a-403c-a63f-97ce3f3676cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div/lightning-picklist/lightning-dual-listbox/div/div[2]/div/div[3]/div/ul/li/div/span/span</value>
+      <webElementGuid>a990e5f4-b950-42dc-b040-a60dd8ee08b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Dashboard Actions</name>
+   <tag></tag>
+   <elementGuidId>c56f3470-f4ad-48be-b43f-d4cc393ff7a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_icon-border-filled.ignore-click--Haqo6xbdM.menuTrigger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c8c5d2ca-86c3-4f1a-aba1-916cfc56eac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_icon-border-filled ignore-click--Haqo6xbdM menuTrigger</value>
+      <webElementGuid>f076dad0-353f-4458-bfe4-60a2573b1cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>30a5a513-a699-4089-9599-9f4d916a366e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>44ac2a70-71d8-4d07-b709-2fe20cb5d2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9863a940-6468-4a8d-b3c1-f4d039ccbd36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2b22b1b4-c418-45d1-a4f2-081797ea0c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More Dashboard Actions</value>
+      <webElementGuid>56b8a4d8-6712-4410-a048-3669f588a832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;-Haqo6xbdM&quot;)/button[@class=&quot;slds-button slds-button_icon-border-filled ignore-click--Haqo6xbdM menuTrigger&quot;]</value>
+      <webElementGuid>a3c71134-b23f-4ab8-b628-e3cc05754b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR_Salesforce New/Dashboard/Page_Katalon Dashboard  Salesforce/iframe_View Calendar_sfxdash-iframe2</value>
+      <webElementGuid>fb23cb94-4c74-4e73-88c4-37d925267ab2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/following::button[1]</value>
+      <webElementGuid>bd991340-eebb-4985-a872-b7b07af41939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[2]</value>
+      <webElementGuid>ba998b25-e26e-4603-9f92-159cb359adef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='As of Dec 6, 2022, 10:28 PM'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d18e1fa-f295-4159-92fe-f5a03223208c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@class = 'slds-button slds-button_icon-border-filled ignore-click--Haqo6xbdM menuTrigger' and @type = 'button' and (text() = 'More Dashboard Actions' or . = 'More Dashboard Actions')]</value>
+      <webElementGuid>02857178-51f8-49a5-a2d4-b9b6da7b2402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>d8b2e13c-b099-4641-85af-13e4ff6cb305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='-Haqo6xbdM']/button</value>
+      <webElementGuid>96d1ecb8-1683-4c96-ad33-9757889d02f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>d95607a8-80e6-4d44-82b1-f76d5fa25cdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

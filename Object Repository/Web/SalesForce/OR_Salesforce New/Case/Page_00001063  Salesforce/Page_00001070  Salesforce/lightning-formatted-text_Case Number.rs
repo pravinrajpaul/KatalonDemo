@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-formatted-text_Case Number</name>
+   <tag></tag>
+   <elementGuidId>b8dcbb63-38d6-4ff9-b490-55a1b3136d52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[3]/following::lightning-formatted-text[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>e346915b-05e3-4b32-aec7-a94f36c798a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00001070</value>
+      <webElementGuid>ecf489ca-9fc1-41df-8aad-191f31463928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/one-record-home-flexipage2[1]/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___sfa__-case_rec_-l___-case___-v-i-e-w[@class=&quot;adg-rollup-wrapped&quot;]/forcegenerated-flexipage_case_rec_l_case__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-col slds-size_1-of-1 row region-header&quot;]/slot[1]/flexipage-component2[1]/slot[1]/records-lwc-highlights-panel[1]/records-lwc-record-layout[1]/forcegenerated-highlightspanel_case___012000000000000aaa___compact___view___recordlayout2[@class=&quot;forcegenerated-record-layout2&quot;]/records-highlights2[1]/div[@class=&quot;highlights slds-clearfix slds-page-header slds-page-header_record-home fixed-position&quot;]/div[@class=&quot;secondaryFields&quot;]/slot[@class=&quot;slds-grid slds-page-header__detail-row&quot;]/records-highlights-details-item[@class=&quot;slds-page-header__detail-block&quot;]/div[1]/p[@class=&quot;fieldComponent slds-text-body--regular slds-show_inline-block slds-truncate&quot;]/slot[1]/lightning-formatted-text[1]</value>
+      <webElementGuid>bb673de3-8667-4806-8fc3-eca5431b970c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[3]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>24d962a5-8ab1-49b0-85ba-a290942342e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Highest'])[1]/following::lightning-formatted-text[2]</value>
+      <webElementGuid>611428f3-6a94-46b3-ac14-97cb670d3bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabs'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>e67dc1de-2d7d-435b-b857-9dcefd1a1094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feed'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>1a5c6cc6-d8e7-4088-ad65-e4a1d45f9d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = '00001070' or . = '00001070')]</value>
+      <webElementGuid>acba655d-ccbc-40a5-958d-54f53c4657ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___sfa__-case_rec_-l___-case___-v-i-e-w/forcegenerated-flexipage_case_rec_l_case__view_js/record_flexipage-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/records-lwc-highlights-panel/records-lwc-record-layout/forcegenerated-highlightspanel_case___012000000000000aaa___compact___view___recordlayout2/records-highlights2/div/div[2]/slot/records-highlights-details-item[3]/div/p[2]/slot/lightning-formatted-text</value>
+      <webElementGuid>8d83e2bd-1821-48c7-8ecc-929b50b08203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-highlights-details-item[3]/div/p[2]/slot/lightning-formatted-text</value>
+      <webElementGuid>70286eee-c57b-4b71-89dd-eee7fcb5a306</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

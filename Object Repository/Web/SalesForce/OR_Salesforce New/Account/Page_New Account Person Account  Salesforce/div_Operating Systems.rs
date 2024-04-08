@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Operating Systems</name>
+   <tag></tag>
+   <elementGuidId>e1922cd4-9dc1-43c0-825c-38a73cbfedff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()=&quot;Operating Systems&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#group-label-721</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7dd7a646-1534-45ff-8e47-79e1a82019cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__label slds-form-element__legend</value>
+      <webElementGuid>a94f6435-58d8-4013-b71b-174c15757e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>group-label-721</value>
+      <webElementGuid>4e0be0eb-20fc-48d9-99e3-62ab524ebf9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operating Systems</value>
+      <webElementGuid>d35b3a0c-555f-40c9-9d57-da9455ee2115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-label-721&quot;)</value>
+      <webElementGuid>f17dabb2-754a-4a84-b1f4-d508374fa47c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chosen'])[2]/following::div[11]</value>
+      <webElementGuid>7811df25-dce1-4bb5-bf40-4567621ebfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move selection to Available'])[2]/following::div[12]</value>
+      <webElementGuid>5c98ba82-6897-47d9-aa38-59fc251fc57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[3]/preceding::div[3]</value>
+      <webElementGuid>9d93e3de-1fdd-4aaf-9b86-9ee3e07ecc39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows'])[1]/preceding::div[3]</value>
+      <webElementGuid>c66af492-77b5-465f-a9d1-10c1d4d9b282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operating Systems']/parent::*</value>
+      <webElementGuid>c1f3c3e9-80ac-4145-8ca1-9671a99941da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@class = 'slds-form-element__label slds-form-element__legend' and @id = 'group-label-721' and (text() = 'Operating Systems' or . = 'Operating Systems')]</value>
+      <webElementGuid>11571f06-26a4-4fbd-9460-98eb70fb07d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='group-label-721']</value>
+      <webElementGuid>30d3c7f9-5002-420e-90a3-7a5c3872ff12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='7116:0']/div/div[16]/div/div/div/lightning-picklist/lightning-dual-listbox/div/div</value>
+      <webElementGuid>ec8ece15-9149-46d3-bccf-2131a527ecb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div/lightning-picklist/lightning-dual-listbox/div/div</value>
+      <webElementGuid>946e0bf4-9fbb-408f-baf8-c2ac8094dbef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

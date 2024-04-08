@@ -6,15 +6,16 @@
    <elementGuidId>c180a7d4-a668-4bb0-9f44-a7a1959ca51f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.oxd-alert-content.oxd-alert-content--error</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/div/div/div</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-alert-content.oxd-alert-content--error</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ba6bd94d-6438-4540-a7c5-66e4c52ed2af</webElementGuid>
+      <webElementGuid>9a6224be-ce7c-4b36-b205-9e33294aab30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-alert-content oxd-alert-content--error</value>
-      <webElementGuid>48384e79-56a6-42d1-a8ee-7088d76a450d</webElementGuid>
+      <webElementGuid>07aee7ae-4f82-49d1-b35c-10fb6d260a99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Invalid credentials</value>
-      <webElementGuid>c120e79f-30e1-4c6b-8cb8-694f4acadc52</webElementGuid>
+      <webElementGuid>a5f28b34-f786-4259-b0db-65e145c85bf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/div[@class=&quot;orangehrm-login-error&quot;]/div[@class=&quot;oxd-alert oxd-alert--error&quot;]/div[@class=&quot;oxd-alert-content oxd-alert-content--error&quot;]</value>
-      <webElementGuid>84324d87-db20-489c-950a-bfc4cdbfe5bb</webElementGuid>
+      <webElementGuid>59c7c15a-24e3-4509-8c5d-5057107de6fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/div/div/div</value>
-      <webElementGuid>066adbfc-2015-4a21-b45e-72552bff0884</webElementGuid>
+      <webElementGuid>1c68ba4e-6b1d-4c0d-99e2-3e28e475f9b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div</value>
-      <webElementGuid>02d663f2-3732-4560-8349-2ba25f8fde6b</webElementGuid>
+      <webElementGuid>85377769-e8b6-4609-b3e1-109b3bf96e6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +71,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Invalid credentials' or . = 'Invalid credentials')]</value>
-      <webElementGuid>0139d99d-987f-4b3f-b8b8-dfeb5640c1df</webElementGuid>
+      <webElementGuid>3ab12835-01bc-454e-ac9a-b67e836765be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

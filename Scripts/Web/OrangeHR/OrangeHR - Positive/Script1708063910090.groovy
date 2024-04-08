@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h5_Log
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'))
+WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.STOP_ON_FAILURE)
 

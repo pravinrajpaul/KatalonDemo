@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Action_slds-checkbox--faux</name>
+   <tag></tag>
+   <elementGuidId>22b32f66-498b-4390-8fe0-38ffe62b70c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-grid.slds-grid--align-spread.slds-align_absolute-center.checkbox-container.uiInput.forceVirtualCheckbox.uiInput--default > label.slds-checkbox > span.slds-checkbox--faux</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_1']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr/td[2]/span/span/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a76440a0-753b-4d82-ba75-7cf56071a376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-checkbox--faux</value>
+      <webElementGuid>ad3c1721-5d5f-4d90-96c0-4c5393ad78ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>2582:0</value>
+      <webElementGuid>cd03b574-677c-4e75-ac1b-dea811356d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_1&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;windowViewMode-maximized oneContent active lafPageHost&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-grid listDisplays safari-workaround-anchor&quot;]/div[@class=&quot;slds-grid listViewContainer safari-workaround&quot;]/div[@class=&quot;slds-col slds-no-space forceListViewManagerPrimaryDisplayManager&quot;]/div[@class=&quot;undefined forceListViewManagerGrid&quot;]/div[@class=&quot;listViewContent slds-table--header-fixed_container&quot;]/div[@class=&quot;uiScroller scroller-wrapper scroll-bidirectional native&quot;]/div[@class=&quot;scroller actionBarPlugin&quot;]/div[@class=&quot;slds-table--edit_container slds-is-relative  inlineEdit--enabled keyboardMode--inactive inlineEditGrid forceInlineEditGrid&quot;]/table[@class=&quot;slds-table forceRecordLayout slds-table--header-fixed slds-table--edit slds-table--bordered resizable-cols slds-table--resizable-cols uiVirtualDataTable slds-no-cell-focus&quot;]/tbody[1]/tr[1]/td[@class=&quot;slds-cell-edit cellContainer&quot;]/span[@class=&quot;slds-grid slds-grid--align-spread&quot;]/span[@class=&quot;slds-grid slds-grid--align-spread slds-align_absolute-center checkbox-container uiInput forceVirtualCheckbox uiInput--default&quot;]/label[@class=&quot;slds-checkbox&quot;]/span[@class=&quot;slds-checkbox--faux&quot;]</value>
+      <webElementGuid>2cd6d333-6b0a-4e6f-9429-a2b00c8202a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_1']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr/td[2]/span/span/label/span</value>
+      <webElementGuid>e71973a0-8662-46a6-88c2-13c219b26727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/label/span</value>
+      <webElementGuid>7d286151-e6d8-41f7-a758-2da8d0a8a492</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

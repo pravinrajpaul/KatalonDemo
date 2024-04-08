@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mac</name>
+   <tag></tag>
+   <elementGuidId>4b8f4dab-b243-4ad8-aaf3-cf1a08f08a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-listbox__option.slds-listbox__option_plain.slds-media.slds-media_small.slds-media_inline.slds-is-selected > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f758b93-915f-4d71-8084-e0a7f4d38ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>28b496b9-cb50-4f60-add9-ccc6289d6547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Mac</value>
+      <webElementGuid>e4671666-ffa4-4120-a62e-5075e510050d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mac</value>
+      <webElementGuid>96d8dd0e-b3f5-4c74-a001-dfb84c5a812c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;source-list-489&quot;)/li[@class=&quot;slds-listbox__item&quot;]/div[@class=&quot;slds-listbox__option slds-listbox__option_plain slds-media slds-media_small slds-media_inline slds-is-selected&quot;]/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>460fe25f-8eac-4b2c-914f-170937df5ddf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows'])[1]/following::span[2]</value>
+      <webElementGuid>b2ee6c9d-a312-40b1-b5a3-a2b8dd0f2b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[3]/following::span[4]</value>
+      <webElementGuid>d2a871e8-1fad-4e1c-a89c-8a4431d4be4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linux'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ce45c5c-a530-466d-8357-13937e2e444e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubuntu'])[1]/preceding::span[3]</value>
+      <webElementGuid>39c984d0-3356-4f2f-a11d-7b920197cb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mac']/parent::*</value>
+      <webElementGuid>fe0a8438-dee3-4b1a-916c-e160ddee2b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = 'slds-truncate' and @title = 'Mac' and (text() = 'Mac' or . = 'Mac')]</value>
+      <webElementGuid>b0710682-ddf4-4b48-b35f-24c1a764ac7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='source-list-489']/li[2]/div/span/span</value>
+      <webElementGuid>aae89b39-da0c-49de-868f-69ff0f0cfadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div/lightning-picklist/lightning-dual-listbox/div/div[2]/div/div[3]/div/ul/li[2]/div/span/span</value>
+      <webElementGuid>e3a3317e-0d60-4527-9df9-0ec930f5a782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

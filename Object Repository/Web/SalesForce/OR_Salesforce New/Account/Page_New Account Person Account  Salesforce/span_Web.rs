@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Web</name>
+   <tag></tag>
+   <elementGuidId>4aa2afba-cb31-4a74-bf67-4aa0efe512d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'slds-truncate' and @title = 'Web' and (text() = 'Web' or . = 'Web')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-media__body > span.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>76631ada-d40e-4ef1-a7f7-a4cf9dea31a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>31d8d23f-5c4c-459f-b003-44d6193416c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Web</value>
+      <webElementGuid>616a3e35-7e6e-4a3f-8096-fdbb325a53be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web</value>
+      <webElementGuid>2ed306d7-1374-4e72-8401-cb562232d737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;source-list-479&quot;)/li[@class=&quot;slds-listbox__item&quot;]/div[@class=&quot;slds-listbox__option slds-listbox__option_plain slds-media slds-media_small slds-media_inline slds-is-selected&quot;]/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>50869e91-aa50-422b-b99b-ef8c7ee830e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/following::span[2]</value>
+      <webElementGuid>9fb5df0a-4831-466a-aa6a-b980e26844b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Platforms'])[1]/following::span[3]</value>
+      <webElementGuid>55afef06-13b0-4181-98c2-458eec068f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[1]/preceding::span[1]</value>
+      <webElementGuid>6f1175f2-519c-4f86-bcf2-4a0b5c81f02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::span[3]</value>
+      <webElementGuid>92b4da85-9486-411e-be9e-922f79d9c872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web']/parent::*</value>
+      <webElementGuid>e0bbdcf7-2e51-4a21-b3eb-aa00482cc33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = 'slds-truncate' and @title = 'Web' and (text() = 'Web' or . = 'Web')]</value>
+      <webElementGuid>45173c35-d737-4ba9-95c9-3a6ec640bd33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='source-list-479']/li/div/span/span</value>
+      <webElementGuid>d3a4839d-f6a2-43dc-93e5-c7b9489b5f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span/span</value>
+      <webElementGuid>cc1076a0-6419-4b24-a817-c821746ff51f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,9 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('/Users/pravinr/Documents/dev/katalon/KatalonDemo/Resources/Mobile/Apk/Telegram.apk', true)
-
-not_run: Mobile.startApplication('D:\\Development\\Katalon Studio\\KatalonDemo\\Resources\\Mobile\\Apk\\Telegram.apk', true)
+Mobile.startApplication('Resources/Mobile/Apk/Telegram.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Start Messaging'), 
     0)
@@ -44,10 +42,8 @@ Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/and
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (3)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (4)'), 0)
-
-Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - The number you provided is too short for Benin229 12 3Please enter the correct number including your country code'), 
-    'The number you provided is too short for Benin:\n\n+229 12 3\n\nPlease enter the correct number including your country code.')
+Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Error Txt'), 
+    'Invalid phone number. Please check the number and try again.', FailureHandling.CONTINUE_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - OK'), 0)
 

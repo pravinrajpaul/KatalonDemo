@@ -1,0 +1,55 @@
+{
+  "keywordFileContentHash": "6B343AC2F8FEBF7D233C49FA5613E480",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.testcloud.GeolocationExecutor",
+      "keywordMethods": [
+        {
+          "name": "setMobileGeoLocation",
+          "parameters": [
+            {
+              "name": "latitude",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "longitude",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "altitude",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

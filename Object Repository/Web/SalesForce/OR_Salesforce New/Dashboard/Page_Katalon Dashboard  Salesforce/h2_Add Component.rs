@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Add Component</name>
+   <tag></tag>
+   <elementGuidId>6d6e8fb4-575f-4c61-943d-9724a801d002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::h2[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#qZTFsuy2k-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5a353228-7f5c-40e1-b31b-b2485836b4b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-text-heading_medium</value>
+      <webElementGuid>8ef62aca-0917-4f08-80aa-b4d118de558f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>qZTFsuy2k-heading</value>
+      <webElementGuid>2e85ad54-31cc-4793-84c8-e30506e96b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Component</value>
+      <webElementGuid>bac8baf8-430a-47dc-a5a2-810f3952f859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qZTFsuy2k-heading&quot;)</value>
+      <webElementGuid>a29506c9-0e02-4fa9-9c2b-bce4bca38505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR_Salesforce New/Dashboard/Page_Katalon Dashboard  Salesforce/iframe_View Calendar_sfxdash-iframe2</value>
+      <webElementGuid>0e0d82a8-aaa5-4960-b7b0-cb72b23a3b56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::h2[1]</value>
+      <webElementGuid>b98257f3-8076-4011-bb4d-d1a970e8a434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/following::h2[1]</value>
+      <webElementGuid>2f5f8429-5dfa-4a4b-843e-d573e69d4572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::h2[1]</value>
+      <webElementGuid>533b4977-1040-4743-9afe-f94040d585b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unselect Report'])[1]/preceding::h2[1]</value>
+      <webElementGuid>986fee73-c9df-4c0a-a3f0-eec7241ddbfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@class = 'slds-text-heading_medium' and @id = 'qZTFsuy2k-heading' and (text() = 'Add Component' or . = 'Add Component')]</value>
+      <webElementGuid>3c62a31c-af4a-4025-be8e-88dabd010128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='qZTFsuy2k-heading']</value>
+      <webElementGuid>a2f30845-6dae-4502-8a95-3bfb64774b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>a81bdab5-93c7-44e9-9b49-99b0cd9f07c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

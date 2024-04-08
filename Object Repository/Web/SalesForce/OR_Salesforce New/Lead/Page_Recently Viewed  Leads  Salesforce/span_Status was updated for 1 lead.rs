@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Status was updated for 1 lead</name>
+   <tag></tag>
+   <elementGuidId>f7193566-bdee-4bcd-bf2d-653d2d316d09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.toastMessage.slds-text-heading--small.forceActionsText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='success'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e1865f0-bf1a-4aed-a9bc-045f6da1108f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toastMessage slds-text-heading--small forceActionsText</value>
+      <webElementGuid>e00aec74-63da-408b-9a41-b6a1996bede6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>3001:0</value>
+      <webElementGuid>d8826db1-fc2e-4048-98c7-4a36f705c649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>forceActionsText</value>
+      <webElementGuid>dea603ef-105f-4274-aec7-64b082a19d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Status was updated for 1 lead.</value>
+      <webElementGuid>17d77ba5-ad94-49ee-bcff-3514f450fd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastDescription2988:0&quot;)/span[@class=&quot;toastMessage slds-text-heading--small forceActionsText&quot;]</value>
+      <webElementGuid>7d359ce6-7add-4c71-b422-f8476f9904df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='success'])[1]/following::span[1]</value>
+      <webElementGuid>ad46084d-dc4a-417a-ae34-ebdf6559d109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/following::span[3]</value>
+      <webElementGuid>6e2f45ca-ee0c-48f0-bbcb-122040475a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[1]</value>
+      <webElementGuid>a508d942-ca94-4a5c-a4ff-dcd38ea16a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To unpin, pin another list view'])[2]/preceding::span[2]</value>
+      <webElementGuid>2df603d0-0587-49eb-afd3-ad584a36717a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Status was updated for 1 lead.']/parent::*</value>
+      <webElementGuid>cb6b64ad-3cd0-4c50-ad5c-31e440548106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Status was updated for 1 lead.' or . = 'Status was updated for 1 lead.')]</value>
+      <webElementGuid>82d9c5ec-67ed-45c0-bbd3-67c0d65ee1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toastDescription2988:0']/span</value>
+      <webElementGuid>dc8ddcca-c71d-481e-883f-7c521342ea8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/span</value>
+      <webElementGuid>eb670bb3-8485-4ae9-9588-a8fd5192b97f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Person Account Mohit Katalon was created</name>
+   <tag></tag>
+   <elementGuidId>6e33620d-2b27-40cb-96f6-08189416bb05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.toastMessage.slds-text-heading--small.forceActionsText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'toastMessage slds-text-heading--small forceActionsText']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9084abb-4199-457d-8fd5-dd432c5b3182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toastMessage slds-text-heading--small forceActionsText</value>
+      <webElementGuid>1c596aa5-ddcb-4a37-9cfe-212b7662e34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>2069:0</value>
+      <webElementGuid>3365837d-fb2b-471a-a5c0-58f7ce0c1af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>forceActionsText</value>
+      <webElementGuid>617508fa-fdb9-4b20-8e86-19996b889277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Person Account &quot;Mohit Katalon&quot; was created.</value>
+      <webElementGuid>99ef70c8-46ba-4989-b609-c33c18d1fc0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastDescription2056:0&quot;)/span[@class=&quot;toastMessage slds-text-heading--small forceActionsText&quot;]</value>
+      <webElementGuid>96a08e31-76cd-4050-81f9-0d17d18307be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = 'toastMessage slds-text-heading--small forceActionsText']</value>
+      <webElementGuid>ac2e4748-32dc-4de1-8408-f4283ba7bcfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='success'])[1]/following::span[1]</value>
+      <webElementGuid>3be053a4-d430-498d-9e3e-4a828400ab1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/following::span[3]</value>
+      <webElementGuid>cfea4f73-23a5-45bc-a33c-cd39d0c4b86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[1]</value>
+      <webElementGuid>c07e9d7c-2cbb-4726-8d43-8502d1fa598c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toastDescription2056:0']/span</value>
+      <webElementGuid>d061258f-28c3-4bd3-bda5-30baa6a17d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/span</value>
+      <webElementGuid>5a58ddff-bee0-473e-9699-13548f46163c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

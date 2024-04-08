@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>e7a3509d-84c9-4a16-904e-9356a7fa79c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>.//button[@name='SaveEdit']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = ' label bBody' and (text() = 'Save' or . = 'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55b0db63-b6eb-4885-9e0d-b664c955a9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>193fb824-e1f3-41de-9890-78dbb73ed1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> label bBody</value>
+      <webElementGuid>ea21714f-4bde-47c7-a98b-fc9605997a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>17898:0</value>
+      <webElementGuid>81bed143-5538-4bd6-b752-6d2c9856f517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>1f90a615-a105-488d-8dec-ebf64a845dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content_16553:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;inlineFooter&quot;]/div[@class=&quot;button-container slds-text-align_right forceRecordEditActions&quot;]/div[@class=&quot;actionsContainer&quot;]/div[@class=&quot;button-container-inner slds-float_right&quot;]/button[@class=&quot;slds-button slds-button--neutral uiButton--brand uiButton forceActionButton&quot;]/span[@class=&quot;label bBody&quot;]</value>
+      <webElementGuid>825c8539-7060-46d5-8183-b0fac3b839c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; New'])[1]/following::span[1]</value>
+      <webElementGuid>a6c2344a-417d-48c1-980e-7d4aa5f2a62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[2]</value>
+      <webElementGuid>e1bbcd16-308e-41ad-bec4-a869560c7424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[5]/preceding::span[1]</value>
+      <webElementGuid>1d689df6-f431-46c0-86da-662a207ecfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[2]/preceding::span[4]</value>
+      <webElementGuid>c60b4b54-be40-49f5-bbb0-b48852335597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = ' label bBody' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>a9da9745-ac5a-4773-b27b-26499bbb67e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content_16553:0']/div/div/div[2]/div/div/div[2]/button[3]/span</value>
+      <webElementGuid>40772a7a-fad2-4836-be66-918cd732bb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/button[3]/span</value>
+      <webElementGuid>c06aa000-acd0-4c93-9d46-1f10287b78b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

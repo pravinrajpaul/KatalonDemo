@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LeadsRecently ViewedSelect a List ViewT_ecd38b</name>
+   <tag></tag>
+   <elementGuidId>e32b02d6-4afa-414d-9fe8-41b7376116a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-grid.slds-media__body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Leads'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ebe559d-2ae2-410a-a137-a3b7274a3802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-grid slds-media__body</value>
+      <webElementGuid>d61fbc1b-c953-4025-833a-054b13b0b364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>308:0</value>
+      <webElementGuid>0009e723-8bf1-4c61-8595-648369fa5c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LeadsRecently ViewedSelect a List ViewThis list is pinnedTo unpin, pin another list view</value>
+      <webElementGuid>ea228fbc-8b5b-4f6e-bc08-b724592dafee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_1&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;windowViewMode-maximized oneContent active lafPageHost&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-has-flexi-truncate firstHeaderRow&quot;]/div[@class=&quot;slds-media slds-no-space slds-grow&quot;]/div[@class=&quot;slds-media__body slds-align-middle&quot;]/div[@class=&quot;slds-grid slds-media__body&quot;]</value>
+      <webElementGuid>10e4c1aa-12ac-4eae-b718-6b057dab7c54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leads'])[2]/following::div[1]</value>
+      <webElementGuid>26d383c6-34fc-44e5-b990-b41e037dbfdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit nav items'])[1]/following::div[18]</value>
+      <webElementGuid>4fe2bfeb-87ab-4790-82f2-b1ee0d2942b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_1']/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>d3491075-febd-4805-8939-50261523c8be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>c88afdda-2f3f-4d97-a11d-1bb1a46e8304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@class = 'slds-grid slds-media__body' and (text() = 'LeadsRecently ViewedSelect a List ViewThis list is pinnedTo unpin, pin another list view' or . = 'LeadsRecently ViewedSelect a List ViewThis list is pinnedTo unpin, pin another list view')]</value>
+      <webElementGuid>e2a73e8b-19ee-4bf2-8a75-81fc3db7ddf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delete</name>
+   <tag></tag>
+   <elementGuidId>dd6696de-7b0a-45c8-b805-39c9149dc4f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, &quot;modal-footer&quot;)]//button[@title=&quot;Delete&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8bb68e9-316b-4812-9f8c-abf68b49fa4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>e781526b-0a74-4087-ac71-0e3cd231a86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> label bBody</value>
+      <webElementGuid>9fae3b12-05ef-46ce-8958-9e58835be32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>6698:0</value>
+      <webElementGuid>d7991e97-3386-495d-8bcf-2db334c5ac6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>e2e59302-4cd9-4dde-b237-51686c81b7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess tablet&quot;]/div[@class=&quot;DESKTOP uiContainerManager&quot;]/div[@class=&quot;DESKTOP uiModal forceModal open active&quot;]/div[@class=&quot;panel slds-modal slds-fade-in-open&quot;]/div[@class=&quot;modal-container slds-modal__container&quot;]/div[@class=&quot;modal-footer slds-modal__footer&quot;]/div[@class=&quot;forceModalActionContainer--footerAction forceModalActionContainer&quot;]/button[@class=&quot;slds-button slds-button--neutral uiButton--default uiButton--brand uiButton forceActionButton&quot;]/span[@class=&quot;label bBody&quot;]</value>
+      <webElementGuid>efa85269-a1b7-4e93-ad92-09db3cb710f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[1]</value>
+      <webElementGuid>1bc3011c-e3f6-4645-960e-665e2a47fb0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this person account?'])[1]/following::span[2]</value>
+      <webElementGuid>e62e0582-062d-471d-bc04-0275ca73ac0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/preceding::span[1]</value>
+      <webElementGuid>b5ea1af4-70e5-4767-b95a-6ca4205b0d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = ' label bBody' and (text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>c12499fa-34b5-4299-b8bb-e99ec072a838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/button[2]/span</value>
+      <webElementGuid>bf27da0c-3735-4687-9215-b33c587e0ee1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

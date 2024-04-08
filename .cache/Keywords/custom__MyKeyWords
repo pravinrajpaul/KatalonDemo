@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "6C649ACE521CC51AB8CDDC67966C866E",
+  "keywordClasses": [
+    {
+      "name": "custom.MyKeyWords",
+      "keywordMethods": [
+        {
+          "name": "process",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

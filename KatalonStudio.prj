@@ -7,9 +7,10 @@
    <createdVersion>9.3.1</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedVersion>9.3.1</modifiedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.3.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/pravinr/Documents/dev/katalon/KatalonDemo/KatalonStudio.prj</projectFileLocation>
+   <projectFileLocation>D:\Development\Katalon Studio\KatalonDemo\KatalonStudio.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

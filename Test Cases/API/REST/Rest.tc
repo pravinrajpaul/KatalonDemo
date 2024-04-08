@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rest</name>
+   <tag>Rest, Smoke</tag>
+   <comment></comment>
+   <testCaseGuid>084c29be-2b07-429c-8cca-1fe029cdbd4d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>990c020d-5f51-4506-8a75-a38b76552e90</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ContactDetails-SIT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>096a63e5-7534-4e8e-91bc-69439585cb7a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>990c020d-5f51-4506-8a75-a38b76552e90</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>City</value>
+      <variableId>db926443-b7ee-426d-9083-5d3bbf0c32fd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cc7fd1a-f6f2-492c-a9af-1298b7e7fb89</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>096a63e5-7534-4e8e-91bc-69439585cb7a</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pravin'</defaultValue>
+      <description></description>
+      <id>db926443-b7ee-426d-9083-5d3bbf0c32fd</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'10:15AM'</defaultValue>
+      <description></description>
+      <id>0cc7fd1a-f6f2-492c-a9af-1298b7e7fb89</id>
+      <masked>false</masked>
+      <name>time</name>
+   </variable>
+</TestCaseEntity>

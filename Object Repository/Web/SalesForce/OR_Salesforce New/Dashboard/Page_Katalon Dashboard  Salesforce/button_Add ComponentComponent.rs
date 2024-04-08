@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add ComponentComponent</name>
+   <tag></tag>
+   <elementGuidId>d7c358ad-0a86-4424-9d91-f2c545d4c7fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Dashboard name'])[2]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_brand.addComponent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a163d9e-8cc7-48a6-9fd9-a3092185e66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_brand addComponent</value>
+      <webElementGuid>64d56bc4-a2bb-4875-9a05-5053757df88f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3bee365a-ac48-4280-b7da-7ce4cd1b19ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add ComponentComponent</value>
+      <webElementGuid>ab50de59-bf9e-477b-95ce-ce40cfb16e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;01Z5D000000EeERUA0 dashboardApp&quot;]/div[@class=&quot;toolbar&quot;]/div[2]/div[@class=&quot;toolbarActions&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;slds-button slds-button_brand addComponent&quot;]</value>
+      <webElementGuid>01cc7bc5-f667-45f1-9e5b-cdd4599aa13e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR_Salesforce New/Dashboard/Page_New Dashboard  Salesforce/iframe_Show actions_sfxdash-iframe2</value>
+      <webElementGuid>0269e290-a5bc-4513-9bbf-667fde918a23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Dashboard name'])[2]/following::button[1]</value>
+      <webElementGuid>a79f4e53-5daa-4fae-a816-614f11be2b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Component']/parent::*</value>
+      <webElementGuid>cb76d747-b05f-4e7a-adcb-74d450f4b3ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@class = 'slds-button slds-button_brand addComponent' and @type = 'button' and (text() = 'Add ComponentComponent' or . = 'Add ComponentComponent')]</value>
+      <webElementGuid>07f5043f-e78f-4900-9fc8-ccfeeb40d7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f7e81d89-e18b-48a4-93f0-b8a4ba539d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>b9df8598-77d9-48d1-a034-ba773135ebe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button</value>
+      <webElementGuid>67e99ad9-ba48-4f4b-870a-4e92dbd5e462</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

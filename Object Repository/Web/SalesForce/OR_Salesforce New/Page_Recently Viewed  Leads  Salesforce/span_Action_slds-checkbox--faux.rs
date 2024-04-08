@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Action_slds-checkbox--faux</name>
+   <tag></tag>
+   <elementGuidId>22b32f66-498b-4390-8fe0-38ffe62b70c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//*[@role='grid']//tr[1]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-grid.slds-grid--align-spread.slds-align_absolute-center.checkbox-container.uiInput.forceVirtualCheckbox.uiInput--default > label.slds-checkbox > span.slds-checkbox--faux</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d27ca836-6b5b-421f-a288-ed6707c54963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-checkbox--faux</value>
+      <webElementGuid>dbee0cce-136c-445b-8e06-5823693bb7ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>2582:0</value>
+      <webElementGuid>72efd70d-e7fa-4dd5-9a55-bbd506d4c21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_1&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;windowViewMode-maximized oneContent active lafPageHost&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-grid listDisplays safari-workaround-anchor&quot;]/div[@class=&quot;slds-grid listViewContainer safari-workaround&quot;]/div[@class=&quot;slds-col slds-no-space forceListViewManagerPrimaryDisplayManager&quot;]/div[@class=&quot;undefined forceListViewManagerGrid&quot;]/div[@class=&quot;listViewContent slds-table--header-fixed_container&quot;]/div[@class=&quot;uiScroller scroller-wrapper scroll-bidirectional native&quot;]/div[@class=&quot;scroller actionBarPlugin&quot;]/div[@class=&quot;slds-table--edit_container slds-is-relative  inlineEdit--enabled keyboardMode--inactive inlineEditGrid forceInlineEditGrid&quot;]/table[@class=&quot;slds-table forceRecordLayout slds-table--header-fixed slds-table--edit slds-table--bordered resizable-cols slds-table--resizable-cols uiVirtualDataTable slds-no-cell-focus&quot;]/tbody[1]/tr[1]/td[@class=&quot;slds-cell-edit cellContainer&quot;]/span[@class=&quot;slds-grid slds-grid--align-spread&quot;]/span[@class=&quot;slds-grid slds-grid--align-spread slds-align_absolute-center checkbox-container uiInput forceVirtualCheckbox uiInput--default&quot;]/label[@class=&quot;slds-checkbox&quot;]/span[@class=&quot;slds-checkbox--faux&quot;]</value>
+      <webElementGuid>f16f0483-978c-4f52-9c7d-8e4318c4aa4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_1']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr/td[2]/span/span/label/span</value>
+      <webElementGuid>4f419527-1da6-43a9-9d79-9f6efe38e176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/label/span</value>
+      <webElementGuid>d4feebbf-4548-4aa2-ad67-d3c589db0f3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

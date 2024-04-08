@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Existing problem</name>
+   <tag></tag>
+   <elementGuidId>4cd6ed23-6bfc-4f2c-a7e3-b6a413bdea5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Existing problem&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text()='Existing problem')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3212493-ff43-43ae-9aca-4bab71a9c3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>17989:0</value>
+      <webElementGuid>20d58692-132c-4c31-8b38-2ef35d8fb356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>e8279661-01ed-4f34-887d-ff5fb33e1e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitemradio</value>
+      <webElementGuid>aa94e374-3b3a-4bcb-9e2b-6ff1e0b9dc1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f8c416eb-e9a7-41ec-8061-bd7e46b1bab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f4a09c6b-7356-46a7-b2de-1e8635e37ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Existing problem</value>
+      <webElementGuid>1befcf96-8ce8-4720-954f-89bca1b1c357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0e52400c-6cf9-4272-beda-91248923126d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Existing problem</value>
+      <webElementGuid>a00c6183-f579-4094-9298-deccf2912c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;17295:0&quot;)/div[@class=&quot;select-options&quot;]/ul[@class=&quot;scrollable&quot;]/li[@class=&quot;uiMenuItem uiRadioMenuItem&quot;]/a[1]</value>
+      <webElementGuid>1eda1b08-c4eb-4921-9a51-7fd149cad4e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complex functionality'])[1]/following::a[1]</value>
+      <webElementGuid>36c3ab7e-1932-4955-a75b-f7416001bc8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('User didn', &quot;'&quot;, 't attend training')])[1]/following::a[2]</value>
+      <webElementGuid>ac7c2d41-f8a9-46ed-b58f-d54935927f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions not clear'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff61d21e-8231-4355-a6b9-1edff3507b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New problem'])[1]/preceding::a[2]</value>
+      <webElementGuid>a037eb04-b638-4514-a369-60e2d2c532f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Existing problem']/parent::*</value>
+      <webElementGuid>ca281b20-26eb-4da7-b9a2-f406082d7a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and @role = 'menuitemradio' and @title = 'Existing problem' and (text() = 'Existing problem' or . = 'Existing problem')]</value>
+      <webElementGuid>47cf5452-996d-4116-9aff-4003c27eff79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='17295:0']/div/ul/li[4]/a</value>
+      <webElementGuid>ab8d36fc-9f85-47c3-96b7-b4dab2752fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Existing problem')]</value>
+      <webElementGuid>b3c8a44e-aa71-4f45-88f1-8e7d024959e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[48]</value>
+      <webElementGuid>56ba2ade-4a76-45ef-b285-8db4e6631463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/ul/li[4]/a</value>
+      <webElementGuid>795aeeb2-0f00-4eba-b74c-83c1ce49f93b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

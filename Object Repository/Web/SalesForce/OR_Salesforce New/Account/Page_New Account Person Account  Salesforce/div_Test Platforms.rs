@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test Platforms</name>
+   <tag></tag>
+   <elementGuidId>58e00ec6-359a-474b-957f-8fc24b648826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#group-label-479</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools Using'])[1]/following::div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3538e1c-80b9-4c5d-8265-08748d997307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__label slds-form-element__legend</value>
+      <webElementGuid>355dc9e0-7a73-46fa-9981-8911e0638c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>group-label-479</value>
+      <webElementGuid>cf0321d0-532d-4fcf-9cf6-686875e4592d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Platforms</value>
+      <webElementGuid>6f94336e-0dae-4a0e-82e3-5987e375cf54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-label-479&quot;)</value>
+      <webElementGuid>fd297709-3b51-4d3e-8b9b-df19cb0a17ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools Using'])[1]/following::div[10]</value>
+      <webElementGuid>24008391-fbb3-43ba-bca2-337710ba22a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[4]/following::div[21]</value>
+      <webElementGuid>5cdd34f7-99df-4a39-914f-1fcd69d21201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/preceding::div[3]</value>
+      <webElementGuid>e2fd7b9b-28be-4a60-bb10-09a86ae3b2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web'])[1]/preceding::div[3]</value>
+      <webElementGuid>75442629-8f68-42bf-bf0c-2d73e285a6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Platforms']/parent::*</value>
+      <webElementGuid>bc9c4c2e-fb45-483c-8903-0a4ee5ede243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@class = 'slds-form-element__label slds-form-element__legend' and @id = 'group-label-479' and (text() = 'Test Platforms' or . = 'Test Platforms')]</value>
+      <webElementGuid>280c4bf0-2ba8-4e78-86d3-a6ba27f8405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='group-label-479']</value>
+      <webElementGuid>6fb35c0e-24b4-49ce-969c-65816cf55230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3455:0']/div/div[14]/div/div/div/lightning-picklist/lightning-dual-listbox/div/div</value>
+      <webElementGuid>e881d2b0-a57a-4b25-91fa-673f12a8d2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-dual-listbox/div/div</value>
+      <webElementGuid>90a998ec-c9d1-4943-b864-2389c9cefd89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

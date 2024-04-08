@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Public Reports_1</name>
+   <tag></tag>
+   <elementGuidId>45c1bffe-d44b-47fb-aae4-09fcd11425dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//a[@data-id='public_reports']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.reportCellFolderName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f6dd1abc-2246-4c0a-85f3-cc5322893320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reportCellFolderName</value>
+      <webElementGuid>470dec81-bcef-4eb8-8e1a-30a87e8250f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Open folder Public Reports</value>
+      <webElementGuid>6558ea8b-366e-43f0-9ce5-a84ff89ccd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b88f5d5c-df98-494e-acca-6841ca35de18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Public Reports</value>
+      <webElementGuid>4aef89ee-0a5e-4c70-a749-7b9778df4c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qZTFsuy2k-modal-content&quot;)/div[@class=&quot;reportSearchDialog&quot;]/div[@class=&quot;reportFolderInfoContent&quot;]/div[@class=&quot;list-results-table&quot;]/div[@class=&quot;tableWrapper&quot;]/table[@class=&quot;longTable slds-table slds-table_bordered slds-table_cell-buffer slds-table_fixed-layout&quot;]/tbody[1]/tr[@class=&quot;datarow&quot;]/td[@class=&quot;datacell&quot;]/div[@class=&quot;datacell-content datacell-report&quot;]/p[@class=&quot;reportCellMetadata&quot;]/a[@class=&quot;reportCellFolderName&quot;]</value>
+      <webElementGuid>3edef0b6-54f6-4ceb-bbf1-a1b5db8a367e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR_Salesforce New/Dashboard/Page_New Dashboard  Salesforce/iframe_Show actions_sfxdash-iframe2</value>
+      <webElementGuid>d9b86770-cb0a-4cdd-acd4-c8c38506a435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Reports'])[1]/following::a[1]</value>
+      <webElementGuid>5ecf1234-cc7b-44fc-95ea-04644711912c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports and Folders'])[1]/following::a[1]</value>
+      <webElementGuid>2e7415c5-2a42-446f-9cde-d9ca0047c891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account not owned by CSMs'])[1]/preceding::a[1]</value>
+      <webElementGuid>4876060e-998f-4207-b29a-efeca7dec5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public Reports'])[3]/preceding::a[1]</value>
+      <webElementGuid>c1fbc882-b4aa-4778-ab25-f5fa1acc4008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@class = 'reportCellFolderName' and @title = 'Open folder Public Reports' and (text() = 'Public Reports' or . = 'Public Reports')]</value>
+      <webElementGuid>ac165323-49e2-42b7-81ef-1ea6b7883358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qZTFsuy2k-modal-content']/div/div[2]/div[2]/div/table/tbody/tr[2]/td/div/p/a</value>
+      <webElementGuid>b4c1dc9e-ad36-449a-881f-076ade1b6c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Public Reports')])[2]</value>
+      <webElementGuid>e21d886d-8762-41b2-a486-b16da83e8d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>322c0650-d157-4bac-b3cb-2825e75872ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
