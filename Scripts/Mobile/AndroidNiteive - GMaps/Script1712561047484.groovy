@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.google.android.apps.maps')
 
-CustomKeywords.'com.katalon.testcloud.GeolocationExecutor.setMobileGeoLocation'(38.8709, 77.0552, 23)
+CustomKeywords.'com.katalon.testcloud.GeolocationExecutor.setMobileGeoLocation'(38.8709, -77.0552, 23)
 
 Mobile.delay(15, FailureHandling.STOP_ON_FAILURE)
 
