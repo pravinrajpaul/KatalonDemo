@@ -23,7 +23,7 @@ CustomKeywords.'com.katalon.testcloud.GeolocationExecutor.setMobileGeoLocation'(
 
 Mobile.delay(15, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.takeScreenshot('geo.png', FailureHandling.STOP_ON_FAILURE)
+Mobile.takeScreenshotAsCheckpoint('geo.png', [])
 
 Mobile.closeApplication()
 

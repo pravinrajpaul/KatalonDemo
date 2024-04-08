@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FilteringTestSuiteEntity>
+<TestSuiteEntity>
    <description></description>
-   <name>Testsuite</name>
+   <name>AndroidNative - Geolocation</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>b6be45d1-2617-462c-b7ce-271ebfd0e5e3</testSuiteGuid>
-   <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
-   <filteringExtension></filteringExtension>
-   <filteringPlugin></filteringPlugin>
-   <filteringText>tag=(Rest) </filteringText>
-</FilteringTestSuiteEntity>
+   <testSuiteGuid>a546b778-1972-4a20-9adc-fa54f37fb4e8</testSuiteGuid>
+</TestSuiteEntity>
