@@ -19,24 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('http://192.168.1.12:3000/')
 
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/a_Home'))
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/a_Make Appointment'))
-
-WebUI.setText(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/input_Username_username'), 'dfsdf')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/input_Password_password'), 'dsff=')
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/button_Login'))
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'), 
-    'Login failed! Please ensure the username and password are valid.')
+WebUI.verifyElementText(findTestObject('Object Repository/Web/ReactBasic/Page_React App/p_Edit srcApp.js and save to reload'), 
+    'Edit src/App.js and save to reload.')
 
 WebUI.closeBrowser()
 

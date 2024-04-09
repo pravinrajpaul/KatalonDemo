@@ -17,26 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/a_Home'))
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/a_Make Appointment'))
-
-WebUI.setText(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/input_Username_username'), 'dfsdf')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/input_Password_password'), 'dsff=')
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/button_Login'))
-
-WebUI.click(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Demo/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'), 
-    'Login failed! Please ensure the username and password are valid.')
-
-WebUI.closeBrowser()
+response = WS.sendRequest(findTestObject('API/ReactBasic/GetReactBasicHomePage'))
+response = response.toString()
+assert response == '200 312 bytes'
 

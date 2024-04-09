@@ -22,13 +22,13 @@ Mobile.startApplication('Resources/Mobile/Apk/Telegram.apk', true)
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Start Messaging'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView'), 0)
+Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView -  USA'), 0)
 
 Mobile.scrollToText('Benin')
 
 Mobile.tap(findTestObject('Mobile/AndroidNative - Telegram/android.widget.TextView - 229'), 0, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView'), 0)
+Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView -  USA'), 0)
 
 Mobile.scrollToText('Benin')
 
