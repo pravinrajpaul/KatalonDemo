@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "55FE881A3F5768050D1B670743CFB0BF",
+  "keywordClasses": [
+    {
+      "name": "mongoDb.Functions",
+      "keywordMethods": [
+        {
+          "name": "connectDB",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

@@ -22,7 +22,7 @@ WebUI.enhancedClick(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Pag
 WebUI.waitForElementPresent(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Recently Viewed  Accounts  Salesforce/div_New'), 
     5)
 
-CustomKeywords.'webKeywords.ApplicationFunction.moveToElement'(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Recently Viewed  Accounts  Salesforce/div_New'))
+CustomKeywords.'web.ApplicationFunction.moveToElement'(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Recently Viewed  Accounts  Salesforce/div_New'))
 
 WebUI.click(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_New Account  Salesforce/span_For business customers_slds-radio--faux'))
 
