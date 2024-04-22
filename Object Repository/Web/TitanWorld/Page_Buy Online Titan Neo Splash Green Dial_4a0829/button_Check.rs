@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Check</name>
+   <tag></tag>
+   <elementGuidId>08f1b665-9161-42a4-a83c-6a170b6521d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.check-button.js-delivery-check-btn.btn.btn-large.tw-btn-tertiary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div[2]/div[2]/div/div/div[3]/div/div/div/div[2]/div[6]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Check&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6bd17dc7-1ed9-4f31-ac72-c23469f4e101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check-button js-delivery-check-btn btn btn-large tw-btn-tertiary</value>
+      <webElementGuid>d84bc90b-8472-4152-83cb-944e8f3c74d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>/on/demandware.store/Sites-Titan-Site/en_IN/AddressCheck-Show</value>
+      <webElementGuid>6ff83dd8-32cf-49d3-bffc-6b42e7bdff79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Check
+</value>
+      <webElementGuid>ea32147d-9f90-4f07-a755-b2e5d6152b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;pdp-global-container tw-raga&quot;]/div[@class=&quot;product-wrapper-raga-nebula&quot;]/div[@class=&quot;container product-detail product-wrapper tw-pdp-raga&quot;]/div[@class=&quot;row justify-content-end no-gutters&quot;]/div[@class=&quot;col-12 col-lg-5 col-md-6 product-details-section tw-pdp-raga&quot;]/div[@class=&quot;product-details-container&quot;]/div[@class=&quot;h-limit&quot;]/div[@class=&quot;inner-h-limit&quot;]/div[@class=&quot;attributes w-100&quot;]/div[@class=&quot;delivery-check&quot;]/div[@class=&quot;serviceability-wrapper d-flex justify-content-between&quot;]/button[@class=&quot;check-button js-delivery-check-btn btn btn-large tw-btn-tertiary&quot;]</value>
+      <webElementGuid>8c14ce05-5c5f-46bb-bf7d-29f64b7ca591</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div[2]/div[2]/div/div/div[3]/div/div/div/div[2]/div[6]/div[2]/button</value>
+      <webElementGuid>b53a9670-01f7-478e-87c6-09b743fdbd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pincode'])[1]/following::button[1]</value>
+      <webElementGuid>971914c3-81d4-4ce4-9de7-b912b1b40258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[3]/following::button[1]</value>
+      <webElementGuid>fadf065c-bd80-4262-b5f4-7ae72a907cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dispatch By 23rd Apr 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9244d20-f8c5-4962-a846-a2e936d39cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter a valid value'])[1]/preceding::button[1]</value>
+      <webElementGuid>55aaf701-855e-45f1-a05a-653325e44354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check']/parent::*</value>
+      <webElementGuid>48584540-dd7b-4c5f-9999-c83e67bf3fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/button</value>
+      <webElementGuid>d7455943-6910-4fb1-a853-db917a1ff7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+Check
+' or . = '
+Check
+')]</value>
+      <webElementGuid>c997fad8-384f-4a07-99e6-56d6feba7f2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

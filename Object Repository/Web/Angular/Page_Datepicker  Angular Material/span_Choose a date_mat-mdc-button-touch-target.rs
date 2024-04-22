@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choose a date_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>e8fe0499-294a-413a-9e85-72d7c40978be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mat-tab-nav-panel-0&quot;)/component-overview[@class=&quot;ng-star-inserted&quot;]/doc-viewer[@class=&quot;docs-component-view-text-content docs-component-overview ng-star-inserted&quot;]/div[@class=&quot;docs-markdown&quot;]/div[1]/example-viewer[@id=&quot;datepicker-overview&quot;]/div[@class=&quot;docs-example-viewer-wrapper&quot;]/div[@class=&quot;docs-example-viewer-body ng-star-inserted&quot;]/datepicker-overview-example[@class=&quot;ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-mdc-form-field ng-tns-c2306706986-3 mat-mdc-form-field-type-mat-input mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-fill mat-form-field-hide-placeholder mat-primary ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-text-field-wrapper mdc-text-field ng-tns-c2306706986-3 mdc-text-field--filled&quot;]/div[@class=&quot;mat-mdc-form-field-flex ng-tns-c2306706986-3&quot;]/div[@class=&quot;mat-mdc-form-field-icon-suffix ng-tns-c2306706986-3 ng-star-inserted&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle ng-tns-c2306706986-3&quot;]/button[@class=&quot;mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mdc-icon-button.mat-mdc-icon-button.mat-unthemed.mat-mdc-button-base.cdk-focused.cdk-mouse-focused > span.mat-mdc-button-touch-target</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//example-viewer[@id='datepicker-overview']/div/div[2]/datepicker-overview-example/mat-form-field/div/div[2]/div[2]/mat-datepicker-toggle/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>datepicker-overview-example >> internal:label=&quot;Open calendar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb59a9a7-58bf-4efd-845c-a817f3120543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>4f14fc5f-bf5f-4197-8cfc-110f094d18d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-nav-panel-0&quot;)/component-overview[@class=&quot;ng-star-inserted&quot;]/doc-viewer[@class=&quot;docs-component-view-text-content docs-component-overview ng-star-inserted&quot;]/div[@class=&quot;docs-markdown&quot;]/div[1]/example-viewer[@id=&quot;datepicker-overview&quot;]/div[@class=&quot;docs-example-viewer-wrapper&quot;]/div[@class=&quot;docs-example-viewer-body ng-star-inserted&quot;]/datepicker-overview-example[@class=&quot;ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-mdc-form-field ng-tns-c2306706986-3 mat-mdc-form-field-type-mat-input mat-mdc-form-field-has-icon-suffix mat-form-field-appearance-fill mat-form-field-hide-placeholder mat-primary ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-text-field-wrapper mdc-text-field ng-tns-c2306706986-3 mdc-text-field--filled&quot;]/div[@class=&quot;mat-mdc-form-field-flex ng-tns-c2306706986-3&quot;]/div[@class=&quot;mat-mdc-form-field-icon-suffix ng-tns-c2306706986-3 ng-star-inserted&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle ng-tns-c2306706986-3&quot;]/button[@class=&quot;mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>3d968f1a-cff0-4c9f-8eb5-c5a1c02a768a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//example-viewer[@id='datepicker-overview']/div/div[2]/datepicker-overview-example/mat-form-field/div/div[2]/div[2]/mat-datepicker-toggle/button/span[3]</value>
+      <webElementGuid>c1487836-f0e4-4b53-8e94-677468ff89d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-datepicker-toggle/button/span[3]</value>
+      <webElementGuid>953a59dc-eee9-4d13-8c82-9f1acc24257d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

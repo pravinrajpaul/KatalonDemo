@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Neo Splash</name>
+   <tag></tag>
+   <elementGuidId>f4a98867-d6e9-41fa-9da8-c00d1318357d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#neo-splash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='neo-splash']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;watches-for-men&quot;i >> internal:text=&quot;Neo Splash&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e37bd61-523b-4aa6-abc6-df7af16b563d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shop/neo-splash?lang=en_IN</value>
+      <webElementGuid>04e4721d-783d-4170-a620-f2ece5b066cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>neo-splash</value>
+      <webElementGuid>1671bc65-b16e-4bb2-8c19-a2f9f2674a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>5f01d06f-ba21-47c4-ab65-96ad6493c2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-link menu p-0 column-header-font-2 column-header-color-2 </value>
+      <webElementGuid>ba97ad96-c32d-493c-877e-511f8d5a4d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e5e9e1c7-ae32-4342-b0b3-061ec73230f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Neo Splash
+</value>
+      <webElementGuid>7ef5286c-12bc-4f21-97db-5d1c2aab0d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page&quot;]/div[@id=&quot;sg-navbar-collapse&quot;]/nav[@class=&quot;navbar navbar-expand-lg bg-inverse col-12 nav-bar-mobile&quot;]/div[@class=&quot;menu-group d-none d-xl-block headings px-1 js-mega-nav&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav navbar-nav nav-item header-menu-ul m-0&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/ul[1]/div[@class=&quot;align-items-baseline category-menu-item&quot;]/li[@class=&quot;dropdown-item dropdown mega-menu-l2 py-c-1 d-flex&quot;]/ul[1]/div[@class=&quot;align-items-baseline category-menu-item&quot;]/li[@class=&quot;collection_click dropdown-item dropdown py-c-1 d-flex gtm_collection_click&quot;]/a[@id=&quot;neo-splash&quot;]</value>
+      <webElementGuid>3629ed29-cedf-40ae-9b3f-5a9df2205a7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='neo-splash']</value>
+      <webElementGuid>7a225a4b-3aa5-43e3-b291-9615a7af90f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sg-navbar-collapse']/nav/div[2]/div/ul/li/div/ul/div/li[8]/ul/div/li[5]/a</value>
+      <webElementGuid>f74bbc03-0186-447b-83b1-79a231ea8f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Neo Splash')]</value>
+      <webElementGuid>65dce77f-b768-4d59-be50-160b6b455870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edge Ceramic'])[1]/following::a[1]</value>
+      <webElementGuid>0a7b5e66-067b-4b75-ab91-5cbfcd933317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quartet'])[1]/following::a[2]</value>
+      <webElementGuid>40eb8f60-3ec8-4f32-9389-49aeb66b7f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aerobatics'])[1]/preceding::a[1]</value>
+      <webElementGuid>f865c624-b5d7-4055-9e0e-d6a305103f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Light Leather'])[1]/preceding::a[2]</value>
+      <webElementGuid>0a2ad180-6591-422a-a0f7-fe4cf8c22f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neo Splash']/parent::*</value>
+      <webElementGuid>2fee0a69-b1fe-4e0f-a2e8-70f7ad06e519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shop/neo-splash?lang=en_IN')]</value>
+      <webElementGuid>0d6ce263-d1fa-4874-ab7e-236e3d45eae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/div/li[5]/a</value>
+      <webElementGuid>4338bad7-61ff-4070-8021-cab72c05b0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shop/neo-splash?lang=en_IN' and @id = 'neo-splash' and (text() = '
+Neo Splash
+' or . = '
+Neo Splash
+')]</value>
+      <webElementGuid>3bb1b664-636c-4373-96c3-699ba84572d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
