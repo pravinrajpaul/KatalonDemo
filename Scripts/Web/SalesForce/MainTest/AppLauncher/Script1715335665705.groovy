@@ -39,6 +39,11 @@ WebUI.waitForElementVisible(findTestObject('Web/SalesForce/Page_Home  Salesforce
 
 WebUI.click(findTestObject('Object Repository/Web/SalesForce/Page_Home  Salesforce/div_Contacts'))
 
+WebUI.waitForElementVisible(findTestObject('Web/SalesForce/Page_Recently Viewed  Contacts  Salesforce/span_Contacts'), 0)
+
+WebUI.setText(findTestObject('Web/SalesForce/Page_Recently Viewed  Contacts  Salesforce/input_Search this list_Contact-search-input'), 
+    'Pravin')
+
 WebUI.delay(5)
 
 WebUI.closeBrowser()
