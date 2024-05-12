@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://www.titan.co.in/')
 
 WebUI.waitForElementVisible(findTestObject('Web/TitanWorld/Page_Titan The Official Website for Titan W_a22814/button_Allow'), 
@@ -37,7 +39,7 @@ WebUI.mouseOver(findTestObject('Object Repository/Web/TitanWorld/Page_Titan The 
 
 WebUI.click(findTestObject('Object Repository/Web/TitanWorld/Page_Titan The Official Website for Titan W_a22814/a_Neo Splash'))
 
-WebUI.click(findTestObject('Object Repository/Web/TitanWorld/Page_Buy Neo Splash watches for men online _dda3bf/h5_Titan Neo Splash Green Dial Quartz Analo_074d01'))
+WebUI.click(findTestObject('Web/TitanWorld/Page_Buy Online Titan Neo Splash Green Dial_4a0829/Page_Buy Neo Splash watches for men online at the best price  Titan/h5_Titan Neo Splash Brown Dial Analog with Date Stainless Steel Strap Watch for Men'))
 
 WebUI.click(findTestObject('Object Repository/Web/TitanWorld/Page_Buy Online Titan Neo Splash Green Dial_4a0829/span_Pincode'))
 

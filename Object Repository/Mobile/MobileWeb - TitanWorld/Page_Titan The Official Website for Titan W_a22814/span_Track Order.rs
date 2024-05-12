@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Track Order</name>
+   <tag></tag>
+   <elementGuidId>e4bb23d1-c4cc-4c35-b875-f4d77c18eddc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sg-navbar-collapse']/nav/div[4]/div/ul/li/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mobile-add-menu__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Track Order&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48a5a6e2-b903-427d-83f5-7aefc08b4c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mobile-add-menu__label</value>
+      <webElementGuid>9289b372-4a7a-479c-8514-1f83faceb44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Track Order </value>
+      <webElementGuid>14056189-434b-4354-bb87-17d57355eb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sliding-modal-open&quot;]/div[@class=&quot;page&quot;]/div[@id=&quot;sg-navbar-collapse&quot;]/nav[@class=&quot;navbar navbar-expand-lg bg-inverse col-12 nav-bar-mobile level-1&quot;]/div[@class=&quot;mobile-add-menu w-100 d-xl-none&quot;]/div[@class=&quot;content-asset&quot;]/ul[@class=&quot;list-unstyled p-0&quot;]/li[1]/div[@class=&quot;track-order-btn&quot;]/a[1]/span[@class=&quot;mobile-add-menu__label&quot;]</value>
+      <webElementGuid>51fa51c5-a1fb-4b18-833b-5596fcd8c860</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sg-navbar-collapse']/nav/div[4]/div/ul/li/div/a/span</value>
+      <webElementGuid>dc5bb648-ff98-4739-a0f8-1313a61b7f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book An Appointment'])[2]/following::span[1]</value>
+      <webElementGuid>8a78ec58-fca3-4673-8db6-e342c324a8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find A Store'])[3]/following::span[1]</value>
+      <webElementGuid>d8206a37-e626-4828-ace5-0297c0c34193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[3]/preceding::span[1]</value>
+      <webElementGuid>5a2aae27-59ea-4a01-8a37-c36b14a1f083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eGift Card'])[1]/preceding::span[2]</value>
+      <webElementGuid>217b56b1-89d4-49ef-9ae1-362351e68bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a/span</value>
+      <webElementGuid>f4424efe-4711-437e-aeaa-5de48baba50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Track Order ' or . = ' Track Order ')]</value>
+      <webElementGuid>a7479888-1aed-45b7-bdeb-a20fc475f2c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

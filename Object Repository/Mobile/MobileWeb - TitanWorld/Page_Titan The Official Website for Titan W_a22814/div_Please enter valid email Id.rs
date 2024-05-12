@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please enter valid email Id</name>
+   <tag></tag>
+   <elementGuidId>cb735363-a7f2-4e74-8c6e-7829330f9b1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Please enter valid email Id&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02d23453-8a8d-4c70-a772-0b26a08f72bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email-error</value>
+      <webElementGuid>10a69d17-4442-474a-903c-256c03dd1344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left custom-email-error track-error-msg</value>
+      <webElementGuid>d3df380b-2457-47fb-a484-56aa3567c048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter valid email Id</value>
+      <webElementGuid>9a242f0a-9c99-4883-bdb6-5877336e13bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email-error&quot;)</value>
+      <webElementGuid>5b291a87-bd8e-4d69-ab8f-44c668e4d4ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='email-error']</value>
+      <webElementGuid>c8233853-1b72-43f3-8c4e-6b8a70d4bbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='&quot;dwfrm_orderTrackingForm&quot;']/div/div/div</value>
+      <webElementGuid>c01bd212-22bc-4575-8e2f-4b64b3795225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address*'])[1]/following::div[1]</value>
+      <webElementGuid>612ad158-b28a-4682-8912-5efa30647323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wearable Privacy Policy'])[1]/following::div[17]</value>
+      <webElementGuid>1f04d1f5-ce9c-40df-ba93-148206d77909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Number*'])[1]/preceding::div[1]</value>
+      <webElementGuid>9204d96c-b9fb-42dc-941d-fbd33b4fb3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid order number'])[1]/preceding::div[1]</value>
+      <webElementGuid>e811fccf-4694-4aea-951e-a81f186c9d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter valid email Id']/parent::*</value>
+      <webElementGuid>97ccc8f2-8a06-448a-87c3-5e52ff942ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div/div/div</value>
+      <webElementGuid>789adeeb-4303-4e50-bf7e-b4d219a1c161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'email-error' and (text() = 'Please enter valid email Id' or . = 'Please enter valid email Id')]</value>
+      <webElementGuid>645619ab-6f3a-41ce-9a70-0c80ef16071f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

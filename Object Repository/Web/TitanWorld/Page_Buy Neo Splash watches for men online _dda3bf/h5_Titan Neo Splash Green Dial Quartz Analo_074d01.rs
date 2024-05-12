@@ -7,7 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(contains(text(), 'Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men') or contains(., 'Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men'))]</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>a33bc6c0-fed3-4291-9caa-ed26538e5d99</webElementGuid>
+      <webElementGuid>b375eec7-fd52-423d-805d-6cb616ac7a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,17 +40,15 @@
       <name>class</name>
       <type>Main</type>
       <value>link</value>
-      <webElementGuid>0aa4aaa1-1599-4a5b-ba78-08588f315d78</webElementGuid>
+      <webElementGuid>5c0b97ff-942e-44b4-b064-820f405c6efe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
-</value>
-      <webElementGuid>e5b1314e-5285-400b-be3b-ec622a838be6</webElementGuid>
+      <value>Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men</value>
+      <webElementGuid>a32b6f96-0fe3-4975-8f49-95ca0a6b496b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +56,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;product-search-results&quot;)/div[@class=&quot;grid-layout container&quot;]/div[@class=&quot;grid-layout-inner d-flex justify-content-between flex-nowrap&quot;]/div[@class=&quot;tile-grid-wrapper&quot;]/div[@class=&quot;row product-grid&quot;]/div[@class=&quot;col-6 col-sm-4 col-xl-3&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile mb-4 mb-sm-4 mb-md-5&quot;]/div[@class=&quot;tile-body&quot;]/div[@class=&quot;product-name pt-1&quot;]/div[@class=&quot;pdp-link&quot;]/a[1]/h5[@class=&quot;link&quot;]</value>
-      <webElementGuid>dc8bac8d-2ac9-44ab-8ece-50fcb22a97f6</webElementGuid>
+      <webElementGuid>eac01fa0-5d20-4e3b-9608-3033ff86b80c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +64,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product-search-results']/div[13]/div[2]/div[2]/div/div[8]/div/div/div[2]/div/div/a/h5</value>
-      <webElementGuid>9be9ee53-2b83-4ee4-bd39-eb03fe67af03</webElementGuid>
+      <webElementGuid>476b714c-89eb-473c-812f-3e53b0c53033</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +72,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(6)'])[2]/following::h5[1]</value>
-      <webElementGuid>f3b69369-8472-4f64-be51-0c84992adbda</webElementGuid>
+      <webElementGuid>416396ab-7463-4f31-90d8-97700da84ef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +80,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to compare'])[7]/following::h5[1]</value>
-      <webElementGuid>42aeb2e3-8a96-4378-a5f1-5ae7e04b89b8</webElementGuid>
+      <webElementGuid>45ee3ff3-2584-4ded-9249-1345fa670907</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +88,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='₹ 6,545'])[1]/preceding::h5[1]</value>
-      <webElementGuid>5d684540-a36b-43ed-b347-099ec75ab339</webElementGuid>
+      <webElementGuid>10ea3362-09b9-4c32-9f22-1730e53f2482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +96,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men']/parent::*</value>
-      <webElementGuid>2575a24e-6f4d-4416-98f5-2301640706c2</webElementGuid>
+      <webElementGuid>f60c4e50-fbd3-480e-896e-c27abdbab508</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +104,7 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div[2]/div/div/a/h5</value>
-      <webElementGuid>37c3d504-ee42-446a-889f-e4bd4418877e</webElementGuid>
+      <webElementGuid>f6584955-3aad-40ef-9bc5-14c00d0ca70c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +116,6 @@ Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
 ' or . = '
 Titan Neo Splash Green Dial Quartz Analog with Date Fabric Strap watch for Men
 ')]</value>
-      <webElementGuid>048c4f9c-26a8-45f2-a80f-f1c9aa8f5983</webElementGuid>
+      <webElementGuid>ba0d2364-3d9f-4bdf-928d-e21e5de850f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

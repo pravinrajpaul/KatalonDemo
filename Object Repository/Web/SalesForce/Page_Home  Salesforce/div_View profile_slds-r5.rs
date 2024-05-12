@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View profile_slds-r5</name>
+   <tag></tag>
+   <elementGuidId>dab08604-c127-4930-8019-9c1bfcb1c8d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-r5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;App Launcher&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4093b13-c2c5-4acb-8d4a-9909744f5705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-r5</value>
+      <webElementGuid>7aca960c-a69b-4d57-8680-0315b8b53dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop slds-wcag&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess tablet&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide hasFixedFooter&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/div[@class=&quot;slds-context-bar__primary navLeft&quot;]/div[@class=&quot;slds-context-bar__item slds-context-bar_dropdown-trigger slds-dropdown-trigger slds-dropdown-trigger--click slds-no-hover&quot;]/div[@class=&quot;appLauncher slds-context-bar__icon-action&quot;]/one-app-launcher-header[@class=&quot;slds-icon-waffle_container&quot;]/button[@class=&quot;slds-button slds-show&quot;]/div[@class=&quot;slds-icon-waffle&quot;]/div[@class=&quot;slds-r5&quot;]</value>
+      <webElementGuid>6d2347f7-887f-454b-87d5-f6a8f9eec95e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[5]</value>
+      <webElementGuid>b52e0b48-30ef-4ae3-9c03-1d5fad782b57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

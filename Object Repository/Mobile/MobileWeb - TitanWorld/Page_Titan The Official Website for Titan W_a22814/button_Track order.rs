@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Track order</name>
+   <tag></tag>
+   <elementGuidId>911a3135-6423-4fe9-80b1-2ce757d7b9a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.tw-btn-primary.btn-large.btn-block.trackorder-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Track order&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a099d90b-6263-4d5c-ad71-2e1c54eea17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a4b38ef6-b2bb-4920-b168-55ca78b9646b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn tw-btn-primary btn-large btn-block trackorder-btn</value>
+      <webElementGuid>51f96b15-5dd4-4f69-845c-3027ca3019c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>https://www.titan.co.in/on/demandware.store/Sites-Titan-Site/en_IN/Order-GetTrackingForm</value>
+      <webElementGuid>1100b927-0009-4ce1-9599-0dca96908441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Track order</value>
+      <webElementGuid>829b7070-09f6-43bd-9e84-721b4aed9603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trackOrderPopUp&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn tw-btn-primary btn-large btn-block trackorder-btn&quot;]</value>
+      <webElementGuid>1e15758f-6278-4203-92e0-22c88d82d18e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[10]</value>
+      <webElementGuid>46ac0df5-9aad-49b1-a738-d640792c94f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trackOrderPopUp']/div/div/div[3]/button</value>
+      <webElementGuid>6165759e-e998-421f-a162-7280452aeb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Number*'])[1]/following::button[1]</value>
+      <webElementGuid>4870da7d-9fca-40e0-883c-e843b4fe315e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address*'])[1]/following::button[1]</value>
+      <webElementGuid>b4826c28-a95e-46f5-abb3-1c161c3a83a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Titan'])[1]/preceding::button[3]</value>
+      <webElementGuid>4fb31022-3c7e-46c8-b847-792153cccff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to enjoy exclusive member perks.'])[1]/preceding::button[3]</value>
+      <webElementGuid>d8b34174-ac06-47c6-bb3d-9917dabf4bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Track order']/parent::*</value>
+      <webElementGuid>716e98e0-c342-4c93-94dc-5a47e6ea25d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[3]/button</value>
+      <webElementGuid>853e5eed-b0cf-4c85-86c7-db26e2d46efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Track order' or . = 'Track order')]</value>
+      <webElementGuid>9de1e213-bac8-4750-af3e-a68cf0f3fad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

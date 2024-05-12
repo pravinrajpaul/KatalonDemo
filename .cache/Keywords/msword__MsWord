@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "D6D71BB8C84ADA69882E750781E99DE8",
+  "keywordClasses": [
+    {
+      "name": "msword.MsWord",
+      "keywordMethods": [
+        {
+          "name": "readTextFromWord",
+          "parameters": [
+            {
+              "name": "relativeFilePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

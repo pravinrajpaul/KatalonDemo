@@ -21,14 +21,15 @@ import internal.GlobalVariable as GlobalVariable
 //id = CustomKeywords.'mykeywords.CustomKeywords.randomNumber'(6)
 time = LocalDateTime.now()
 
-response = WS.sendRequest(findTestObject('API/Rest/CreaterUser', [('name') : name, ('id') : id, ('time') : time]))
+'@Given Prereq'
+response = WS.sendRequest(findTestObject('API/Rest/CreaterUser'))
 
+'@When \r\nBla bal bla'
 outname = WS.getElementPropertyValue(this.response, 'name')
 
 jsonResponse = new groovy.json.JsonSlurper().parseText(response.getResponseText())
 
 id = jsonResponse.id
-
 
 RequestObject listUser = findTestObject('API/Rest/ListUsers', [('id') : id])
 

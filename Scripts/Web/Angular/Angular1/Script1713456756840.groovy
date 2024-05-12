@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://material.angular.io/components/datepicker/overview'
 
 WebUI.click(findTestObject('Object Repository/Web/Angular/Page_Datepicker  Angular Material/span_Choose a date_mat-mdc-button-touch-target'))
 
-WebUI.click(findTestObject('Object Repository/Web/Angular/Page_Datepicker  Angular Material/span_22'))
+WebUI.click(findTestObject('Object Repository/Web/Angular/Page_Datepicker  Angular Material/span_22', ["date":date]))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Web/Angular/Page_Datepicker  Angular Material/input_Choose a date_mat-input-0'), 
     '')

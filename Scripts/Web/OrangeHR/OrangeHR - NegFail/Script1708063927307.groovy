@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_password'), 'RAIVpflpDOg=')
 
@@ -31,7 +31,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/div_Invalid credentials'), 'Valid Credentials', 
+WebUI.verifyElementText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/div_Invalid credentials'), 'Valid Credential', 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()

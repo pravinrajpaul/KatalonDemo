@@ -36,10 +36,9 @@ Mobile.tap(findTestObject('Web/TitanWorld/Page_Titan The Official Website for Ti
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - TitanWorld/android.widget.TextView - ADD TO CART'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - TitanWorld/android.widget.ImageView'), 0)
+Mobile.tap(findTestObject('Mobile/AndroidNative - TitanWorld/android.widget.FrameLayout'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - TitanWorld/android.widget.TextView - PROCEED TO CHECKOUT'), 
-    0)
+Mobile.tap(findTestObject('Mobile/AndroidNative - TitanWorld/android.widget.TextView - PROCEED TO PAYMENT'), 0)
 
 Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative - TitanWorld/android.widget.TextView - Please add your delivery address to proceed to checkout'), 
     'Please add your delivery address to proceed to checkout')

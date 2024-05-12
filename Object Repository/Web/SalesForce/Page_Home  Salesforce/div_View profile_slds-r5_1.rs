@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View profile_slds-r5_1</name>
+   <tag></tag>
+   <elementGuidId>ab486bf8-4b65-4dfe-9e4e-3525cb5a3c84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-r5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//one-app-launcher-header[@id='window']/button/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;App Launcher&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8df04e58-a7f0-4190-b760-fa4512bc8478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-r5</value>
+      <webElementGuid>872dcc0c-868c-47c5-a091-14a595d196aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;window&quot;)/button[@class=&quot;slds-button slds-show&quot;]/div[@class=&quot;slds-icon-waffle&quot;]/div[@class=&quot;slds-r5&quot;]</value>
+      <webElementGuid>de084149-4aa5-48c5-bd03-b50246133465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//one-app-launcher-header[@id='window']/button/div/div[5]</value>
+      <webElementGuid>0281be7d-4772-46ba-b950-81d87f7f4a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[5]</value>
+      <webElementGuid>0f397224-9092-44fa-807d-bac86a13a723</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

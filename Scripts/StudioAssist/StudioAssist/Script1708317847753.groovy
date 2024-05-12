@@ -27,7 +27,6 @@ import org.openqa.selenium.Keys as Keys
  Click the search button
  Navigate to the first result
  */
-
  
  
  /**
@@ -40,3 +39,5 @@ import org.openqa.selenium.Keys as Keys
   Then click next button
   You should get warning message that the phone number is shorter than expected
   */
+
+

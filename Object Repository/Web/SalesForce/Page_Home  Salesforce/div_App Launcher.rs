@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_App Launcher</name>
+   <tag></tag>
+   <elementGuidId>4279b495-6811-429d-b7f4-8faf7d928309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-icon-waffle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//one-app-launcher-header[@id='window']/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;App Launcher&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>237e033a-c95a-4a9c-a729-07eb025bc979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-icon-waffle</value>
+      <webElementGuid>9631a97d-96ce-486d-b81a-1fbc026efa44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>App Launcher</value>
+      <webElementGuid>76753186-535c-4f47-abb9-e5f365b1c50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;window&quot;)/button[@class=&quot;slds-button slds-show&quot;]/div[@class=&quot;slds-icon-waffle&quot;]</value>
+      <webElementGuid>84a4b4f2-d8b8-4217-ad1f-fdac60a31f9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//one-app-launcher-header[@id='window']/button/div</value>
+      <webElementGuid>0070ae14-9727-4607-bbf7-6908299d4597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[1]/following::div[9]</value>
+      <webElementGuid>1e8808aa-1bf0-4008-81b5-014112b7c87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[12]</value>
+      <webElementGuid>bc2b4847-7163-47c2-b9be-29602ee1a47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Manager'])[3]/preceding::div[10]</value>
+      <webElementGuid>14067e07-226d-43d8-bfbd-18ab920d71db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//one-app-launcher-header/button/div</value>
+      <webElementGuid>9493d935-c542-4da2-b51f-9332d4400807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'App Launcher' or . = 'App Launcher')]</value>
+      <webElementGuid>94cd325b-25ea-4453-974e-d3033ca5fa04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
