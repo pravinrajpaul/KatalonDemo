@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://katalon-inc--demo.sandbox.my.salesforce.com/?ec=302&startURL=%2Fvisualforce%2Fsession%3Furl%3Dhttps%253A%252F%252Fkatalon-inc--demo.sandbox.lightning.force.com%252Flightning%252Fpage%252Fhome')
+WebUI.navigateToUrl('https://katalon-inc--demo.sandbox.my.salesforce.com/')
 
 WebUI.setText(findTestObject('Object Repository/Web/SalesForce/Page_Login  Salesforce/input_Username_username'), 'mohit.kumar@katalon.com.demo')
 
@@ -32,8 +32,6 @@ WebUI.click(findTestObject('Object Repository/Web/SalesForce/Page_Login  Salesfo
 WebUI.click(findTestObject('Object Repository/Web/SalesForce/Page_Home  Salesforce/div_App Launcher'))
 
 WebUI.setText(findTestObject('Web/SalesForce/Page_Home  Salesforce/div_Search'), 'Contacts')
-
-WebUI.delay(5)
 
 WebUI.waitForElementVisible(findTestObject('Web/SalesForce/Page_Home  Salesforce/div_Contacts'), 5)
 

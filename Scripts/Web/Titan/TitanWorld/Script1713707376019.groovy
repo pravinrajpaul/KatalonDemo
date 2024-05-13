@@ -39,7 +39,7 @@ WebUI.mouseOver(findTestObject('Object Repository/Web/TitanWorld/Page_Titan The 
 
 WebUI.click(findTestObject('Object Repository/Web/TitanWorld/Page_Titan The Official Website for Titan W_a22814/a_Neo Splash'))
 
-WebUI.click(findTestObject('Web/TitanWorld/Page_Buy Online Titan Neo Splash Green Dial_4a0829/Page_Buy Neo Splash watches for men online at the best price  Titan/h5_Titan Neo Splash Brown Dial Analog with Date Stainless Steel Strap Watch for Men'))
+WebUI.click(findTestObject('Web/TitanWorld/Page_Buy Online Titan Neo Splash Green Dial_4a0829/Page_Buy Neo Splash watches for men online/h5_Titan Neo Splash Brown Dial Analog with Date'))
 
 WebUI.click(findTestObject('Object Repository/Web/TitanWorld/Page_Buy Online Titan Neo Splash Green Dial_4a0829/span_Pincode'))
 

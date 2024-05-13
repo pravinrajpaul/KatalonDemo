@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h5_Titan Neo Splash Brown Dial Analog with Date Stainless Steel Strap Watch for Men</name>
+   <name>h5_Titan Neo Splash Brown Dial Analog with Date</name>
    <tag></tag>
    <elementGuidId>6d92adda-8f18-46b6-866d-5d8634a12329</elementGuidId>
    <selectorCollection>
@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
