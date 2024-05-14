@@ -5,4 +5,39 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>47f69c5f-8ae3-4435-96c6-ef83f8ccc3c5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>369d1e5e-eb1f-4290-9ed5-d949aec773af</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ContactDetails-SIT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>369d1e5e-eb1f-4290-9ed5-d949aec773af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>City</value>
+      <variableId>4f47253a-e162-47a6-84a6-f6bfe7985ccc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>369d1e5e-eb1f-4290-9ed5-d949aec773af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>State</value>
+      <variableId>40a5c741-3906-46c8-8d30-3d4bde080974</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>4f47253a-e162-47a6-84a6-f6bfe7985ccc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>40a5c741-3906-46c8-8d30-3d4bde080974</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
 </TestCaseEntity>

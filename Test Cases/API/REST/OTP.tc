@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba1e2d44-5784-469d-9dba-43df00340e07</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>433ab66d-5899-4443-82b8-4e4604e7f7aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'8754450054'</defaultValue>
+      <description></description>
+      <id>433ab66d-5899-4443-82b8-4e4604e7f7aa</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+</TestCaseEntity>

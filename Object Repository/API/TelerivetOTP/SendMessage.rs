@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>GCPTranscribe</name>
+   <name>SendMessage</name>
    <tag></tag>
-   <elementGuidId>4da7cbda-aee8-4cb0-8a10-33d39d8973fa</elementGuidId>
+   <elementGuidId>ce1aa9c6-5492-4d6e-a74b-e355f86e27c1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>false</autoUpdateContent>
-   <connectionTimeout>0</connectionTimeout>
+   <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;config\&quot;: {\n        \&quot;enableSeparateRecognitionPerChannel\&quot;: true,\n        \&quot;languageCode\&quot;: \&quot;${languageCode}\&quot;,\n        \&quot;enableAutomaticPunctuation\&quot;: true,\n        \&quot;useEnhanced\&quot;: true\n    },\n    \&quot;audio\&quot;: {\n        \&quot;content\&quot;: \&quot;${content}\&quot;\n    }\n}&quot;,
+  &quot;text&quot;: &quot;{\n\&quot;route\&quot; : \&quot;q\&quot;,\n\&quot;message\&quot; : \&quot;OTP: ${otp}\&quot;,\n\&quot;flash\&quot; : 1,\n\&quot;numbers\&quot; : \&quot;${number}\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -22,37 +23,37 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>0bd5d399-be8d-4905-b055-fa6cfd6db7ba</webElementGuid>
+      <webElementGuid>2e4a1978-b5d8-43a9-9e61-30970c305b50</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>x-goog-user-project</name>
+      <name>authorization</name>
       <type>Main</type>
-      <value>transcribeproject-399016</value>
-      <webElementGuid>52903164-a34c-4e2e-90b3-d4c25ace7620</webElementGuid>
+      <value>JdH526ovicTpeRYq9U3xuNmzsQK1LMfjbEaWSCrh8nlI4gOB0X8tXaZ7m9zgVwfhsv3dcNnPb5042pRB</value>
+      <webElementGuid>1a26413d-2a3c-4d11-be73-dae61ba2ff6d</webElementGuid>
    </httpHeaderProperties>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>Authorization</name>
-      <type>Main</type>
-      <value>Bearer ${accessToken}</value>
-      <webElementGuid>4a8f7444-d14e-4afb-99a8-43d5b2beeeb5</webElementGuid>
-   </httpHeaderProperties>
-   <katalonVersion>8.6.5</katalonVersion>
-   <maxResponseSize>0</maxResponseSize>
+   <katalonVersion>9.4.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://speech.googleapis.com/v1/speech:recognize</restUrl>
+   <restUrl>https://www.fast2sms.com/dev/bulkV2</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>0</socketTimeout>
+   <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73c38d28-2cad-40d9-a355-b1f54d11e64c</id>
+      <masked>false</masked>
+      <name>otp</name>
+   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject

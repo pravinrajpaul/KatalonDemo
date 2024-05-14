@@ -24,9 +24,6 @@ time = LocalDateTime.now()
 '@Given Prereq'
 response = WS.sendRequest(findTestObject('API/Rest/CreaterUser'))
 
-'@When \r\nBla bal bla'
-outname = WS.getElementPropertyValue(this.response, 'name')
-
 jsonResponse = new groovy.json.JsonSlurper().parseText(response.getResponseText())
 
 id = jsonResponse.id
@@ -40,4 +37,6 @@ ResponseObject response1 = WS.sendRequest(listUser)
 //jsonResponse = new groovy.json.JsonSlurper().parseText(response.getResponseText())
 //field = jsonResponse.name
 println(response1.getResponseBodyContent())
+
+WS.comment('')
 

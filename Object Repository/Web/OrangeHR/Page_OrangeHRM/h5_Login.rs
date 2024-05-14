@@ -6,16 +6,16 @@
    <elementGuidId>4652a248-9f81-4c88-9c12-ebbef4eacdda</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h5.oxd-text.oxd-text--h5.orangehrm-login-title</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Login' or . = 'Login')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/div/div/div[2]/h5</value>
+         <value>//h5[(text() = 'Submit' or . = 'Submit')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.oxd-text.oxd-text--h5.orangehrm-login-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>7141a0ab-d5a0-4187-a5bc-bf86a6751ba6</webElementGuid>
+      <webElementGuid>a3803c1f-5f9a-4d82-b002-47044d6b615d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-text oxd-text--h5 orangehrm-login-title</value>
-      <webElementGuid>b6a1d588-7b72-4d96-ab74-6116c822ceb4</webElementGuid>
+      <webElementGuid>a1cd5c5e-5a29-4d07-8832-418613b52a08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>a2753f4a-9fa2-4629-b524-53a1f36d74b4</webElementGuid>
+      <webElementGuid>ad8c55a4-bb36-4c3e-9f89-c9353ab5c46b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/h5[@class=&quot;oxd-text oxd-text--h5 orangehrm-login-title&quot;]</value>
-      <webElementGuid>7288ca87-9fcd-441b-850a-0807f503b5d5</webElementGuid>
+      <webElementGuid>0dc56b49-d77f-45d7-9929-f5a10f5e9f47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/h5</value>
-      <webElementGuid>e8a7fd74-7d2b-4010-9b58-abb7bcaf0259</webElementGuid>
+      <webElementGuid>a6cef4fa-7cb9-4f5f-831f-d89e6a3ab17f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h5</value>
-      <webElementGuid>9fe6a29c-c657-4989-b5f2-d59430d7e626</webElementGuid>
+      <webElementGuid>f5217161-d848-48d8-8709-46c80ccdccc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,6 +75,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h5[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>4a3cecbb-5730-4efc-97df-eced09ce1e25</webElementGuid>
+      <webElementGuid>9dfd9b2d-8fb8-4fe3-9562-4ad8a64ab526</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

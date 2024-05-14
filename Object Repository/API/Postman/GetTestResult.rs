@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GetTestResult</name>
+   <tag></tag>
+   <elementGuidId>eb42fa6c-7cc6-44e1-8939-54f7a67021dd</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\r\n    \&quot;id\&quot;: ${Obj},\r\n    \&quot;Name\&quot;: ${ObjArr},\r\n    \&quot;Empty\&quot;: ${empty}\r\n}&quot;,
+  &quot;contentType&quot;: &quot;text/plain&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>Basic e3tVc2VybmFtZX19OjgxYWI1ZTZhLWM2MjktNDU3Yy04ZWI3LWNkZmVhYzQ2NTZmMQ==</value>
+      <webElementGuid>e2350490-e77c-491a-84a6-4d2ce1ef0a69</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>9.4.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
+   <restRequestMethod>PUT</restRequestMethod>
+   <restUrl>https://testops.katalon.io/api/v1/run-configurations/${id}/execute</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.id</defaultValue>
+      <description></description>
+      <id>7694e728-e7ab-4fbd-9906-3c58a497c9dc</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.Obj</defaultValue>
+      <description></description>
+      <id>4e00a8ec-fbd4-4bfc-a282-58512eaeb3d4</id>
+      <masked>false</masked>
+      <name>Obj</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.ObjArr</defaultValue>
+      <description></description>
+      <id>fa4bf622-0ac6-479e-a887-f94beb48e2e0</id>
+      <masked>false</masked>
+      <name>ObjArr</name>
+   </variables>
+   <variables>
+      <defaultValue>GlobalVariable.empty</defaultValue>
+      <description></description>
+      <id>c161759e-cb9c-4841-a8ae-e4de7d3362b7</id>
+      <masked>false</masked>
+      <name>empty</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

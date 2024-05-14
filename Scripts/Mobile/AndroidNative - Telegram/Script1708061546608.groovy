@@ -36,7 +36,7 @@ Mobile.tap(findTestObject('Mobile/AndroidNative - Telegram/android.widget.TextVi
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (1)'), 0, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (2)'), 0)
 
@@ -48,4 +48,6 @@ Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - OK'), 0)
 
 Mobile.closeApplication()
+
+Mobile.checkElement(findTestObject(null), 0)
 
