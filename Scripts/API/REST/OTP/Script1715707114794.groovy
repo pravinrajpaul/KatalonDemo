@@ -64,7 +64,7 @@ if ((getMessage == null) || (getMessage == '')) {
 }
 
 if (recOtp.equals(otp)) {
-    KeywordUtil.markPassed('OTP matched')
+    KeywordUtil.markPassed('OTP matched; Expected:'+otp+'; Actual:'+recOtp)
 } else {
     KeywordUtil.markFailed('OTP did not match; Expected:'+otp+'; Actual:'+recOtp)
 }

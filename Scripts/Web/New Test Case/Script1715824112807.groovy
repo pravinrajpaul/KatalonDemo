@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-response = WS.sendRequest(findTestObject('API/Rest/CreaterUser', [('name') : name, ('id') : id, ('time') : time]))
+CustomKeywords.'proxy.BrowserProxy.setProxy'(7001)
 
-println response.getResponseText()
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://cellphone.aut.katalon.com/')
+

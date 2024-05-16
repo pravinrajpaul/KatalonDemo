@@ -1,0 +1,39 @@
+{
+  "keywordFileContentHash": "DDB16C2923BA98E0A704FF46CCD077D7",
+  "keywordClasses": [
+    {
+      "name": "proxy.BrowserProxy",
+      "keywordMethods": [
+        {
+          "name": "setProxy",
+          "parameters": [
+            {
+              "name": "port",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "stopProxy",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "proxy.BrowserProxy$1",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
