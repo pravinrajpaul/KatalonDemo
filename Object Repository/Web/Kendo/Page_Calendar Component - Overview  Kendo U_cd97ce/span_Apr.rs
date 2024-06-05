@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apr</name>
+   <tag></tag>
+   <elementGuidId>1744f391-a195-4ccc-ab3f-54e610956817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-calendar[@id='kendo-calendarid-0']/kendo-calendar-navigation/kendo-virtualization/ul/li[15]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(15) > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Apr&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4d82185-924b-4967-988d-1e9de8f9bac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apr</value>
+      <webElementGuid>75ae0ed3-b7f8-4dff-9492-c9c6f419cd3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kendo-calendarid-0&quot;)/kendo-calendar-navigation[@class=&quot;k-calendar-navigation&quot;]/kendo-virtualization[@class=&quot;k-flex k-content k-scrollable&quot;]/ul[@class=&quot;k-reset&quot;]/li[15]/span[1]</value>
+      <webElementGuid>a552ebf3-37df-4fa9-8500-0d53ce7be057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Kendo/Page_Calendar Component - Overview  Kendo U_cd97ce/iframe_default_demo-example-sc-grlnui-1 cddDli</value>
+      <webElementGuid>948b7f71-2b37-4c8e-ba6f-11466cf94434</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-calendar[@id='kendo-calendarid-0']/kendo-calendar-navigation/kendo-virtualization/ul/li[15]/span</value>
+      <webElementGuid>e0058bf9-9860-4729-ac5e-35e11cdd0b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar'])[2]/following::span[1]</value>
+      <webElementGuid>95c6d136-43ba-4773-9358-99e13c9d8745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[2]/following::span[2]</value>
+      <webElementGuid>ba8dc46d-36c8-4695-9805-b37a353f9cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[2]/preceding::span[1]</value>
+      <webElementGuid>543b7561-a770-4591-936d-079385644c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun'])[2]/preceding::span[2]</value>
+      <webElementGuid>41ea1ec9-5155-4971-805a-aebb72fe66bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/span</value>
+      <webElementGuid>4668b3b5-972f-4918-bfe6-ef2f18c197bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apr' or . = 'Apr')]</value>
+      <webElementGuid>a1a89448-8701-437c-8341-e6922e2114cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

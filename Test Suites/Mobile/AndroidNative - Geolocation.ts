@@ -15,7 +15,7 @@
       <guid>9938f8e9-d5eb-441b-94bd-0f7cafd80e72</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Mobile/AndroidNiteive - Geolocation</testCaseId>
+      <testCaseId>Test Cases/Mobile/AndroidNative - Geolocation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

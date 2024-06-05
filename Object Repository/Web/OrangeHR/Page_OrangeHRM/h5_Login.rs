@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h5[(text() = 'Submit' or . = 'Submit')]</value>
+         <value>//div[@id='app']/div/div/div/div/div[2]/h5</value>
       </entry>
       <entry>
          <key>CSS</key>

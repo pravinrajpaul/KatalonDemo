@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b448694c-a52f-4afb-a29d-143bb0cc770d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ab5a7e5e-2b87-491b-bddd-77b5e689927a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/URLs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ab5a7e5e-2b87-491b-bddd-77b5e689927a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>URL</value>
+      <variableId>ec31d83b-393c-4480-9271-bbe6cda02b1f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec31d83b-393c-4480-9271-bbe6cda02b1f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

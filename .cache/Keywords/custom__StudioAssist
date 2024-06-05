@@ -1,8 +1,8 @@
 {
-  "keywordFileContentHash": "0F83BFCC252D07C630096790CB30FDE9",
+  "keywordFileContentHash": "1892332C3DC185FE22017888B76C6CF1",
   "keywordClasses": [
     {
-      "name": "custom.StudioAssist",
+      "name": "StudioAssist",
       "keywordMethods": []
     }
   ],

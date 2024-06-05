@@ -13,8 +13,18 @@
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>af17045e-e2fc-4a24-a561-ff062b4430ac</webElementGuid>
+      <webElementGuid>2798c3e9-b85b-4e5b-9913-4a9468aa50a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c21556ff-60df-4628-a014-0644279d3207</webElementGuid>
+      <webElementGuid>1bdcd9d4-022e-4f16-a3bc-69e259349af7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-button oxd-button--medium oxd-button--main orangehrm-login-button</value>
-      <webElementGuid>fbc947df-e6ae-4aa6-86a0-5181c4c12da5</webElementGuid>
+      <webElementGuid>21a30827-78e4-4b87-bb64-3711a14ebb2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Login </value>
-      <webElementGuid>3df08ac8-e5bc-46e8-bc7f-45e4e5811d56</webElementGuid>
+      <webElementGuid>3d95f65d-d80c-4dde-ad18-d20a48cacd0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions orangehrm-login-action&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--main orangehrm-login-button&quot;]</value>
-      <webElementGuid>f7a824f9-195c-43b4-8f56-65286141d822</webElementGuid>
+      <webElementGuid>e8f06b2e-803d-44ef-8504-6b8d062108bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>9d3438fa-ff0c-4550-823a-662e34a45978</webElementGuid>
+      <webElementGuid>f8900384-d750-4a26-be6e-714fbf30d0f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/form/div[3]/button</value>
-      <webElementGuid>1d45c8a4-7e1c-4d6e-88ae-b1feb80bd2f0</webElementGuid>
+      <webElementGuid>104100b5-883c-4f3c-a53b-832ad9cc0ac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>ce854127-c310-4c55-ba0e-d04b6c099117</webElementGuid>
+      <webElementGuid>74bdf3cc-a29d-4410-ae6c-ca5965f9c756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
-      <webElementGuid>ba1269bf-97d2-47d9-b310-d0baf4782961</webElementGuid>
+      <webElementGuid>babc1f80-e7a7-43eb-9f8b-e8259ff7b62b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

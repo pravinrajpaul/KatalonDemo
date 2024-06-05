@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue</name>
+   <tag></tag>
+   <elementGuidId>3217fb50-1538-4f62-8266-876f214abd7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Continue' or . = 'Continue')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Continue']/parent::button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.justifyCenter.alignCenter.Button__button__JrBUx.Button__regular__hcPhk.Button__buttonBlock__CQUx8.Button__primary__ZSijK</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continue&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>835f9968-89bf-47e4-97ae-563f39a7705b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justifyCenter alignCenter Button__button__JrBUx Button__regular__hcPhk Button__buttonBlock__CQUx8 Button__primary__ZSijK</value>
+      <webElementGuid>59b035af-eac3-4677-8868-02606718e6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>b091f35f-ea0f-4256-b4b7-1391b3d2c4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[2]/div[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;flex padding-8-0 container-fluid CartPage__pageHeight__kPppL&quot;]/div[@class=&quot;flexColumn&quot;]/div[7]/div[@class=&quot;widget-container marginBoth-8&quot;]/div[@class=&quot;marginTop-8 col-8&quot;]/button[@class=&quot;flex justifyCenter alignCenter Button__button__JrBUx Button__regular__hcPhk Button__buttonBlock__CQUx8 Button__primary__ZSijK&quot;]</value>
+      <webElementGuid>e029aa74-5d8c-4858-a40b-20504a39c165</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div[3]/div[7]/div[3]/div/button</value>
+      <webElementGuid>161063eb-60f0-4afa-9a7e-7d47e8d42a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Address'])[1]/following::button[1]</value>
+      <webElementGuid>e26f9c2f-c8d9-4ceb-ac7c-5f37006bdb19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kanchipuram'])[1]/following::button[2]</value>
+      <webElementGuid>ba54565b-45a6-4f8f-9cd1-30f5e6225792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupons &amp; offers'])[1]/preceding::button[1]</value>
+      <webElementGuid>0f560f37-f2ef-474d-bad0-efa878366894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>95d2dc4b-e723-4124-a471-36420a06e14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>d629fefc-9990-498a-82eb-01bdbbfe598a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

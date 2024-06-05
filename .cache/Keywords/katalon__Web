@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4B9476867FEC8679D1D013F9CC04B1BF",
+  "keywordClasses": [
+    {
+      "name": "katalon.Web",
+      "keywordMethods": [
+        {
+          "name": "getWebElementFromTestObject",
+          "parameters": [
+            {
+              "name": "testObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Get WebElement from TestObject\r\n\t * @param testObject The TestObject\r\n\t * @return WebElement The WebElement corresponding to the TestObject\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

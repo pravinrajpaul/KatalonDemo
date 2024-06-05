@@ -6,19 +6,19 @@
    <elementGuidId>b432ad33-9318-4e96-9b0d-033c82ddfca2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-203</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-203']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@name = 'Contact-search-input' and @placeholder = 'Search this list...' and @type = 'search']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_1']/div/div/div/div/div/div[2]/div[2]/force-list-view-manager-search-bar/div/lightning-input/lightning-primitive-input-simple/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#input-203</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

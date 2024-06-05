@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c7d25ac-07cc-44e0-9baf-9c8baef2c6b4</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>334ff3e4-886c-4f2e-a9fb-b82e3b5d2845</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ContactDetails-SIT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>334ff3e4-886c-4f2e-a9fb-b82e3b5d2845</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>City</value>
+      <variableId>73ffe109-ab4d-47d8-b182-a60def0624cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>334ff3e4-886c-4f2e-a9fb-b82e3b5d2845</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Postcode</value>
+      <variableId>37328137-e730-4bd7-a11c-10dbeabe041c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73ffe109-ab4d-47d8-b182-a60def0624cd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37328137-e730-4bd7-a11c-10dbeabe041c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

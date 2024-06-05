@@ -3,7 +3,7 @@
    <description></description>
    <name>Create and save a scheduled configuration</name>
    <tag></tag>
-   <elementGuidId>d6664152-676c-493b-b842-200c18de3a6f</elementGuidId>
+   <elementGuidId>1a5a3db4-9591-419b-beeb-8814cb36a66e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -23,7 +23,7 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Basic cHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb206QXByaWxAMjAyMw==</value>
-      <webElementGuid>f4120be4-d65b-4e78-a35f-61f418271e4b</webElementGuid>
+      <webElementGuid>f681b43a-dbdd-4bfa-a00f-a9f94f08b19a</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>9.4.0</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>

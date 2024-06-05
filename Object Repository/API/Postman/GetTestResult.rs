@@ -3,7 +3,7 @@
    <description></description>
    <name>GetTestResult</name>
    <tag></tag>
-   <elementGuidId>eb42fa6c-7cc6-44e1-8939-54f7a67021dd</elementGuidId>
+   <elementGuidId>2d132860-79f6-4ca5-9221-965df3db3c66</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -23,7 +23,7 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Basic e3tVc2VybmFtZX19OjgxYWI1ZTZhLWM2MjktNDU3Yy04ZWI3LWNkZmVhYzQ2NTZmMQ==</value>
-      <webElementGuid>e2350490-e77c-491a-84a6-4d2ce1ef0a69</webElementGuid>
+      <webElementGuid>da1dd06b-4897-477f-8965-94abbf930349</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>9.4.0</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
@@ -42,28 +42,28 @@
    <variables>
       <defaultValue>GlobalVariable.id</defaultValue>
       <description></description>
-      <id>7694e728-e7ab-4fbd-9906-3c58a497c9dc</id>
+      <id>710a2312-7a5c-4810-9f22-0a189a5ba737</id>
       <masked>false</masked>
       <name>id</name>
    </variables>
    <variables>
       <defaultValue>GlobalVariable.Obj</defaultValue>
       <description></description>
-      <id>4e00a8ec-fbd4-4bfc-a282-58512eaeb3d4</id>
+      <id>fdc8536e-c894-4318-89ca-453bed6c4def</id>
       <masked>false</masked>
       <name>Obj</name>
    </variables>
    <variables>
       <defaultValue>GlobalVariable.ObjArr</defaultValue>
       <description></description>
-      <id>fa4bf622-0ac6-479e-a887-f94beb48e2e0</id>
+      <id>8bf0a6f2-2dc9-4f87-b303-199a9547f6cd</id>
       <masked>false</masked>
       <name>ObjArr</name>
    </variables>
    <variables>
       <defaultValue>GlobalVariable.empty</defaultValue>
       <description></description>
-      <id>c161759e-cb9c-4841-a8ae-e4de7d3362b7</id>
+      <id>d6ab5b30-60b3-409d-9b23-351df2fbc3fa</id>
       <masked>false</masked>
       <name>empty</name>
    </variables>

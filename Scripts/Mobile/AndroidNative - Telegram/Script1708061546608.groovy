@@ -49,5 +49,3 @@ Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/and
 
 Mobile.closeApplication()
 
-Mobile.checkElement(findTestObject(null), 0)
-

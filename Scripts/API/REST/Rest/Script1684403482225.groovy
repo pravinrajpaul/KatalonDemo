@@ -38,5 +38,3 @@ ResponseObject response1 = WS.sendRequest(listUser)
 //field = jsonResponse.name
 println(response1.getResponseBodyContent())
 
-WS.comment('')
-

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Done</name>
+   <tag></tag>
+   <elementGuidId>09b73288-076a-4b84-96be-361c86ce4634</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flexColumn.justifyBetween.alignCenter > button.flex.justifyCenter.alignCenter.Button__button__JrBUx.Button__regular__hcPhk.Button__buttonBlock__CQUx8.Button__primary__ZSijK</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div[2]/div/div[2]/div[2]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Done&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc3993a5-bb9a-40a8-b8ec-a9d484352a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justifyCenter alignCenter Button__button__JrBUx Button__regular__hcPhk Button__buttonBlock__CQUx8 Button__primary__ZSijK</value>
+      <webElementGuid>1ccc19f4-7f4e-48f9-ba4f-5bd6c42774ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done</value>
+      <webElementGuid>a598d0a3-41e0-4e3a-9e1a-a036f8a1403c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex alignCenter justifyCenter Dialog__overlay__qXgA1 Dialog__open__z4cbA&quot;]/div[@class=&quot;Dialog__container__VfbCm&quot;]/div[@class=&quot;padding-0-24&quot;]/div[@class=&quot;Auth__container__nVizI flex&quot;]/div[@class=&quot;Auth__rightContainer__RI0XX&quot;]/div[@class=&quot;Auth__authContainer__sE45H&quot;]/div[@class=&quot;Auth__otpContainer__Q5PH9 flex flexColumn justifyBetween&quot;]/div[@class=&quot;flexColumn justifyBetween alignCenter&quot;]/button[@class=&quot;flex justifyCenter alignCenter Button__button__JrBUx Button__regular__hcPhk Button__buttonBlock__CQUx8 Button__primary__ZSijK&quot;]</value>
+      <webElementGuid>1d240ce6-8e48-471e-a647-f685eefaf4ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div[2]/div/div[2]/div[2]/div/div[2]/button</value>
+      <webElementGuid>276f1b5d-8886-4441-af0d-f23ac8bf3a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend in 00:11'])[1]/following::button[1]</value>
+      <webElementGuid>f3920c3f-c258-4eff-8b21-9410faa88f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One Time Password'])[1]/following::button[1]</value>
+      <webElementGuid>ba623669-ec0b-4825-a526-ca2c37fc0102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need Help?'])[2]/preceding::button[1]</value>
+      <webElementGuid>f2b736d4-d118-4ef5-b52a-ea92ed1845c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/button</value>
+      <webElementGuid>2a3af954-8676-4aaa-b59f-50daf68dcfef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Done' or . = 'Done')]</value>
+      <webElementGuid>a487d5f9-7d84-4563-bf39-7f52277aab94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

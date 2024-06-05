@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "E5A6681223A48862A14E9F0CFAAACA56",
+  "keywordClasses": [
+    {
+      "name": "custom.Encrypt",
+      "keywordMethods": [
+        {
+          "name": "sendEncryptedRequest",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

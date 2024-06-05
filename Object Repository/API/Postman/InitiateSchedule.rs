@@ -3,7 +3,7 @@
    <description></description>
    <name>InitiateSchedule</name>
    <tag></tag>
-   <elementGuidId>8072bece-e0c8-492d-835e-fae32ae09970</elementGuidId>
+   <elementGuidId>cc68cc0f-0fcb-4a4d-bda6-ac33953e7232</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -19,7 +19,7 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Basic cHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb206ODFhYjVlNmEtYzYyOS00NTdjLThlYjctY2RmZWFjNDY1NmYx</value>
-      <webElementGuid>3e6a2926-d692-4c88-be26-d18699c6bcfe</webElementGuid>
+      <webElementGuid>c333c7a8-d321-46bf-9bcb-7210221f867e</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>9.4.0</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>

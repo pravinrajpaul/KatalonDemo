@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_One Time Password_InputField__inputBo_d9773b</name>
+   <tag></tag>
+   <elementGuidId>7c82a391-859b-4073-8f9b-389fb8bd47bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;flex alignCenter justifyCenter Dialog__overlay__qXgA1 Dialog__open__z4cbA&quot;]/div[@class=&quot;Dialog__container__VfbCm&quot;]/div[@class=&quot;padding-0-24&quot;]/div[@class=&quot;Auth__container__nVizI flex&quot;]/div[@class=&quot;Auth__rightContainer__RI0XX&quot;]/div[@class=&quot;Auth__authContainer__sE45H&quot;]/div[@class=&quot;Auth__otpContainer__Q5PH9 flex flexColumn justifyBetween&quot;]/div[1]/span[@class=&quot;Auth__marginBottom16__tg0Up&quot;]/div[@class=&quot;flex flexColumn InputField__inputParent__GoM5F&quot;]/div[@class=&quot;l5Regular textSecondary  InputField__borderBottomPrimary__wV6M8 InputField__focused__qoCpg&quot;]/div[@class=&quot;flex justifyBetween&quot;]/input[@class=&quot;InputField__inputBox__f9eyX&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[text()='One Time Password']/parent::div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.InputField__inputBox__f9eyX</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;inputField_otp&quot;] >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>95a1cf80-79a0-46de-aeb9-47851650b71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InputField__inputBox__f9eyX</value>
+      <webElementGuid>92b0d034-095d-4a91-910d-7b3528662250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex alignCenter justifyCenter Dialog__overlay__qXgA1 Dialog__open__z4cbA&quot;]/div[@class=&quot;Dialog__container__VfbCm&quot;]/div[@class=&quot;padding-0-24&quot;]/div[@class=&quot;Auth__container__nVizI flex&quot;]/div[@class=&quot;Auth__rightContainer__RI0XX&quot;]/div[@class=&quot;Auth__authContainer__sE45H&quot;]/div[@class=&quot;Auth__otpContainer__Q5PH9 flex flexColumn justifyBetween&quot;]/div[1]/span[@class=&quot;Auth__marginBottom16__tg0Up&quot;]/div[@class=&quot;flex flexColumn InputField__inputParent__GoM5F&quot;]/div[@class=&quot;l5Regular textSecondary  InputField__borderBottomPrimary__wV6M8 InputField__focused__qoCpg&quot;]/div[@class=&quot;flex justifyBetween&quot;]/input[@class=&quot;InputField__inputBox__f9eyX&quot;]</value>
+      <webElementGuid>4a6037b0-618c-4da9-92c3-ea3593511e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>23dc49fc-15a3-4e4c-a895-227bd6bc907a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div[2]/div/div[2]/div[2]/div/div/span[2]/div/div/div/input</value>
+      <webElementGuid>a32b7690-1520-4f81-bd10-201381b824c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/div/div/input</value>
+      <webElementGuid>395cb5ef-1f16-409d-ad99-da16acb657f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

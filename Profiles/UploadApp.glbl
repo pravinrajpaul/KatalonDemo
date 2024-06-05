@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UploadApp</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Leave it blank</description>
+      <initValue>''</initValue>
+      <name>uploadBearer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Input Katalon Registered email</description>
+      <initValue>'pravin.raveendran@katalon.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Input your personal Api Key</description>
+      <initValue>'81ab5e6a-c629-457c-8eb7-cdfeac4656f1'</initValue>
+      <name>apikey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Leave it blank</description>
+      <initValue>''</initValue>
+      <name>signedUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Leave it blank</description>
+      <initValue>''</initValue>
+      <name>storagePath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Path within your Katalon project folder</description>
+      <initValue>'Resources/Mobile/Apk'</initValue>
+      <name>filePath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Name of the AppFile with extension</description>
+      <initValue>'Sample.apk'</initValue>
+      <name>appName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Primarily based on your file size</description>
+      <initValue>120</initValue>
+      <name>uploadTimeoutSecs</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Your Org ID</description>
+      <initValue>902399</initValue>
+      <name>orgId</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

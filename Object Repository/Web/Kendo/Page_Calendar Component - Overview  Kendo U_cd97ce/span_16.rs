@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_16</name>
+   <tag></tag>
+   <elementGuidId>d6d49286-4466-4363-80c8-8ceefd6711b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='f21ac60a-a99e-4cd6-a23b-317d4081d0651713205800000']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#f21ac60a-a99e-4cd6-a23b-317d4081d0651713205800000 > span.k-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Tuesday, April 16, 2024&quot;i] >> internal:text=&quot;16&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44008c80-b5a6-4124-8ae7-71969b69ce0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>3a78b256-7d27-406c-99f6-1d1f53a4e162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>3fb4980e-4185-460d-b754-03ef995d4982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f21ac60a-a99e-4cd6-a23b-317d4081d0651713205800000&quot;)/span[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>734c5887-5262-4962-9402-e54139304de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Kendo/Page_Calendar Component - Overview  Kendo U_cd97ce/iframe_default_demo-example-sc-grlnui-1 cddDli</value>
+      <webElementGuid>0f0265a8-ec53-4d5c-8c08-89d525c6f82c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='f21ac60a-a99e-4cd6-a23b-317d4081d0651713205800000']/span</value>
+      <webElementGuid>49f3c163-e20a-490c-a7a2-ef2c6b27039a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2024'])[2]/following::span[16]</value>
+      <webElementGuid>0671a848-d23b-490e-8d3c-471022d89da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March 2024'])[1]/following::span[47]</value>
+      <webElementGuid>0ff4e060-53d6-4a4e-96be-9e5c26f5ca3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 2024'])[1]/preceding::span[15]</value>
+      <webElementGuid>e5ce779a-9f1b-4a19-8d3f-efbdb86df89a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2024'])[1]/preceding::span[46]</value>
+      <webElementGuid>e3b19404-13d0-462f-949c-509b6f3c5009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/tr[4]/td[3]/span</value>
+      <webElementGuid>1e2788e8-1457-4023-a8cf-ff5bc45e84f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '16' or . = '16')]</value>
+      <webElementGuid>e967fa39-1d7b-4611-a75a-dd179d2131b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

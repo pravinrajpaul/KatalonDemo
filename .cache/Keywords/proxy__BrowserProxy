@@ -1,11 +1,11 @@
 {
-  "keywordFileContentHash": "DDB16C2923BA98E0A704FF46CCD077D7",
+  "keywordFileContentHash": "D102113D8A492555C93282D635441670",
   "keywordClasses": [
     {
       "name": "proxy.BrowserProxy",
       "keywordMethods": [
         {
-          "name": "setProxy",
+          "name": "setHeadersViaProxy",
           "parameters": [
             {
               "name": "port",
@@ -19,12 +19,76 @@
                 "genericsTypes": [],
                 "errorOnParsing": false
               }
+            },
+            {
+              "name": "requestHeaders",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.Map",
+                "unresolvedClassName": "Map",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "responseHeaders",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.Map",
+                "unresolvedClassName": "Map",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
             }
           ],
           "javadoc": ""
         },
         {
-          "name": "stopProxy",
+          "name": "startProxy",
           "parameters": [],
           "javadoc": ""
         }
@@ -32,6 +96,18 @@
     },
     {
       "name": "proxy.BrowserProxy$1",
+      "keywordMethods": []
+    },
+    {
+      "name": "proxy.BrowserProxy$2",
+      "keywordMethods": []
+    },
+    {
+      "name": "proxy.BrowserProxy$3",
+      "keywordMethods": []
+    },
+    {
+      "name": "proxy.BrowserProxy$3$1",
       "keywordMethods": []
     }
   ],

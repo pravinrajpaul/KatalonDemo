@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "DC90880801D61C0A077AF919723DA297",
+  "keywordClasses": [
+    {
+      "name": "katalon.Mobil",
+      "keywordMethods": [
+        {
+          "name": "androidTypeKeyboardDigits",
+          "parameters": [
+            {
+              "name": "text",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -5,19 +5,10 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f253a55f-5943-40d9-bb2c-ee207dcd7ed4</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>a117940c-e3a5-4021-802d-9a61c42e6ef1</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/ContactDetails-SIT</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>a117940c-e3a5-4021-802d-9a61c42e6ef1</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>State</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>0966258c-4273-4076-b701-5abae8d3f6cd</variableId>
    </variableLinks>
    <variableLinks>
@@ -27,14 +18,14 @@
       <variableId>fd1d85a8-8e84-44b2-a4f7-4bfc565da790</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'admin'</defaultValue>
+      <defaultValue>'admin1'</defaultValue>
       <description></description>
       <id>0966258c-4273-4076-b701-5abae8d3f6cd</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Valid Credential'</defaultValue>
       <description></description>
       <id>fd1d85a8-8e84-44b2-a4f7-4bfc565da790</id>
       <masked>false</masked>

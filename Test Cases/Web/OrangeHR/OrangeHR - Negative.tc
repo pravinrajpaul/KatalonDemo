@@ -4,40 +4,31 @@
    <name>OrangeHR - Negative</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>47f69c5f-8ae3-4435-96c6-ef83f8ccc3c5</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>369d1e5e-eb1f-4290-9ed5-d949aec773af</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/ContactDetails-SIT</testDataId>
-   </testDataLinks>
+   <testCaseGuid>9898ffbb-b5bc-4677-b211-5845e72f5122</testCaseGuid>
    <variableLinks>
-      <testDataLinkId>369d1e5e-eb1f-4290-9ed5-d949aec773af</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>City</value>
-      <variableId>4f47253a-e162-47a6-84a6-f6bfe7985ccc</variableId>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7df137d4-fc94-441e-bea3-43056b20b2d9</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>369d1e5e-eb1f-4290-9ed5-d949aec773af</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>State</value>
-      <variableId>40a5c741-3906-46c8-8d30-3d4bde080974</variableId>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7f56398-0714-4173-9d25-2b2414499116</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'Admin'</defaultValue>
+      <defaultValue>'admin1'</defaultValue>
       <description></description>
-      <id>4f47253a-e162-47a6-84a6-f6bfe7985ccc</id>
+      <id>7df137d4-fc94-441e-bea3-43056b20b2d9</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <defaultValue>'Invalid credentials'</defaultValue>
       <description></description>
-      <id>40a5c741-3906-46c8-8d30-3d4bde080974</id>
+      <id>c7f56398-0714-4173-9d25-2b2414499116</id>
       <masked>false</masked>
-      <name>pass</name>
+      <name>expectedText</name>
    </variable>
 </TestCaseEntity>

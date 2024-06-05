@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "E17A73FD9048DD8C18EA46B90719241F",
+  "keywordFileContentHash": "2421A495BD73ABFB01014AE815A20935",
   "keywordClasses": [
     {
       "name": "web.ApplicationFunction",
@@ -37,7 +37,26 @@
           "javadoc": ""
         },
         {
-          "name": "moveToElement",
+          "name": "moveToElementClick",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "advancedClick",
           "parameters": [
             {
               "name": "to",

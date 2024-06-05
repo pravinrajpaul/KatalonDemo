@@ -22,7 +22,7 @@ CustomKeywords.'com.katalon.plugin.keyword.mock.MockKeywords.createAPIMockSessio
 CustomKeywords.'com.katalon.plugin.keyword.mock.MockKeywords.apiMockRule'('get', '/getUser', '', '', null, [('Content-Type') : 'application/json'], 
     '\\{\\"userid\\":123\\}', null, 200, [('Content-Type') : 'application/json'], '{"status":"User Found"}')
 
-WS.sendRequestAndVerify(findTestObject('API/Rest/APIMockTest'))
+WS.sendRequestAndVerify(findTestObject('API/Rest/APIMockTest'), FailureHandling.STOP_ON_FAILURE)
 
 CustomKeywords.'com.katalon.plugin.keyword.mock.MockKeywords.stopAPIMockSession'()
 

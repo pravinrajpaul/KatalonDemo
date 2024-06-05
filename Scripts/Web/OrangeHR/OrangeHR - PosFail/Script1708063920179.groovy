@@ -25,10 +25,6 @@ WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/inpu
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h5_Login'))
-
-WebUI.delay(2)
-
 WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.CONTINUE_ON_FAILURE)

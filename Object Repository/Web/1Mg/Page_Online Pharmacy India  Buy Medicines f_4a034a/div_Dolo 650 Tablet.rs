@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dolo 650 Tablet</name>
+   <tag></tag>
+   <elementGuidId>58fa3819-4b75-41b8-b88a-8216193fe90f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles__product-header___1R5Jf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[5]/div/div[2]/div/div/div/ul/li[4]/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dolo 650 Tablet strip of 15 tablets ₹ 250 50% offMRP ₹500 ADD TO CART&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4f01eea-2838-4688-ac56-f91cc723a269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles__product-header___1R5Jf</value>
+      <webElementGuid>d5842ae8-466f-4932-84e6-c1c81b59398a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dolo 650 Tablet</value>
+      <webElementGuid>ea4d7f3b-455b-4942-9f27-e2dce04b7413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;row styles__bottom-row___1a89P styles__border-one___2wAfi&quot;]/div[@class=&quot;col-sm-8 pad0 styles__location-search-div___XoEew&quot;]/div[@class=&quot;col-xs-12 col-sm-9 col-md-9 searchbar-container styles__search-bar___e1Afp&quot;]/div[@class=&quot;styles__search-bar___nwXaU&quot;]/div[1]/div[@class=&quot;styles__search-results-container___3OUHy&quot;]/ul[@class=&quot;styles__search-results___3rJOl&quot;]/li[@class=&quot;styles__search-item___CYeTh&quot;]/a[@class=&quot;styles__drug___QVwLR&quot;]/div[@class=&quot;styles__name___-ixKa&quot;]/div[@class=&quot;styles__product-header___1R5Jf&quot;]</value>
+      <webElementGuid>14c31b72-7737-4a33-9b42-8d7ed2f10d06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[5]/div/div[2]/div/div/div/ul/li[4]/a/div/div</value>
+      <webElementGuid>df1a9b62-cd0c-42c0-805d-da8063bc5892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dolo 650'])[3]/following::div[2]</value>
+      <webElementGuid>6bf5f3f1-f311-45da-8382-127aecb475d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/div</value>
+      <webElementGuid>d764a3f9-aa75-4d9d-bcee-e74f554c03bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dolo 650 Tablet' or . = 'Dolo 650 Tablet')]</value>
+      <webElementGuid>f5b8f1b9-4b71-4516-ba1d-de7ea710e852</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

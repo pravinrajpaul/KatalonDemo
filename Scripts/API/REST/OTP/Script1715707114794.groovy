@@ -22,10 +22,12 @@ import org.openqa.selenium.Keys as Keys
 
 Random rand = new Random()
 
+//Generating random OTP
 otp = rand.nextInt(100001, 999999).toString()
 
 currentTime =  (Long) System.currentTimeMillis()/1000
 
+//Send OTP to the configured or app mobile number
 ResponseObject smsSendResponse = WS.sendRequest(findTestObject('API/TelerivetOTP/SendMessage', [('otp') : otp, ('number') : number]))
 
 JsonSlurper json = new JsonSlurper()
@@ -40,14 +42,10 @@ if (sendResponseMessage.equals('SMS sent successfully.')) {
     KeywordUtil.markFailedAndStop('SMS send failed')
 }
 
+//Allow SMS to reach the configured mobile number and there after reach Telerevit Cloud
 WebUI.delay(30)
 
-//currentTime = 1715710560
-//otp = "122633"
-//JsonSlurper json = new JsonSlurper()
-
-println(currentTime)
-
+//Get SMS from Telerevit Cloud with api call
 ResponseObject smsGetMessages = WS.sendRequest(findTestObject('API/TelerivetOTP/GetMessages', [('starttime') : currentTime
             , ('endtime') : currentTime + 30]))
 
