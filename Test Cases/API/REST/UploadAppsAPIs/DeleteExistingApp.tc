@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteExistingApp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2081a726-f20c-42c0-9376-18e869a3fcd6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a59fa71a-35c4-481b-947a-e5485f67bab5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>a59fa71a-35c4-481b-947a-e5485f67bab5</id>
+      <masked>false</masked>
+      <name>appIds</name>
+   </variable>
+</TestCaseEntity>

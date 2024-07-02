@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fingerprint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>786d0468-8b6b-4464-a2c8-754d72111b55</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f5020e3-fa01-499e-8e1e-f64f14761d33</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>5f5020e3-fa01-499e-8e1e-f64f14761d33</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

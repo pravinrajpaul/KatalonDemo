@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>50ba8536-18ad-4466-8057-27d30b96dbee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;_Skins_SideNav&quot;]/body[@class=&quot;topicpagebody&quot;]/div[@class=&quot;foundation-wrap off-canvas-wrapper&quot;]/div[@class=&quot;off-canvas-wrapper-inner&quot;]/div[@class=&quot;off-canvas-content inner-wrap&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;row outer-row sidenav-layout&quot;]/nav[@class=&quot;sidenav-wrapper&quot;]/div[@class=&quot;sidenav-container&quot;]/ul[@class=&quot;off-canvas-accordion vertical menu sidenav&quot;]/li[@class=&quot;tree-node is-accordion-submenu-parent&quot;]/a[1]/span[@class=&quot;submenu-toggle-container&quot;]/span[@class=&quot;submenu-toggle&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='../Examples/Examples.htm']//span[@role='button']//span[@class='submenu-toggle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Example plugins&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f213df78-d0ae-4f0c-b526-4d38204f26c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu-toggle</value>
+      <webElementGuid>fe74c945-5fa7-40c0-9915-cf0d99405459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>287230b0-d01d-4028-88d2-eeed03e24f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;_Skins_SideNav&quot;]/body[@class=&quot;topicpagebody&quot;]/div[@class=&quot;foundation-wrap off-canvas-wrapper&quot;]/div[@class=&quot;off-canvas-wrapper-inner&quot;]/div[@class=&quot;off-canvas-content inner-wrap&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;row outer-row sidenav-layout&quot;]/nav[@class=&quot;sidenav-wrapper&quot;]/div[@class=&quot;sidenav-container&quot;]/ul[@class=&quot;off-canvas-accordion vertical menu sidenav&quot;]/li[@class=&quot;tree-node is-accordion-submenu-parent&quot;]/a[1]/span[@class=&quot;submenu-toggle-container&quot;]/span[@class=&quot;submenu-toggle&quot;]</value>
+      <webElementGuid>b24795c0-b232-42db-81b3-75b65871fe8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugin properties reference'])[3]/following::span[2]</value>
+      <webElementGuid>efe9f721-c33d-41f4-b0c9-779442fff7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span/span</value>
+      <webElementGuid>1d545bfa-c7db-4b6d-9701-c62ba94ec644</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
