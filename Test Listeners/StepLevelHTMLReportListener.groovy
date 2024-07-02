@@ -27,7 +27,25 @@ import groovy.xml.MarkupBuilder
 
 
 //class StepLevelHTMLReportListener {
-//	//private static final KeywordLogger logger = KeywordLogger.getInstance(StepLevelHTMLReportListener.class)
+//	
+//	@BeforeTestCase
+//	def beforeTestCase(TestCaseContext testCaseContext) {
+//		String testCaseId = testCaseContext.getTestCaseId()
+//		println "Before : " + testCaseId
+//	}
+//	
+//	@AfterTestCase
+//	def afterTestCase(TestCaseContext testCaseContext) {
+//		String testCaseId = testCaseContext.getTestCaseId()
+//		println "After : " + testCaseId
+//	}
+//	
+//}
+
+
+
+
+//	private static final KeywordLogger logger = KeywordLogger.getInstance(StepLevelHTMLReportListener.class)
 //	private StringBuilder htmlContent = new StringBuilder()
 //	private String reportFile = "Reports/StepLevelCustomReport.html"
 //	private Map<String, Object> testCaseVariables = [:]

@@ -2,7 +2,8 @@
 <TestCaseEntity>
    <description></description>
    <name>Authenticate</name>
-   <tag></tag>
+   <tag>Regression; Smoke; BillingFunctionality;</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>981057aa-26e0-4c84-8bd4-dcf497c92c66</testCaseGuid>
 </TestCaseEntity>

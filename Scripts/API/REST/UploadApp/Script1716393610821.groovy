@@ -19,6 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/Authenticate'), [:], FailureHandling.STOP_ON_FAILURE)
 
+List appIds = WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/GetApps'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/DeleteExistingApp'), [('appIds') : appIds], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/GetSignature'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/UploadFile'), [:], FailureHandling.STOP_ON_FAILURE)

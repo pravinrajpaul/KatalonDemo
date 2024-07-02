@@ -32,3 +32,4 @@ if ((GlobalVariable.uploadBearer == null) || GlobalVariable.uploadBearer.equals(
     KeywordUtil.markFailedAndStop('Authentication failed')
 }
 
+println GlobalVariable.uploadBearer

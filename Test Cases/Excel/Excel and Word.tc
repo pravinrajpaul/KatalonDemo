@@ -4,5 +4,6 @@
    <name>Excel and Word</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>710efd6e-bd0b-4151-a39d-65bbc00d8c26</testCaseGuid>
 </TestCaseEntity>

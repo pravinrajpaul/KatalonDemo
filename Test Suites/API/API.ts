@@ -4,15 +4,15 @@
    <name>API</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <mailRecipient>pravin.raveendran@katalon.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4ac379de-ea35-4539-ad99-f0127106162b</testSuiteGuid>
+   <testSuiteGuid>482bd6dc-1481-40e5-ab1d-ed23dcc311c1</testSuiteGuid>
    <testCaseLink>
-      <guid>7dcc351a-236e-4594-9786-f30658795bda</guid>
+      <guid>494311b6-7e09-4089-b2b2-aaac2bbe6e6c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/API/REST/Rest</testCaseId>

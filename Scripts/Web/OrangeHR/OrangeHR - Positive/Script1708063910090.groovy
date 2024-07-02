@@ -16,8 +16,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.apache.poi.sl.usermodel.Sheet as Sheet
 
 WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
@@ -30,6 +33,8 @@ WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button
 WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
+
+WebUI.takeFullPageScreenshotAsCheckpoint('OrangeHR-Dashboard')
 
 WebUI.closeBrowser()
 

@@ -4,5 +4,6 @@
    <name>UploadApp</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>0747c44d-a1be-4b97-90e1-5a44cac47991</testCaseGuid>
 </TestCaseEntity>

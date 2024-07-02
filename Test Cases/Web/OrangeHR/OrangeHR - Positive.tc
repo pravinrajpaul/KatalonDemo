@@ -4,5 +4,6 @@
    <name>OrangeHR - Positive</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>be344c1f-1577-47f1-a7ca-bcb4ea746247</testCaseGuid>
 </TestCaseEntity>
