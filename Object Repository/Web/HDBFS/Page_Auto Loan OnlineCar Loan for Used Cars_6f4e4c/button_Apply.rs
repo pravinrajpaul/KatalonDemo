@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply</name>
+   <tag></tag>
+   <elementGuidId>ba88a144-ecc8-493a-86a7-23291a3655ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.buttonDesk.Desktop_ProdAL_EMIAN > button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loanformcontainer']/div[2]/section/div[2]/div[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Apply Now&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ece9f48-d272-4125-b7d0-f80aa2051229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply
+                              Now </value>
+      <webElementGuid>56a2ac55-dd58-4871-ba95-c985e15d1648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loanformcontainer&quot;)/div[@class=&quot;sidebar col-sm-12&quot;]/section[@class=&quot;widget nav_menu-5 widget_nav_menu  col-sm-12&quot;]/div[@class=&quot;row gutter-left gutter-right&quot;]/div[@class=&quot;col-md-6 aplbtn&quot;]/a[@class=&quot;buttonDesk Desktop_ProdAL_EMIAN&quot;]/button[1]</value>
+      <webElementGuid>acd14af3-5c46-40f0-8b35-9f8347f1f3b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loanformcontainer']/div[2]/section/div[2]/div[2]/a/button</value>
+      <webElementGuid>7508978f-172b-4de1-9ce3-77ca85a85b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Interest'])[1]/following::button[1]</value>
+      <webElementGuid>58de2eb5-6359-4a56-affd-f971821359b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Principal Loan Amount'])[1]/following::button[1]</value>
+      <webElementGuid>73a4efad-e2cb-4e1c-a6f8-a5524327d9b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>4672cada-1fc9-4316-b99d-319dcbaebed2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

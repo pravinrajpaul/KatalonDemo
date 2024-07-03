@@ -12,11 +12,19 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\r\n    \&quot;id\&quot;: 788776,\r\n    \&quot;name\&quot;: \&quot;APIUpdate\&quot;,\r\n    \&quot;projectId\&quot;: 1131203,\r\n    \&quot;teamId\&quot;: 852034,\r\n    \&quot;testProjectId\&quot;: 1398320,\r\n    \&quot;testSuiteCollectionId\&quot;: 715031,\r\n    \&quot;testSuiteId\&quot;: 12653614,\r\n    \&quot;executionProfileId\&quot;: 605439,\r\n    \&quot;timeOut\&quot;: 180,\r\n    \&quot;configType\&quot;: \&quot;TEST_SUITE\&quot;,\r\n    \&quot;testProject\&quot;: {\r\n        \&quot;id\&quot;: 1398320,\r\n        \&quot;name\&quot;: \&quot;KatalonDemo.git\&quot;,\r\n        \&quot;description\&quot;: \&quot;\&quot;,\r\n        \&quot;projectId\&quot;: 1131203,\r\n        \&quot;teamId\&quot;: 852034,\r\n        \&quot;createdAt\&quot;: \&quot;2024-02-16T06:19:46.802+0000\&quot;,\r\n        \&quot;type\&quot;: \&quot;GIT\&quot;,\r\n        \&quot;dirty\&quot;: false,\r\n        \&quot;autonomous\&quot;: false,\r\n        \&quot;targetDirectory\&quot;: \&quot;\&quot;\r\n    },\r\n    \&quot;testCloudAgents\&quot;: [\r\n        {\r\n            \&quot;id\&quot;: 376879,\r\n            \&quot;name\&quot;: \&quot;902399andchromelatest\&quot;,\r\n            \&quot;os\&quot;: \&quot;android\&quot;,\r\n            \&quot;osVersion\&quot;: \&quot;15\&quot;,\r\n            \&quot;browser\&quot;: \&quot;chrome\&quot;,\r\n            \&quot;browserVersion\&quot;: \&quot;latest\&quot;,\r\n            \&quot;browserType\&quot;: \&quot;MOBILE_NATIVE\&quot;,\r\n            \&quot;deviceName\&quot;: \&quot;Google Pixel 6 Pro\&quot;,\r\n            \&quot;appId\&quot;: \&quot;ed36942d-5499-4a1b-ae75-1c6f43c67df2\&quot;,\r\n            \&quot;appName\&quot;: \&quot;APIDemos_01.apk\&quot;,\r\n            \&quot;deviceId\&quot;: \&quot;google_pixel_6_pro\&quot;,\r\n            \&quot;numExecutingJobs\&quot;: 0,\r\n            \&quot;numAssignedJobs\&quot;: 0,\r\n            \&quot;deleted\&quot;: false,\r\n            \&quot;totalDuration\&quot;: 0,\r\n            \&quot;metadata\&quot;: {\r\n                \&quot;appVersion\&quot;: \&quot;3.15\&quot;,\r\n                \&quot;devicePool\&quot;: \&quot;main_shared_pool\&quot;\r\n            },\r\n            \&quot;headless\&quot;: false,\r\n            \&quot;executionType\&quot;: \&quot;MOBILE_NATIVE\&quot;\r\n        }\r\n    ],\r\n    \&quot;testCloudTestSuiteCollectionAgents\&quot;: [],\r\n    \&quot;cloudType\&quot;: \&quot;TEST_CLOUD_AGENT\&quot;,\r\n    \&quot;ksVersion\&quot;: \&quot;latest\&quot;,\r\n    \&quot;executionMode\&quot;: \&quot;SEQUENTIAL\&quot;,\r\n    \&quot;enabledKobitonIntegration\&quot;: false,\r\n    \&quot;enabledTestCloudTunnel\&quot;: false,\r\n    \&quot;triggerMode\&quot;: \&quot;MANUAL_TRIGGER\&quot;,\r\n    \&quot;browserType\&quot;: \&quot;ALL\&quot;,\r\n    \&quot;xrayImportReportType\&quot;: \&quot;PUSH_MANUALLY\&quot;,\r\n    \&quot;testRunConfig\&quot;: {\r\n        \&quot;executionType\&quot;: \&quot;G4\&quot;,\r\n        \&quot;executionMetadata\&quot;: {\r\n            \&quot;agentType\&quot;: \&quot;TEST_CLOUD\&quot;,\r\n            \&quot;engine\&quot;: {\r\n                \&quot;type\&quot;: \&quot;G4\&quot;,\r\n                \&quot;version\&quot;: \&quot;latest\&quot;\r\n            },\r\n            \&quot;config\&quot;: {\r\n                \&quot;testSuiteId\&quot;: 12653614,\r\n                \&quot;testSuiteCollectionId\&quot;: 715031,\r\n                \&quot;executionEnvs\&quot;: [\r\n                    {\r\n                        \&quot;platform\&quot;: \&quot;android\&quot;,\r\n                        \&quot;platformVersion\&quot;: \&quot;15\&quot;,\r\n                        \&quot;framework\&quot;: \&quot;SELENIUM\&quot;\r\n                    }\r\n                ]\r\n            }\r\n        },\r\n        \&quot;settings\&quot;: {\r\n            \&quot;executionMode\&quot;: \&quot;SEQUENTIAL\&quot;,\r\n            \&quot;enabledKobitonIntegration\&quot;: false,\r\n            \&quot;enabledTestCloudTunnel\&quot;: false\r\n        },\r\n        \&quot;scheduler\&quot;: {\r\n            \&quot;startTime\&quot;: \&quot;2024-07-01T05:15:10.449+0000\&quot;,\r\n            \&quot;active\&quot;: false\r\n        }\r\n    },\r\n    \&quot;source\&quot;: \&quot;USER\&quot;\r\n}&quot;,
-  &quot;contentType&quot;: &quot;text/plain&quot;,
+  &quot;text&quot;: &quot;${body}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
    <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>719fbcaf-a4a3-4ac4-bb25-534ed6b4c881</webElementGuid>
+   </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -39,5 +47,32 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57633309-697b-4151-aa42-598d2edc94be</id>
+      <masked>false</masked>
+      <name>token</name>
+   </variables>
+   <variables>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69eb986f-9e64-464d-9380-8d17033c6f1a</id>
+      <masked>false</masked>
+      <name>body</name>
+   </variables>
+   <verificationScript>import static org.assertj.core.api.Assertions.*
+
+import com.kms.katalon.core.testobject.RequestObject
+import com.kms.katalon.core.testobject.ResponseObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webservice.verification.WSResponseManager
+
+import groovy.json.JsonSlurper
+import internal.GlobalVariable as GlobalVariable
+
+RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
+
+ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

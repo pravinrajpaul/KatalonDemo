@@ -7,6 +7,9 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData;
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject;
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -43,8 +46,18 @@ public class TestNGTests {
 	}
 	
 	@Test
-	public void test2() {
+	public void test2() throws Exception {
 		System.out.println("Test 2");
+		System.setProperty("webdriver.edge.driver", "D:\\Development\\Katalon Studio\\KatalonDemo\\Resources\\BrowserDrivers\\msedgedriver126.exe");
+		EdgeOptions ed = new EdgeOptions();
+		ed.setCapability("UseChromium", true);
+		ed.setCapability("InPrivate", true);
+		ed.setCapability("Headless", "new");
+		WebDriver wd = new EdgeDriver(ed);
+		wd.get("https://www.google.com");
+		Thread.sleep(3000);
+		wd.close();
+		wd.quit();
 	}
 	
 	@AfterMethod

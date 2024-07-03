@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I have read and agree with all the  T_d2374d</name>
+   <tag></tag>
+   <elementGuidId>c7d7afd9-76ef-4d59-81ed-d336d3826a23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_pan']/div[2]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;I have read and agree with all the Terms &amp; Conditions&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6ebaebc6-7154-48a7-b259-aee38ce22fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>terms</value>
+      <webElementGuid>7f3104d8-464b-483b-8988-4e0ee58c8d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										 I have read and agree with all the  Terms &amp; Conditions 
+									</value>
+      <webElementGuid>da6b25ce-014a-433f-bc76-6f9636e3ca67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_pan&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;inputWrapper&quot;]/div[@class=&quot;form-group&quot;]/label[1]</value>
+      <webElementGuid>c19176ff-e41b-4224-a521-d90de0adc9ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_pan']/div[2]/div/div/label</value>
+      <webElementGuid>75ff90ab-aae8-4433-a537-6d960fec1960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAN NUMBER'])[1]/following::label[1]</value>
+      <webElementGuid>e493f70e-2a80-44cb-b7fe-0b46b7e7706e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Application'])[1]/following::label[2]</value>
+      <webElementGuid>fddf4f23-050f-4167-8901-6e789e9699f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Application'])[2]/preceding::label[1]</value>
+      <webElementGuid>b28ed515-9fd9-4dfd-b3e2-4711d8ca0481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label</value>
+      <webElementGuid>bd18f6a9-4936-4711-a30d-04f07956e0c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+{
+  "keywordFileContentHash": "7DE99574EB779C29D1CC71E4EE6EB743",
+  "keywordClasses": [
+    {
+      "name": "utils.Strings",
+      "keywordMethods": [
+        {
+          "name": "randomStringOf",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "type",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * \r\n\t * @param length : Length of the random string\r\n\t * @param type :\r\n\t * \t\t\t\t0 - for only alphabets (Small and Capital mixed)\r\n\t * \t\t\t\t1 - for only digit strings\r\n\t * \t\t\t\t2 - for both alphabets (small and capital) and digits\r\n\t * \t\t\t\t3 - for only small alphabets\r\n\t * \t\t\t\t4 - for only capital alphabets\r\n\t * \t\t\t\t5 - for both small alphabets and digits\r\n\t * \t\t\t\t6 - for both capital alphabets and digits \t \r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "randomStringOf",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "characters",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t *\r\n\t * @param length : Length of the random string\r\n\t * @param type :\r\n\t * \t\t\t\t0 - for only alphabets (Small and Capital mixed)\r\n\t * \t\t\t\t1 - for only digit strings\r\n\t * \t\t\t\t2 - for both alphabets (small and capital) and digits\r\n\t * \t\t\t\t3 - for only small alphabets\r\n\t * \t\t\t\t4 - for only capital alphabets\r\n\t * \t\t\t\t5 - for both small alphabets and digits\r\n\t * \t\t\t\t6 - for both capital alphabets and digits\r\n\t * @return\r\n\t */"
+        },
+        {
+          "name": "randomStringOf",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

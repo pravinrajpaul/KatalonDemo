@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>0e32d3d7-5a96-4a39-8689-52cef5455219</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>figure > img[alt=&quot;HDB Financial Services&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loader']/div/figure/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#loader >> internal:role=img[name=&quot;HDB Financial Services&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f4ee6341-197a-413f-b8e6-06912cd198df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/loder.gif</value>
+      <webElementGuid>7cb47741-0054-420f-a1d6-29439690ff49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>HDB Financial Services</value>
+      <webElementGuid>25b2a6a2-75c5-435a-987d-9360b6509c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loader&quot;)/div[@class=&quot;searchingWrapper&quot;]/figure[1]/img[1]</value>
+      <webElementGuid>f3d4079a-43ca-4665-af4a-96d502a8aa7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loader']/div/figure/img</value>
+      <webElementGuid>caf54ea2-e43e-454f-8113-0772d0c93cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='HDB Financial Services'])[2]</value>
+      <webElementGuid>5debf959-3c5b-4719-95f2-3f911ebff9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/img</value>
+      <webElementGuid>832ff339-0e45-4be0-b995-b866c14761be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
