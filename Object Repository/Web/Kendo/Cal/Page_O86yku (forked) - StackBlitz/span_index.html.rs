@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_index.html</name>
+   <tag></tag>
+   <elementGuidId>3d3daa10-34b2-494b-b72d-0f908a14e4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'index.html' or . = 'index.html')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.FileItem-FileItem-ZGXsU.FileItem-Selected-qPpCz.FileItem-Focused-JorKZ.FileItem-IsFile-QogUD > div.FileName-root-y9JFn > span.FileName-name-VXmnO</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>aside >> internal:text=&quot;index.html&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c7b7ef6-6ed1-40b7-b395-3bc9002901c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FileName-name-VXmnO</value>
+      <webElementGuid>6f9f24cd-8886-4f41-bffb-fe61def5cc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>index.html</value>
+      <webElementGuid>dc304db3-6a8e-48fc-af7f-ad0738ef6ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;application theme-dark&quot;]/body[1]/div[1]/main[@class=&quot;App-root-yKvfW&quot;]/div[@class=&quot;WorkSpace-root-JGu9a&quot;]/div[@class=&quot;WorkSpace-appMosaic-Rgt2g mosaic mosaic-drop-target&quot;]/div[@class=&quot;mosaic-root&quot;]/div[@class=&quot;mosaic-tile&quot;]/aside[@class=&quot;SidebarLayout-root-ZX4eA&quot;]/div[@class=&quot;SidebarLayout-content-gDHXh&quot;]/section[@class=&quot;TreeItem-Item-itQMc&quot;]/div[@class=&quot;TreeItem-Content-cNaiJ&quot;]/div[@class=&quot;FileTree FileTree-FileTree-vE1bW&quot;]/div[5]/div[@class=&quot;react-contextmenu-wrapper&quot;]/div[@class=&quot;FileItem-FileItem-ZGXsU FileItem-Selected-qPpCz FileItem-Focused-JorKZ FileItem-IsFile-QogUD&quot;]/div[@class=&quot;FileName-root-y9JFn&quot;]/span[@class=&quot;FileName-name-VXmnO&quot;]</value>
+      <webElementGuid>e6a66bc5-32e4-4673-9f5c-37afc8f732d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'index.html' or . = 'index.html')]</value>
+      <webElementGuid>cc93ff45-3001-423d-9130-5850b634dc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[4]/following::span[2]</value>
+      <webElementGuid>ebb1eca4-f225-4b35-b80b-18ddc75afe46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[4]/following::span[4]</value>
+      <webElementGuid>91326aa4-8379-4202-a69a-02ff3d0f1735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[5]/preceding::span[3]</value>
+      <webElementGuid>e6f27b19-6229-4aa7-b749-a49838f96b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[5]/preceding::span[5]</value>
+      <webElementGuid>cf6a0989-4943-4ac7-8ee4-47a0c9c02a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='index.html']/parent::*</value>
+      <webElementGuid>47d09f1a-96fe-46a2-928b-a5a062df17e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/span</value>
+      <webElementGuid>eb9ba19e-1537-4254-b799-09646d989531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

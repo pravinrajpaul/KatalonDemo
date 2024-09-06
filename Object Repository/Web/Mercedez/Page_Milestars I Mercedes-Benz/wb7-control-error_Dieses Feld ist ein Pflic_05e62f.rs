@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wb7-control-error_Dieses Feld ist ein Pflic_05e62f</name>
+   <tag></tag>
+   <elementGuidId>713b0b36-7132-4297-b03b-b07a6f4c78e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='errorMessage-dealerIddealer_locator']/wb7-control-error</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.aemf-form-container > form[name=&quot;d1074087-f2c7-4563-91c5-7695bcafa7a1&quot;] > div.form-renderer.wbx-grid-row > div.form-group.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-renderer.wbx-grid-row > div.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > #errorMessage-dealerIddealer_locator > #required-dealerIddealer_locator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Dieses Feld ist ein Pflichtfeld.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>wb7-control-error</value>
+      <webElementGuid>e803d59d-10be-493a-8d47-2289bded3a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>message</value>
+      <webElementGuid>99c8d5e8-c119-44e3-b8fb-104591940c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>required-dealerIddealer_locator</value>
+      <webElementGuid>a81aa625-28e5-434c-bbff-dc293c554af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-dealer-section__error-message wb-control-error hydrated</value>
+      <webElementGuid>c0ddd4e9-92b8-46af-bd99-9289c966cc51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>light</value>
+      <webElementGuid>8c62b3cb-265c-4a3a-964a-c70ab2ff3089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dieses Feld ist ein Pflichtfeld.</value>
+      <webElementGuid>0a0ccd4f-86ed-4d0b-9275-9ac10659d247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;aemf-form-container&quot;]/form[@class=&quot;aemf-form-container__form&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-group wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@id=&quot;errorMessage-dealerIddealer_locator&quot;]/wb7-control-error[@id=&quot;required-dealerIddealer_locator&quot;]</value>
+      <webElementGuid>864c5ef6-eaf1-46ca-bf87-25c9ac6fa932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/aemf-form-container-es-Benz-37f</value>
+      <webElementGuid>6fb97d13-c9fa-416b-8ae5-a4fbe292f4e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>62aad07e-646e-4a41-ac05-9d90275fad01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='errorMessage-dealerIddealer_locator']/wb7-control-error</value>
+      <webElementGuid>c62e0bd5-60e8-4dfb-9984-4e682666a416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dieses Feld ist ein Pflichtfeld.']/parent::*</value>
+      <webElementGuid>02b71228-6e75-4ec4-a052-a6fad3d9bcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//wb7-control-error[@id = 'required-dealerIddealer_locator']</value>
+      <webElementGuid>4517e716-b01f-41a0-827a-87c21191547f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

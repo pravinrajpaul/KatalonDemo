@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OPEN IN</name>
+   <tag></tag>
+   <elementGuidId>57a8de3d-9990-4b7b-a989-987935cc98c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'OPEN IN' or . = 'OPEN IN')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-sc-wcx5jf-0.edit-menu__EditButton-sc-vblcaq-2.eOgWzH.fHucnK.edit-menu-sc-vblcaq-8.lmkuDk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OPEN IN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c3506880-472d-4725-92ee-d217ee826b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-sc-wcx5jf-0 edit-menu__EditButton-sc-vblcaq-2 eOgWzH fHucnK edit-menu-sc-vblcaq-8 lmkuDk</value>
+      <webElementGuid>04574521-e3e7-4fa7-a25a-4456e9038426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>3be38891-93df-4893-b24a-894b5cb31fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6c14b78d-910e-4fa6-9b43-72ef3268dac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-activedescendant</name>
+      <type>Main</type>
+      <value>open_in_codesandbox</value>
+      <webElementGuid>e185dfb3-e402-4011-8922-f3fdaa954e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OPEN IN</value>
+      <webElementGuid>1443a38a-62c0-4a31-a44c-7e0860481622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/main[@class=&quot;container-sc-n150ym-0 gHslwQ&quot;]/div[@class=&quot;row-sc-4zdjyf-0 dBtUqS&quot;]/div[@class=&quot;column-sc-1t518bt-0 bQJVbx&quot;]/article[1]/div[3]/div[@class=&quot;demo-sc-1m0h1qa-3 idmYCz&quot;]/div[@class=&quot;tabstrip-sc-llky6s-0 bfFovd&quot;]/div[@class=&quot;box-sc-1g51uh7-0 edit-menu__ButtonBox-sc-vblcaq-7 iZCBIC bOABqi&quot;]/button[@class=&quot;button-sc-wcx5jf-0 edit-menu__EditButton-sc-vblcaq-2 eOgWzH fHucnK edit-menu-sc-vblcaq-8 lmkuDk&quot;]</value>
+      <webElementGuid>271b46d0-985b-44b9-8af4-40e1df9865c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OPEN IN' or . = 'OPEN IN')]</value>
+      <webElementGuid>b4cec97b-43ac-4e12-a560-3d2894e1c875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/main/div/div[2]/article/div[3]/div/div/div[3]/button</value>
+      <webElementGuid>ffc84697-820c-472c-a97c-0c6b3ce0b479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Source'])[1]/following::button[1]</value>
+      <webElementGuid>4bf8e120-3805-455a-a77d-0b1cd9ca92c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Example'])[1]/following::button[1]</value>
+      <webElementGuid>58f1a6ac-c449-4cd0-aa4a-0f4a03807e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Theme:'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab3f7360-a7ad-4b1e-a105-c8fe70389280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>f6dbb08f-dfd6-49a3-ae25-b8913c9db431</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

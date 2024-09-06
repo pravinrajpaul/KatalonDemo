@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nothing has been found. Please try ano_1625db</name>
+   <tag></tag>
+   <elementGuidId>17f3e322-3e0c-4f52-84fc-171292e47338</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='dealer-agent-search-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dealer-agent-search-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Nothing has been found. Please try another query&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6dea093b-4299-46ea-a2bb-0bcd3bb91ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dealer-agent-search-error</value>
+      <webElementGuid>8fcfeaed-3324-442a-9ce5-15be4a138eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss760 jss1240 jss892</value>
+      <webElementGuid>b6525c94-3d34-4843-b52f-a4c5e89f6068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nothing has been found. Please try another query</value>
+      <webElementGuid>4664a34a-2581-4c57-9906-e680707e5580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dealer-agent-search-error&quot;)</value>
+      <webElementGuid>677b2002-e855-448d-9f92-e2ee99ba20e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='dealer-agent-search-error']</value>
+      <webElementGuid>6eaffd50-1720-4e17-b495-db1707a2427b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[3]/div[4]/form/div/div/div/div/div/span</value>
+      <webElementGuid>a11cc7ef-fbf3-405d-86ea-c9451b47ff23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bitte gib Deine Postleitzahl, Region oder den Ort ein.'])[1]/following::span[2]</value>
+      <webElementGuid>4c446bd5-547f-4058-a48f-b309fcd1e0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anmelden'])[1]/following::span[2]</value>
+      <webElementGuid>a6b52171-3ce8-4410-bc38-69778122bb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retail Partner'])[1]/preceding::span[1]</value>
+      <webElementGuid>e0203383-3632-4957-8da0-85c5f9a0f767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::span[1]</value>
+      <webElementGuid>ee725440-9f4e-474e-b016-096e008db4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nothing has been found. Please try another query']/parent::*</value>
+      <webElementGuid>0400347f-3779-463e-965a-0355d417881c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/span</value>
+      <webElementGuid>4713ff44-b838-4d9e-8346-714f3f57f1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'dealer-agent-search-error' and (text() = 'Nothing has been found. Please try another query' or . = 'Nothing has been found. Please try another query')]</value>
+      <webElementGuid>37c9429a-5155-4c9f-8ebc-c7e7c67895c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

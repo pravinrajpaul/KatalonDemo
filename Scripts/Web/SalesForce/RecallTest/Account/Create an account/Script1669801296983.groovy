@@ -22,7 +22,11 @@ WebUI.enhancedClick(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Pag
 WebUI.waitForElementPresent(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Recently Viewed  Accounts  Salesforce/div_New'), 
     5)
 
-CustomKeywords.'web.ApplicationFunction.moveToElement'(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Recently Viewed  Accounts  Salesforce/div_New'))
+not_run: WebUI.mouseOver(findTestObject('Web/SalesForce/OR_Salesforce New/Page_Recently Viewed  Leads  Salesforce/div_New'))
+
+WebUI.enhancedClick(findTestObject('Web/SalesForce/OR_Salesforce New/Page_Recently Viewed  Leads  Salesforce/div_New'))
+
+not_run: CustomKeywords.'web.ApplicationFunction.moveToElement'(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Recently Viewed  Accounts  Salesforce/div_New'))
 
 WebUI.click(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_New Account  Salesforce/span_For business customers_slds-radio--faux'))
 
@@ -38,7 +42,7 @@ WebUI.delay(3)
 WebUI.click(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_New Account Person Account  Salesforce/a_Mr'))
 
 WebUI.setText(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_New Account Person Account  Salesforce/input_First Name_35960'), 
-    'Mohit')
+    accountName)
 
 WebUI.setText(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_New Account Person Account  Salesforce/input__36160'), 
     'Katalon')
@@ -76,7 +80,7 @@ WebUI.waitForElementVisible(findTestObject('Web/SalesForce/OR_Salesforce New/Acc
 
 WebUI.click(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Mohit Katalon  Salesforce/button_Delete'))
 
-WebUI.verifyElementText(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Mohit Katalon  Salesforce/h2_Delete Person Account'), 
+WebUI.verifyElementText(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Mohit Katalon  Salesforce/h1_Delete Person Account'), 
     'Delete Person Account')
 
 WebUI.enhancedClick(findTestObject('Web/SalesForce/OR_Salesforce New/Account/Page_Mohit Katalon  Salesforce/span_Delete'))

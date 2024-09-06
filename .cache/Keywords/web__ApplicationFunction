@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "2421A495BD73ABFB01014AE815A20935",
+  "keywordFileContentHash": "6A2CC809B678184BB3463D9D76745C16",
   "keywordClasses": [
     {
       "name": "web.ApplicationFunction",
@@ -64,6 +64,25 @@
               "type": {
                 "fullClassName": "com.kms.katalon.core.testobject.TestObject",
                 "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "executeJavaScript",
+          "parameters": [
+            {
+              "name": "script",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
                 "hasImmutableClassName": false,

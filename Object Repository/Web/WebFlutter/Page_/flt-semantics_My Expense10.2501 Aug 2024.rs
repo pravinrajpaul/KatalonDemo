@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>flt-semantics_My Expense10.2501 Aug 2024</name>
+   <tag></tag>
+   <elementGuidId>7b5156be-4a78-4289-ad79-9958611ed940</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#flt-semantic-node-38</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//flt-semantics[@id='flt-semantic-node-38']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;My Expense $10.25 01 Aug 2024&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>flt-semantics</value>
+      <webElementGuid>1ec1ab6d-18c8-4272-bc59-0f9a92eba691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>flt-semantic-node-38</value>
+      <webElementGuid>9dbcf7b0-1c9c-4637-91f1-23f82639dc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4e8b00c9-c87e-4dfd-bb38-918088bbc13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Expense
+$10.25
+01 Aug 2024</value>
+      <webElementGuid>d488cd18-312d-44f9-ab9d-a5e94adcddf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flt-semantic-node-38&quot;)</value>
+      <webElementGuid>c773498e-d4da-4981-8a49-1e23479ede96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//flt-semantics[@id='flt-semantic-node-38']</value>
+      <webElementGuid>d3c1436b-36ac-4d70-acbe-1da510334273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flt-semantics[@id='flt-semantic-node-37']/flt-semantics-container/flt-semantics</value>
+      <webElementGuid>820b830e-0a0b-45db-a899-6b2b8af9fa65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flt-semantics[3]/flt-semantics-container/flt-semantics</value>
+      <webElementGuid>0d27d17d-944d-4458-8a1e-bef0e5ff8199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//flt-semantics[(text() = 'My Expense
+$10.25
+01 Aug 2024' or . = 'My Expense
+$10.25
+01 Aug 2024')]</value>
+      <webElementGuid>92d1117c-89af-4baa-b6fa-f5deec5c3e84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

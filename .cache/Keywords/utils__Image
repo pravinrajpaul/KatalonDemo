@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "BB53951F77634002099E6B5385EEA1CF",
+  "keywordClasses": [
+    {
+      "name": "utils.Image",
+      "keywordMethods": [
+        {
+          "name": "textFromImage",
+          "parameters": [
+            {
+              "name": "imagePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

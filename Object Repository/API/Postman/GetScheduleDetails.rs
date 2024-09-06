@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GetScheduleDetails</name>
+   <tag></tag>
+   <elementGuidId>c0002f3c-5301-4615-b19c-b7d23a275372</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJpZTlDMnN4ZjZ4czczSHJxY0QyejRxcVVzNEFpOWVzNXR5SVVKYmRTYW04In0.eyJleHAiOjE3MTk5ODA2MTksImlhdCI6MTcxOTgwNzgxOSwiYXV0aF90aW1lIjoxNzE5ODA3ODEwLCJqdGkiOiIxYjhkMjAzMC1mY2E2LTRlZjMtYWU0Yi1lZjUxNmI2ZDdkNmEiLCJpc3MiOiJodHRwczovL2xvZ2luLmthdGFsb24uY29tL3JlYWxtcy9rYXRhbG9uIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6ImIwMTJkMWY0LTQzNmYtNDA0ZS1iNmJmLTdiYTgwNzExYWQ2NCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImthdGFsb24tdGVzdG9wcyIsInNlc3Npb25fc3RhdGUiOiI3NjVjMjg4Mi1iNDE1LTQwNDMtODE4Zi0zNjRiZWJkZmQ0ZmYiLCJhY3IiOiIxIiwiYWxsb3dlZC1vcmlnaW5zIjpbIiIsImh0dHBzOi8vYW5hbHl0aWNzLmthdGFsb24uY29tIiwiaHR0cHM6Ly90ZXN0b3BzLXByZS5rYXRhbG9uLmNvbSIsImh0dHBzOi8vdGVzdG9wcy5rYXRhbG9uLmlvIiwiaHR0cHM6Ly90ZXN0b3BzLWcyLmthdGFsb24uY29tIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiIsImRlZmF1bHQtcm9sZXMta2F0YWxvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJzaWQiOiI3NjVjMjg4Mi1iNDE1LTQwNDMtODE4Zi0zNjRiZWJkZmQ0ZmYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwidXBkYXRlZF90aW1lc3RhbXAiOjE2OTY2NjE3NTM4NDgsImxhc3RfbG9naW4iOjE3MTk4MDc4MTAyMjYsIm5hbWUiOiJQcmF2aW4gUmFqIFBhdWwiLCJjcmVhdGVkX3RpbWVzdGFtcCI6MTY4MjQwNjYxMDIyNCwicHJlZmVycmVkX3VzZXJuYW1lIjoicHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb20iLCJnaXZlbl9uYW1lIjoiUHJhdmluIFJhaiIsImZhbWlseV9uYW1lIjoiUGF1bCIsImVtYWlsIjoicHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb20ifQ.LJ4mDOz5k8SWVf3ldMqcmK4ASfBzoAwS3Pa8KB3XoX6wxcB5nXUU7O_gptXlsnUoKwPEgzDJsfMo5EnAeE9zxQf39rvwC7QFSP39LR5B0TIRQY-qLl_79X4edJlW65_4E192dihlgj4ezJ7Tlq3KCjUIto2-uIaztvd8aTsIbWFr5K5IKLAjAN_x0Dpl_OL_fwh7KTZbUYfgVoFXe8JMj826hfKk-VmgQDr4gNebh6oBvMuheOIGPNy0wxv85zY2-sQoHxMG5wUs0FvzY0d7Hz25QCKFy3A-r9OFjDuHlaWla_c6rMrzDUgvycYHzuv84t_3_MEgCWwKLeLeHVF5rw</value>
+      <webElementGuid>cee6bd45-8eb8-42b5-bb08-b9e9f9af46af</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>9.6.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>https://testops.katalon.io/api/v1/search?q=%7B%22pagination%22%3A%7B%22page%22%3A0%2C%22size%22%3A1%2C%22sorts%22%3A%22order%2Cdesc%22%7D%2C%22conditions%22%3A%5B%7B%22key%22%3A%22id%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%22788776%22%7D%2C%7B%22key%22%3A%22Project.id%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%221131203%22%7D%5D%2C%22type%22%3A%22RunConfiguration%22%7D</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

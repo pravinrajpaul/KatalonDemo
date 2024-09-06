@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Accessories</name>
+   <tag></tag>
+   <elementGuidId>006ab650-20f1-4828-ba06-9a02e3188c4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cleaning and Care products'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+			Accessories' or . = '
+			Accessories')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Accessories&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6bf583a1-2c82-420c-9112-cd47e1ecac88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5c32fe07-af6a-406c-9133-ea209a4670ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Accessories</value>
+      <webElementGuid>2ee01de8-c0cc-4a01-8e0a-eb035820183b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;supports no-touchevents cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside csstransforms csstransforms3d csstransitions webp webp-alpha webp-animation webp-lossless windows-os&quot;]/body[@class=&quot;site-structure-level-1 pagetype-home no-scroll&quot;]/div[@class=&quot;g-container&quot;]/header[@class=&quot;o-headerrebrush js-header-rebrush headerrebrush-transparent-toggle transparent-above-stage is-transparent-now open&quot;]/div[@class=&quot;fly-out-wrap&quot;]/div[@class=&quot;fly-out-container active&quot;]/div[@class=&quot;fly-out&quot;]/div[@class=&quot;m-navigation-flyout&quot;]/nav[@class=&quot;navigation-lists-container&quot;]/div[@class=&quot;navigation-lists-wrap&quot;]/div[@class=&quot;third-level js-third-level sublevel js-navigation-col navigation-col active&quot;]/div[@class=&quot;js-navigation-link-list m-navigation-link-list active&quot;]/a[@class=&quot;a-link js-navigation-link navigation-link has-child-level&quot;]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>cbeeba3f-08c6-4305-8d7a-cdd8d486f76f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cleaning and Care products'])[2]/following::span[1]</value>
+      <webElementGuid>cd647262-be37-41dd-a3b6-da82aa528128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Built-in dishwashers'])[1]/following::span[2]</value>
+      <webElementGuid>7a45fa93-497a-4669-b832-16e3f6a0121f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dishwasher product finder'])[1]/preceding::span[1]</value>
+      <webElementGuid>2ea24049-be01-4304-8289-005e239ba31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[9]/preceding::span[2]</value>
+      <webElementGuid>3a6eaf57-d954-46b7-a241-cb59051b6bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a[5]/span</value>
+      <webElementGuid>f59553ba-ea2b-4aa1-b01e-a17ed5e9d50c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

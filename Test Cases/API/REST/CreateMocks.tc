@@ -4,5 +4,6 @@
    <name>CreateMocks</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>ec094eeb-eee6-487c-8429-6c5a2c28f316</testCaseGuid>
 </TestCaseEntity>

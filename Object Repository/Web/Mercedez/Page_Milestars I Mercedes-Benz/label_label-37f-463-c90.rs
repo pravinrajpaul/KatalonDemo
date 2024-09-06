@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_label-37f-463-c90</name>
+   <tag></tag>
+   <elementGuidId>b5305db1-1e91-4afb-bf07-09ba512473b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>wb7-grey-box.has-floating-label.sc-wb-grey-box-h.sc-wb-grey-box-s.wb-grey-box.hydrated > div.inner.sc-wb-grey-box.sc-wb-grey-box-s > label.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#cityinputfield_copy_copy label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8a9b2f4e-2bbe-40fa-b3f0-4091bd6b4121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-vej569yru</value>
+      <webElementGuid>bbde3ae3-f1aa-48f2-b4ef-8629bb9c6fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>20bbc2f3-f0a1-4618-bba8-0ae11bc2b897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/wb7-grey-box[@class=&quot;has-floating-label sc-wb-grey-box-h sc-wb-grey-box-s wb-grey-box hydrated&quot;]/div[@class=&quot;inner sc-wb-grey-box sc-wb-grey-box-s&quot;]/label[@class=&quot;label&quot;]</value>
+      <webElementGuid>357226e1-b9cc-4504-ad23-604d6c348a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/wb7-input_Ort-enz-37f-463</value>
+      <webElementGuid>1595f1e4-4896-4273-b0eb-05fef0f7b930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>32ba384e-4dc2-4507-957f-a438feb7824f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>d4a4e2f5-db21-41cc-86b3-20557e815538</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

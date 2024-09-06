@@ -5,6 +5,7 @@
    <tag></tag>
    <elementGuidId>4dd3348a-49d3-4f3a-bc2f-c9c7e701547b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
    <connectionTimeout>0</connectionTimeout>
@@ -23,6 +24,7 @@
    <katalonVersion>8.6.0</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
    <restRequestMethod>GET</restRequestMethod>
    <restUrl>https://reqres.in/api/users/${id}</restUrl>
    <serviceType>RESTful</serviceType>

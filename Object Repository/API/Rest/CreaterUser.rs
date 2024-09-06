@@ -5,6 +5,7 @@
    <tag></tag>
    <elementGuidId>19a69e15-7935-40e2-b469-43a76982f84d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>false</autoUpdateContent>
    <connectionTimeout>0</connectionTimeout>
@@ -27,6 +28,7 @@
    <katalonVersion>8.6.0</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
    <restRequestMethod>POST</restRequestMethod>
    <restUrl>https://reqres.in/api/users</restUrl>
    <serviceType>RESTful</serviceType>
@@ -47,7 +49,7 @@
       <activate>true</activate>
    </validationSteps>
    <variables>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Pravin'</defaultValue>
       <description></description>
       <id>56809985-7afb-4b5b-aecd-1da2c45536d2</id>
       <masked>false</masked>

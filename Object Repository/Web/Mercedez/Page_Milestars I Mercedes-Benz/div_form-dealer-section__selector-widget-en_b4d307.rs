@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_form-dealer-section__selector-widget-en_b4d307</name>
+   <tag></tag>
+   <elementGuidId>45b6a6c9-ad1f-424c-a111-b3a744b2f29f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.aemf-form-container > form[name=&quot;d1074087-f2c7-4563-91c5-7695bcafa7a1&quot;] > div.form-renderer.wbx-grid-row > div.form-group.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-renderer.wbx-grid-row > div.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-dealer-section.form-dealer-section--inline.form-dealer-section--error > div.form-dealer-section__cta-section > div.form-dealer-section__modal.form-dealer-section__modal--show > wb7-modal.wb-modal.hydrated > wb7-modal-level.wb-modal-level.hydrated > div.form-dealer-section__selector-widget</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>wb7-modal-level div >> internal:has-text=&quot;Suche nach Ihrem Mercedes-Benz PartnerSuche über AdresseSuche über NamenOrt / PL&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2328ddbf-538b-4c05-bbaa-9e33cb03f890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-dealer-section__selector-widget</value>
+      <webElementGuid>a1a1ffaf-e5fb-4134-b997-d8a186a732d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;aemf-form-container&quot;]/form[@class=&quot;aemf-form-container__form&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-group wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-dealer-section form-dealer-section--inline form-dealer-section--error&quot;]/div[@class=&quot;form-dealer-section__cta-section&quot;]/div[@class=&quot;form-dealer-section__modal form-dealer-section__modal--show&quot;]/wb7-modal[@class=&quot;wb-modal hydrated&quot;]/wb7-modal-level[@class=&quot;wb-modal-level hydrated&quot;]/div[@class=&quot;form-dealer-section__selector-widget&quot;]</value>
+      <webElementGuid>f2600924-2301-4c2d-9178-7bce4afcde10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/aemf-form-container-es-Benz-37f</value>
+      <webElementGuid>4d3ff7d0-1cc5-4314-a63c-e28e68e666aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4dc812da-7264-4904-a6a3-3885f2518dba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

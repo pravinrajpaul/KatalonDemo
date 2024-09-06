@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wb7-radio-button_Fr-enz-37f-d0e</name>
+   <tag></tag>
+   <elementGuidId>46562ec1-51b3-4e01-a568-cec542b9cbd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Fr.']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.aemf-form-container > form[name=&quot;d1074087-f2c7-4563-91c5-7695bcafa7a1&quot;] > div.form-renderer.wbx-grid-row > div.form-group.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-renderer.wbx-grid-row > div.form-radio.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto.form-radio--horizontal > div.form-radio__list > wb7-radio-group.wb-radio-group.hydrated > wb7-radio-button.wb-radio-button.hydrated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Fr.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>wb7-radio-button</value>
+      <webElementGuid>ec4200c6-a50d-4da4-af9d-41bc21e2316f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wb-radio-button hydrated</value>
+      <webElementGuid>da3b9817-3d16-4629-8a23-25e2dc3bcc3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>light</value>
+      <webElementGuid>5e355a44-f9f7-4b2a-883f-ff0f7a1e8d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fr. </value>
+      <webElementGuid>e819ccff-930f-4e7c-92ed-9595592e3dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;aemf-form-container&quot;]/form[@class=&quot;aemf-form-container__form&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-group wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-radio wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto form-radio--horizontal&quot;]/div[@class=&quot;form-radio__list&quot;]/wb7-radio-group[@class=&quot;wb-radio-group hydrated&quot;]/wb7-radio-button[@class=&quot;wb-radio-button hydrated&quot;]</value>
+      <webElementGuid>8514c24e-fe81-459b-b7f8-05b008ea3936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/aemf-form-container-es-Benz-37f</value>
+      <webElementGuid>dea1e4d5-dc84-496d-89b9-03cdd93751bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4dd31ec1-d074-46b9-b076-40230c496247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fr.']/parent::*</value>
+      <webElementGuid>6ef28533-8b4d-4d0d-969e-44578f43a667</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

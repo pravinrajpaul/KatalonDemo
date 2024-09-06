@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_leadDescription-37f-8f6-ae6</name>
+   <tag></tag>
+   <elementGuidId>5058b5fb-91b9-42a9-8e98-c4afc56fc7a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id = 'input-x1knvgu58' and @name = 'leadDescription' and @placeholder = 'Geben Sie hier Ihre Anfrage an. (Max. 450 Zeichen)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>wb7-grey-box.sc-wb-grey-box-h.sc-wb-grey-box-s.wb-grey-box.hydrated.has-floating-label > div.inner.sc-wb-grey-box.sc-wb-grey-box-s > div.textarea-wrap > #input-x1knvgu58</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#input-x1knvgu58</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>18095eaa-1cf0-4df4-bf5f-2a1c880bab3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-x1knvgu58</value>
+      <webElementGuid>9c1fab50-27c5-4c4b-95db-420543b51fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bd26256b-c07c-473c-a468-f08196a9453c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>leadDescription</value>
+      <webElementGuid>ba9ced84-762a-4cd8-851f-cbd61d4a575c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Geben Sie hier Ihre Anfrage an. (Max. 450 Zeichen)</value>
+      <webElementGuid>0ecc74e0-5152-48ae-b5ae-5c29789d5122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/wb7-grey-box[@class=&quot;sc-wb-grey-box-h sc-wb-grey-box-s wb-grey-box hydrated has-floating-label&quot;]/div[@class=&quot;inner sc-wb-grey-box sc-wb-grey-box-s&quot;]/div[@class=&quot;textarea-wrap&quot;]/textarea[@id=&quot;input-x1knvgu58&quot;]</value>
+      <webElementGuid>8409a960-c7f7-4817-9dbb-56365cf2a0d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/wb7-input_leadDescription-enz-37f-8f6</value>
+      <webElementGuid>10b26d7b-ea61-4182-a7c0-f1ddfc9b10a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a4ef27f2-1bf4-404b-b75b-ee6e1eb48fa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'input-x1knvgu58' and @name = 'leadDescription' and @placeholder = 'Geben Sie hier Ihre Anfrage an. (Max. 450 Zeichen)']</value>
+      <webElementGuid>4ea71d23-4b24-4100-bb13-ccd81c5b1965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

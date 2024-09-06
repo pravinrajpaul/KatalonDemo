@@ -4,5 +4,28 @@
    <name>KendoCalendar</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>18634abf-a797-4bc8-b2df-9debd866cd1c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3b480b4f-21da-4461-b7b7-d878715021c4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Internal</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3b480b4f-21da-4461-b7b7-d878715021c4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Date</value>
+      <variableId>6c76e373-ca51-482a-9328-86d97558d0ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5 Aug 2000'</defaultValue>
+      <description></description>
+      <id>6c76e373-ca51-482a-9328-86d97558d0ab</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
 </TestCaseEntity>

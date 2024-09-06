@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wb7-button_Allem zustimmen-gen-5ea-dde</name>
+   <tag></tag>
+   <elementGuidId>cc4be1d0-7584-47e6-a016-efe91261589c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cmm-cookie-banner.cmm-cookie-banner--A > div.cmm-cookie-banner__wrapper.visible > div.cmm-cookie-banner__content > cmm-buttons-wrapper.hydrated > div.buttons-wrapper > div.button-group > wb7-button.button.button--accept-all.wb-button.hydrated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Allem zustimmen']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>cmm-buttons-wrapper [data-test=&quot;handle-accept-all-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>wb7-button</value>
+      <webElementGuid>9e9353ca-0c89-4642-a27d-76768fddd79a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--accept-all wb-button hydrated</value>
+      <webElementGuid>af234ffd-32f8-4f0b-87a6-98c5862c94ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>handle-accept-all-button</value>
+      <webElementGuid>8e30f8f9-f9fa-47fa-9cb7-75e3951aa03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>secondary</value>
+      <webElementGuid>8852c44e-b052-404a-b806-2aafb2d2e5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>s</value>
+      <webElementGuid>29440814-8cc5-4eb4-a1f5-f2d2a4d95a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>light</value>
+      <webElementGuid>ecac6223-d8b8-4701-b8a8-73ba7cd5da38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allem zustimmen</value>
+      <webElementGuid>32f2503b-cb6c-4dfc-b921-6d99134a6acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;cmm-cookie-banner cmm-cookie-banner--A&quot;]/div[@class=&quot;cmm-cookie-banner__wrapper visible&quot;]/div[@class=&quot;cmm-cookie-banner__content&quot;]/cmm-buttons-wrapper[@class=&quot;hydrated&quot;]/div[@class=&quot;buttons-wrapper&quot;]/div[@class=&quot;button-group&quot;]/wb7-button[@class=&quot;button button--accept-all wb-button hydrated&quot;]</value>
+      <webElementGuid>e85345c5-39b2-4141-b0b4-fde288154bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Mercedes-Benz Personenwagen/cmm-cookie-banner_Skip to content ((Main Na_449722</value>
+      <webElementGuid>233a8029-a73d-4dcc-aa7d-65b85b937bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>72b06c49-f43c-40d7-bad0-26e6f83b73d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Allem zustimmen']/parent::*</value>
+      <webElementGuid>78a19a5d-f0f1-4071-a996-0f1e6a20fbd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

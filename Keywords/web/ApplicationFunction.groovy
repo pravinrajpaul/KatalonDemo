@@ -51,6 +51,15 @@ class ApplicationFunction {
 		js.executeScript("arguments[0].click();", we)
 	}
 
+	@Keyword(
+	keywordObject='WEB'
+	)
+	def executeJavaScript(String script) {
+		WebDriver wd = DriverFactory.getWebDriver()
+		JavascriptExecutor js = (JavascriptExecutor) wd
+		js.executeScript(script)
+	}
+
 	def Map<String, List<String>> getAllSelectors(TestObject to) {
 		// Map to store the selection methods and their corresponding selectors
 		Map<String, List<String>> selectorsMap = new HashMap<>()

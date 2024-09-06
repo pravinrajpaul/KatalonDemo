@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "69FA5ED2A51FD0EA19285BD029AC821C",
+  "keywordClasses": [
+    {
+      "name": "katalon.Kendo",
+      "keywordMethods": [
+        {
+          "name": "setDateKendoCalendar",
+          "parameters": [
+            {
+              "name": "date",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

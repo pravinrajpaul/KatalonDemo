@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wb7-icon_dealer-37f-1ca-e8b</name>
+   <tag></tag>
+   <elementGuidId>feb5ab4b-7243-4f5c-867f-3a9c924dee42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mapContainer']/div/div[3]/div/div[2]/div/div[3]/div/div/div[2]/div/div/wb7-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.dl-app.dl-app--no-margin > main.dl-map-view > #map > #mapContainer > div > div.gm-style > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div > div > div.yNHHyP-marker-view > div.IPAZAH-content-container.HJDHPx-interactive > div.dl-dealer-marker--highlighted > wb7-icon[name=&quot;dealer&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > div > div:nth-child(3) > div > div > div:nth-child(2)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>wb7-icon</value>
+      <webElementGuid>f2df1e5c-4ea4-4e08-bf67-82ad1e42c440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dl-dealer-marker wb-icon hydrated</value>
+      <webElementGuid>dc89fa26-7e2d-4425-a1c0-df97c1f74a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>dealer</value>
+      <webElementGuid>e6fafab5-3cad-4b7b-8590-70e756af7f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c6a6d502-26dc-4708-8cfe-6521002fe0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;dl-app dl-app--no-margin&quot;]/main[@class=&quot;dl-map-view&quot;]/div[@id=&quot;map&quot;]/div[@id=&quot;mapContainer&quot;]/div[1]/div[@class=&quot;gm-style&quot;]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[@class=&quot;yNHHyP-marker-view&quot;]/div[@class=&quot;IPAZAH-content-container HJDHPx-interactive&quot;]/div[@class=&quot;dl-dealer-marker--highlighted&quot;]/wb7-icon[@class=&quot;dl-dealer-marker wb-icon hydrated&quot;]</value>
+      <webElementGuid>77aca661-8355-4c2f-ba9b-afa5b2a995a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/div_form-dealer-section__selector-widget-en_b4d307</value>
+      <webElementGuid>8acaf9db-0658-4986-a846-1705489d5c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1129dbda-4cb9-42e9-88f5-faf88474d6d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mapContainer']/div/div[3]/div/div[2]/div/div[3]/div/div/div[2]/div/div/wb7-icon</value>
+      <webElementGuid>8486fffe-72bb-4ba8-93e2-7d698d7589b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//wb7-icon[@name = 'dealer']</value>
+      <webElementGuid>3bb72ae7-c4fd-42fa-8dbb-c645da4a85e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

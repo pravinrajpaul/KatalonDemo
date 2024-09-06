@@ -4,5 +4,28 @@
    <name>Create an account</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>50ab694b-2251-44db-bb46-a414c8c384b6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>40289086-5d60-4d5d-b140-be95ac629d6b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ContactDetails-SIT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>40289086-5d60-4d5d-b140-be95ac629d6b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>City</value>
+      <variableId>6fad1cfe-b757-4858-b7c5-3daa83124817</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6fad1cfe-b757-4858-b7c5-3daa83124817</id>
+      <masked>false</masked>
+      <name>accountName</name>
+   </variable>
 </TestCaseEntity>

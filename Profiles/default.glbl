@@ -34,4 +34,9 @@
       <initValue>'81ab5e6a-c629-457c-8eb7-cdfeac4656f1'</initValue>
       <name>apikey</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'S14'</initValue>
+      <name>deviceName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

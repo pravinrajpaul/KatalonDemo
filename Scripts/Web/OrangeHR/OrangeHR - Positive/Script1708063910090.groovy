@@ -20,11 +20,14 @@ import org.apache.poi.sl.usermodel.Sheet as Sheet
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+'@Given'
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), 'Admin')
+CustomKeywords.'api.Actions.replaceJSONPathValue'('', '', null)
+
+WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 

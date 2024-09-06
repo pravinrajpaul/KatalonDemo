@@ -21,10 +21,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class Keywords {
-	
+
 	@Keyword
 	def func(String folderPath, String fileName) {
 		println (folderPath + " " + fileName)
 	}
-	
+
+	@Keyword
+	def newKey(int drawFactor, int canvasCenterX, int canvasCenterY) {
+		//drawFactor = 50
+
+		def drawStartX = (canvasCenterX - drawFactor)
+
+		def drawStartY = (canvasCenterY - drawFactor)
+
+		def drawEndX = (canvasCenterX + drawFactor)
+
+		def drawEndY = (canvasCenterY + drawFactor)
+
+		CustomKeywords.'com.katalon.plugin.keyword.actions.RobotActions.mouseMove'(drawStartX, drawStartY)
+
+		CustomKeywords.'com.katalon.plugin.keyword.actions.RobotActions.mouseClick'('Left Button Down')
+
+		CustomKeywords.'com.katalon.plugin.keyword.actions.RobotActions.mouseMove'(drawEndX, drawEndY)
+
+		CustomKeywords.'com.katalon.plugin.keyword.actions.RobotActions.mouseClick'('Left Button Up')
+
+		Windows.delay(2)
+	}
 }

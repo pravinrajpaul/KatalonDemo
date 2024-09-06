@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_houseNumber-37f-bc1-f3e</name>
+   <tag></tag>
+   <elementGuidId>126684ef-ec54-4955-95b0-f790cd87d18f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'input-zfd0t8v8t' and @name = 'houseNumber']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>wb7-grey-box.has-floating-label.sc-wb-grey-box-h.sc-wb-grey-box-s.wb-grey-box.hydrated > div.inner.sc-wb-grey-box.sc-wb-grey-box-s > #input-zfd0t8v8t</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#houseNumberinputfield >> internal:label=&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>02a1c7a8-df77-46ed-962d-24dc9e21942c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-zfd0t8v8t</value>
+      <webElementGuid>52b48717-ac5f-4b15-84a9-bb577876f248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>90150217-fe71-49d8-bb64-3af755d1b5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>houseNumber</value>
+      <webElementGuid>a74d9992-caee-4ec7-b449-f95c33f409ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8cd52162-fa56-40f2-8ea5-7df73840f13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/wb7-grey-box[@class=&quot;has-floating-label sc-wb-grey-box-h sc-wb-grey-box-s wb-grey-box hydrated&quot;]/div[@class=&quot;inner sc-wb-grey-box sc-wb-grey-box-s&quot;]/input[@id=&quot;input-zfd0t8v8t&quot;]</value>
+      <webElementGuid>6cba16b5-3eec-4916-90a6-83c8f2c3cd41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/wb7-input_HausNr-enz-37f-bc1</value>
+      <webElementGuid>2d0f352d-c665-4322-a149-93fd5b656abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3b1b737d-f8eb-4957-997d-4128bbc701d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-zfd0t8v8t' and @name = 'houseNumber']</value>
+      <webElementGuid>0c602a08-f4ad-4d6b-b492-e870a4e88f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

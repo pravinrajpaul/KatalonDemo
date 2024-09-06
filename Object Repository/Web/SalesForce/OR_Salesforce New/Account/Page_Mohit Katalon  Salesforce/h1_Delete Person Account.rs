@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Delete Person Account</name>
+   <tag></tag>
+   <elementGuidId>841bd816-dbfd-4d31-9f84-ce55f551391e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, &quot;modal-header&quot;)]//h1[contains(@class,&quot;title&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5ff8b6f4-5cb6-4cdb-9f92-3c453f147b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title_6656:0</value>
+      <webElementGuid>a8453823-8e38-44da-b0a2-e0bd18f6535b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title slds-text-heading--medium slds-hyphenate</value>
+      <webElementGuid>27e2173c-4845-4ef7-9eb9-ead4673a9948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>6678:0</value>
+      <webElementGuid>5ff263e7-8729-4444-a1ed-992703f183c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Person Account</value>
+      <webElementGuid>63ee775c-64f9-42ea-9131-348930e4fa80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title_6656:0&quot;)</value>
+      <webElementGuid>f8ef516e-e1f8-4325-b458-33c07767a56f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesforce Help'])[2]/following::h2[1]</value>
+      <webElementGuid>9da02927-25c8-4516-8dfa-8a9ba34f69dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global Actions'])[3]/following::h2[1]</value>
+      <webElementGuid>a0e95b87-ca8d-4a15-823b-854146cbb64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close this window'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5d9b8dc6-bfe2-41eb-9c96-7c42eef0d332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this person account?'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7daaa8e8-c601-44d0-906a-98f8d1458c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Person Account']/parent::*</value>
+      <webElementGuid>b6609980-7cd3-4484-80e7-8156dc3c7431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'title_6656:0' and @class = 'title slds-text-heading--medium slds-hyphenate' and (text() = 'Delete Person Account' or . = 'Delete Person Account')]</value>
+      <webElementGuid>2eb0e560-6f43-49b7-8b7c-cbbeb4d82a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='title_6656:0']</value>
+      <webElementGuid>66437eb9-565b-4d67-b2e4-4ddc4580dc0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h2</value>
+      <webElementGuid>1dcfcfd3-06f4-4c1d-b040-8a9fbcfe65e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

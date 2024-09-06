@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "3E554C526F26DE9C6A58B436BD3F9B4B",
+  "keywordClasses": [
+    {
+      "name": "utils.CDP",
+      "keywordMethods": [
+        {
+          "name": "runAppJavaScript",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

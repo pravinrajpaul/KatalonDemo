@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_form-dealer-section__selector-widget-en_b08c55</name>
+   <tag></tag>
+   <elementGuidId>42c4fd3f-f7b4-4dc5-b32e-da4c1ed8d2ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.aemf-form-container > form[name=&quot;d1074087-f2c7-4563-91c5-7695bcafa7a1&quot;] > div.form-renderer.wbx-grid-row > div.form-group.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-renderer.wbx-grid-row > div.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-dealer-section.form-dealer-section--inline.form-dealer-section--error > div.form-dealer-section__cta-section > div.form-dealer-section__modal.form-dealer-section__modal--show > wb7-modal.wb-modal.hydrated > wb7-modal-level.wb-modal-level.hydrated > div.form-dealer-section__selector-widget</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>wb7-modal-level div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d3c5245-2f9a-4503-b5ca-8bce66a0dc88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-dealer-section__selector-widget</value>
+      <webElementGuid>36630f94-776e-4182-8149-753149d2d34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;aemf-form-container&quot;]/form[@class=&quot;aemf-form-container__form&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-group wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-dealer-section form-dealer-section--inline form-dealer-section--error&quot;]/div[@class=&quot;form-dealer-section__cta-section&quot;]/div[@class=&quot;form-dealer-section__modal form-dealer-section__modal--show&quot;]/wb7-modal[@class=&quot;wb-modal hydrated&quot;]/wb7-modal-level[@class=&quot;wb-modal-level hydrated&quot;]/div[@class=&quot;form-dealer-section__selector-widget&quot;]</value>
+      <webElementGuid>42394736-c5de-4d84-b815-1668473bf10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/aemf-form-container-es-Benz-37f</value>
+      <webElementGuid>5f657ff1-1570-4911-941c-b8b9cea944c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b417ad1f-813f-4ecd-98b7-18d81bef309f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

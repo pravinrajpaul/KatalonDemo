@@ -7,6 +7,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import groovy.json.JsonSlurper as JsonSlurper
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -17,24 +18,16 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
-
-//id = CustomKeywords.'mykeywords.CustomKeywords.randomNumber'(6)
-time = LocalDateTime.now()
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 
 '@Given Prereq'
-response = WS.sendRequest(findTestObject('API/Rest/CreaterUser'))
+response = WS.sendRequest(findTestObject('API/Rest/CreaterUser', [('name') : name]))
 
-jsonResponse = new groovy.json.JsonSlurper().parseText(response.getResponseText())
+idFromCreate = WS.getElementText(response, 'id')
 
-id = jsonResponse.id
+response1 = WS.sendRequest(findTestObject('API/Rest/ListUsers', [('id') : id]))
 
-RequestObject listUser = findTestObject('API/Rest/ListUsers', [('id') : id])
+nameCreated = WS.getElementText(response1, 'data.first_name')
 
-listUser.setConnectionTimeout(30000)
-
-ResponseObject response1 = WS.sendRequest(listUser)
-
-//jsonResponse = new groovy.json.JsonSlurper().parseText(response.getResponseText())
-//field = jsonResponse.name
-println(response1.getResponseBodyContent())
+assert nameCreated == 'Byron'
 

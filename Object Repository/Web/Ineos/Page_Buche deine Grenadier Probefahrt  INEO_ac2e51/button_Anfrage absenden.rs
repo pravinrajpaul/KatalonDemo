@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Anfrage absenden</name>
+   <tag></tag>
+   <elementGuidId>2b97fddd-ec9b-4808-b868-4790fb6f0682</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.jss741.jss1123.jss742.jss1124.jss1122</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Anfrage absenden&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fef07908-8898-4df9-96fd-60ac54ad8f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root jss741 jss1123 jss742 jss1124 jss1122</value>
+      <webElementGuid>4fe72d44-ea61-4045-9260-1cea54f65b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e6fdc7db-fe3a-4552-aab5-3d4b9a243686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5369ee30-82f0-481f-8bcb-bf1fe03dc56d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anfrage absenden</value>
+      <webElementGuid>b4385b76-37bf-4c02-a8be-af04d0144884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;jss669&quot;]/div[@class=&quot;jss840 jss841&quot;]/div[@class=&quot;jss845 jss862&quot;]/form[1]/div[@class=&quot;jss1121&quot;]/button[@class=&quot;MuiButtonBase-root jss741 jss1123 jss742 jss1124 jss1122&quot;]</value>
+      <webElementGuid>5d97af3d-154a-46ea-9c5f-bc745bab6a43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>9e08323d-ef7e-4f1d-8359-3b83f153f72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[3]/div[4]/form/div[5]/button</value>
+      <webElementGuid>8e4eb88c-576b-4bc6-9b52-d6648000f217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datenschutzrichtlinie'])[1]/following::button[1]</value>
+      <webElementGuid>a9ee77ea-da82-42c3-bc10-9ffdf5ed6c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ich bin damit einverstanden, Mitteilungen per Mobiltelefon zu erhalten.'])[1]/following::button[1]</value>
+      <webElementGuid>0bb43f96-da0a-4506-aa80-d1c10f3c2516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Was geschieht als Nächstes?'])[1]/preceding::button[1]</value>
+      <webElementGuid>20a4adee-5aac-42ac-ad56-9833e6c665f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>2bbac1e9-c69f-4a5b-abf8-df5a44f3a72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Anfrage absenden' or . = 'Anfrage absenden')]</value>
+      <webElementGuid>a651c641-0ea5-4579-87fa-4deaf5b31295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

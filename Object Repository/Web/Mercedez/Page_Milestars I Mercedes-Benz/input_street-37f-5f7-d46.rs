@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_street-37f-5f7-d46</name>
+   <tag></tag>
+   <elementGuidId>7d59e9f2-fcec-4d6b-8cba-29ae7af359c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'input-i2pzw52cf' and @name = 'street']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>wb7-grey-box.has-floating-label.sc-wb-grey-box-h.sc-wb-grey-box-s.wb-grey-box.hydrated > div.inner.sc-wb-grey-box.sc-wb-grey-box-s > #input-i2pzw52cf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#streetinputfield_copy >> internal:label=&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7bb3a5a1-9275-42ec-81c1-13bd8df9eaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-i2pzw52cf</value>
+      <webElementGuid>379cefad-3adb-45ee-b9ff-cfa5465ad6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f4727304-1a99-43ce-9a17-5709411d3a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>street</value>
+      <webElementGuid>69f193a3-e84e-4ad7-8ad3-87dd3e55fa5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cf5957c4-a7f8-4309-8790-f046ab806993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/wb7-grey-box[@class=&quot;has-floating-label sc-wb-grey-box-h sc-wb-grey-box-s wb-grey-box hydrated&quot;]/div[@class=&quot;inner sc-wb-grey-box sc-wb-grey-box-s&quot;]/input[@id=&quot;input-i2pzw52cf&quot;]</value>
+      <webElementGuid>b2766da0-c35d-4343-bcac-6f8e0f9e8cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/wb7-input_Strae-enz-37f-5f7</value>
+      <webElementGuid>93c076a1-c9e1-4341-be5c-38d90460590b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0aa8991a-d556-4f6a-9ca4-e2e450911118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-i2pzw52cf' and @name = 'street']</value>
+      <webElementGuid>f118cd46-6f82-4fdd-8347-4e9ab3f385d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

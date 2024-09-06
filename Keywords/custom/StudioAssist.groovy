@@ -11,7 +11,6 @@ import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
 import org.openqa.selenium.remote.DesiredCapabilities
 
-import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.checkpoint.Checkpoint
 import com.kms.katalon.core.configuration.RunConfiguration
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
@@ -29,7 +28,7 @@ import internal.GlobalVariable
 
 public class StudioAssist {
 
-	/*Generate a Katalon Studio keyword with @Keyword annotation and function to connect to a sqlserver database then query with sql query and finally return the first row as a map object*/
+	/*Generate a Katalon Studio keyword with @Keyword annotation and function to connect to a postgresql database then query with sql query and finally return the first row as a map object with jdbc driver*/
 
 	/*Genarate a Katalon Studio keyword with @Keyword annotation and function a using apache poi to fetch data from specified cell in a xlsx file*/
 
@@ -50,6 +49,6 @@ public class StudioAssist {
 	/*Generate a Katalon Studio keyword with @Keyword that can extract text from word document using Apache Poi library*/
 
 	/*Generate a Katalon Studio keyword with @Keyword annotation, give relevant function name, arguments and return type, finally add all the imports required for the keyword.*/
-	
 
+	/*Need a katalon keyword to access deep links with different protocol prefix other than http(s):// */
 }

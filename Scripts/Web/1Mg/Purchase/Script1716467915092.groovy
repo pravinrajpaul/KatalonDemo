@@ -61,3 +61,4 @@ WebUI.verifyElementText(findTestObject('Object Repository/Web/1Mg/Page_Online Ph
 
 WebUI.closeBrowser()
 
+WebUI.switchToWindowIndex(null)

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_7</name>
+   <tag></tag>
+   <elementGuidId>0dae1c8c-82e4-4956-808c-151be9070821</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '7' or . = '7')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#0dce1b34-be49-4e1e-8505-fc9cf3e19fdd1722969000000 > span.k-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;August 2024&quot;i >> internal:attr=[title=&quot;Wednesday, August 7, 2024&quot;i] >> internal:text=&quot;7&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51504bf1-8ca3-415d-a5e6-ff16de19270a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link</value>
+      <webElementGuid>2ad134ad-707d-44b9-955a-1d24cd12be99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>7dfc5c76-9323-49bd-a313-2fd6fa3fc8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0dce1b34-be49-4e1e-8505-fc9cf3e19fdd1722969000000&quot;)/span[@class=&quot;k-link&quot;]</value>
+      <webElementGuid>58477e38-48ee-4f5e-9607-72deb80f2bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Kendo/Cal/Page_Calendar Library - Overview  Kendo UI _3cebe9/iframe_default_demo-example-sc-grlnui-1 cddDli</value>
+      <webElementGuid>891f8b66-6c32-4765-941e-97c8916c9fcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '7' or . = '7')]</value>
+      <webElementGuid>b64feba6-aacb-4d30-aa56-6a6f8dcc27c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='0dce1b34-be49-4e1e-8505-fc9cf3e19fdd1722969000000']/span</value>
+      <webElementGuid>74396de8-2500-4942-9fea-b3f4b7c6dc08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[2]/following::span[11]</value>
+      <webElementGuid>a2308009-3938-4be9-b19c-76df2b5c4fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[2]/following::span[11]</value>
+      <webElementGuid>c66a1ae7-7be5-41f8-965e-d5927dc98ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-calendar-horizontal/table/tbody/tr[2]/td[4]/span</value>
+      <webElementGuid>50409145-dd19-403a-bc7d-56851ce2657e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -27,19 +27,21 @@ import org.openqa.selenium.Keys as Keys
  Click the search button
  Navigate to the first result
  */
+// Open browser
+WebUI.openBrowser('')
 
+// Maximize browser window
+WebUI.maximizeWindow()
 
- 
- /**
-  Test Steps for Mobile
-  
-  Open Telegram.apk file on the mobile
-  Click accept and move next
-  Select country code from country code dropdown
-  Type 3 digit number in the phone number field
-  Then click next button
-  You should get warning message that the phone number is shorter than expected
-  */
+// Navigate to google.com
+WebUI.navigateToUrl('https://www.google.com')
 
+// Type "today's news" in the search box
+WebUI.setText(findTestObject('Web/1Mg/Page_Dolo 650 Tablet View Uses, Side Effect_90d47c/div_Add to cart'), 'today\'s news')
 
+// Click the search button
+WebUI.click(findTestObject('Web/1Mg/Page_Dolo 650 Tablet View Uses, Side Effect_90d47c/li_PROCEED TO CART'))
+
+// Navigate to the first result
+WebUI.click(findTestObject('Web/1Mg/Page_Dolo 650 Tablet View Uses, Side Effect_90d47c/LoginModal'))
 

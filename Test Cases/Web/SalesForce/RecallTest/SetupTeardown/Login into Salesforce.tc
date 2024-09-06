@@ -4,5 +4,6 @@
    <name>Login into Salesforce</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>d6c982b8-d18a-48b7-978f-0c7014eda0fe</testCaseGuid>
 </TestCaseEntity>

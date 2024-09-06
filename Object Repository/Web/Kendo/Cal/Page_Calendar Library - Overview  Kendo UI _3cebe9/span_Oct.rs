@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Oct</name>
+   <tag></tag>
+   <elementGuidId>3917d922-1767-4247-b45b-1b6df954f33b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Oct' or . = 'Oct')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Oct&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ade8e9da-5601-472a-ba6d-d308fd039cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oct</value>
+      <webElementGuid>470b637e-1ee1-4658-aac4-d8d9f0a8329c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kendo-calendarid-0&quot;)/kendo-calendar-navigation[@class=&quot;k-calendar-navigation&quot;]/kendo-virtualization[@class=&quot;k-flex k-content k-scrollable&quot;]/ul[@class=&quot;k-reset&quot;]/li[8]/span[1]</value>
+      <webElementGuid>68f22654-bc5d-485e-a5f8-b3e3516fd9c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Kendo/Cal/Page_Calendar Library - Overview  Kendo UI _3cebe9/iframe_default_demo-example-sc-grlnui-1 cddDli</value>
+      <webElementGuid>c5167a58-91e0-4c09-aa12-859302190baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Oct' or . = 'Oct')]</value>
+      <webElementGuid>50ab5599-f3ff-46b2-b4e7-3b7464298f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-calendar[@id='kendo-calendarid-0']/kendo-calendar-navigation/kendo-virtualization/ul/li[8]/span</value>
+      <webElementGuid>083f3ef2-9811-401d-a364-bfe7579c7066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep'])[1]/following::span[1]</value>
+      <webElementGuid>c92e99dd-e2a5-4925-9730-2351e5c38c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug'])[1]/following::span[2]</value>
+      <webElementGuid>603b94f0-60a2-49e5-8566-eb03c3728d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ef0cbec-a0a0-4e34-8e3a-5160f918611f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec'])[1]/preceding::span[2]</value>
+      <webElementGuid>79dcbed9-f306-4d29-b4eb-28bfc75c7c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oct']/parent::*</value>
+      <webElementGuid>4009bb20-c945-4546-b570-cf76173925e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span</value>
+      <webElementGuid>604e8256-efa0-4e7b-974f-d247a88d2784</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

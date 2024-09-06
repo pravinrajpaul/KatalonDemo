@@ -4,5 +4,19 @@
    <name>Account Management</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>ba8caab2-d3ba-44b6-96a4-f03943bcc762</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5855f76-20af-47e3-9dbe-d5b7bb1073fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5855f76-20af-47e3-9dbe-d5b7bb1073fa</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
 </TestCaseEntity>

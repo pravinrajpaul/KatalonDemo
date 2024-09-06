@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_VornameNachnameE-MailDies ist keine glt_c8b3ef</name>
+   <tag></tag>
+   <elementGuidId>f864d3cb-804f-4205-a4b5-938724178472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[3]/div[4]/form/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jss1002</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;VornameNachnameE-MailDies ist keine gültige E-Mail-Adresse. Bitte überprüfe sie &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e955258-a417-4211-87d0-35a8c052b66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss1002</value>
+      <webElementGuid>4e89ac50-0427-47fe-9ae0-6153efd484c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VornameNachnameE-MailDies ist keine gültige E-Mail-Adresse. Bitte überprüfe sie und versuche es erneut.E-Mail-Adresse bestätigenAuswahl der Telefonvorwahl, vorausgewählte Option +49TelefonnummerWünschst Du Dir weitere Informationen von Deinem Retail Partner?Ja, ich möchte mehr über Finanzierungsoptionen erfahren.Ja, ich möchte mehr über die Inzahlungnahme erfahren.Hast Du Anmerkungen oder Fragen für den Retail Partner, der die Probefahrt anbietet?Deine Mitteilung0/1000Ich bin damit einverstanden, Mitteilungen per E-Mail zu erhalten.Ich bin damit einverstanden, Mitteilungen per Mobiltelefon zu erhalten.Weitere Informationen kannst Du unserer Datenschutzrichtlinie entnehmen. Darin ist beschrieben, wie Deine Daten genutzt und gespeichert werden.
+</value>
+      <webElementGuid>ed0734b9-eaee-4b1f-acdd-07adfc8c326f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;jss669&quot;]/div[@class=&quot;jss840 jss841&quot;]/div[@class=&quot;jss845 jss862&quot;]/form[1]/div[5]/div[@class=&quot;jss1002&quot;]</value>
+      <webElementGuid>8274e896-cdec-4cff-b493-13ef3e9b8916</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[3]/div[4]/form/div[5]/div</value>
+      <webElementGuid>2a94c0ce-0465-4258-b2f9-d2085c889e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Egal/Vormittag/Nachmittag'])[1]/following::div[6]</value>
+      <webElementGuid>54fa9159-74d3-4a1e-aed5-9be1cb91f939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[5]/div</value>
+      <webElementGuid>e195595b-3fdb-4602-902a-b62149ed7099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'VornameNachnameE-MailDies ist keine gültige E-Mail-Adresse. Bitte überprüfe sie und versuche es erneut.E-Mail-Adresse bestätigenAuswahl der Telefonvorwahl, vorausgewählte Option +49TelefonnummerWünschst Du Dir weitere Informationen von Deinem Retail Partner?Ja, ich möchte mehr über Finanzierungsoptionen erfahren.Ja, ich möchte mehr über die Inzahlungnahme erfahren.Hast Du Anmerkungen oder Fragen für den Retail Partner, der die Probefahrt anbietet?Deine Mitteilung0/1000Ich bin damit einverstanden, Mitteilungen per E-Mail zu erhalten.Ich bin damit einverstanden, Mitteilungen per Mobiltelefon zu erhalten.Weitere Informationen kannst Du unserer Datenschutzrichtlinie entnehmen. Darin ist beschrieben, wie Deine Daten genutzt und gespeichert werden.
+' or . = 'VornameNachnameE-MailDies ist keine gültige E-Mail-Adresse. Bitte überprüfe sie und versuche es erneut.E-Mail-Adresse bestätigenAuswahl der Telefonvorwahl, vorausgewählte Option +49TelefonnummerWünschst Du Dir weitere Informationen von Deinem Retail Partner?Ja, ich möchte mehr über Finanzierungsoptionen erfahren.Ja, ich möchte mehr über die Inzahlungnahme erfahren.Hast Du Anmerkungen oder Fragen für den Retail Partner, der die Probefahrt anbietet?Deine Mitteilung0/1000Ich bin damit einverstanden, Mitteilungen per E-Mail zu erhalten.Ich bin damit einverstanden, Mitteilungen per Mobiltelefon zu erhalten.Weitere Informationen kannst Du unserer Datenschutzrichtlinie entnehmen. Darin ist beschrieben, wie Deine Daten genutzt und gespeichert werden.
+')]</value>
+      <webElementGuid>5a7f6452-cc1e-45ed-9cf8-798d3a5eb558</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_firstname-37f-72a-14f</name>
+   <tag></tag>
+   <elementGuidId>b1e2e70e-820a-4975-bb75-71ac811338f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'input-hg24n5d17' and @name = 'firstname']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>wb7-grey-box.has-floating-label.sc-wb-grey-box-h.sc-wb-grey-box-s.wb-grey-box.hydrated > div.inner.sc-wb-grey-box.sc-wb-grey-box-s > #input-hg24n5d17</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#firstnameinputfield >> internal:label=&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5c340584-e88c-4216-90cc-4c5104f08616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-hg24n5d17</value>
+      <webElementGuid>2b9bfdbd-d642-40da-97fb-619dc1cb5adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>15363ad0-92ab-4227-b3f2-b8407ddec9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>firstname</value>
+      <webElementGuid>f686f36c-92c1-4c3e-b11a-ce8c855dc4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f874685b-9bc9-43f2-b1ea-a6fe72463382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/wb7-grey-box[@class=&quot;has-floating-label sc-wb-grey-box-h sc-wb-grey-box-s wb-grey-box hydrated&quot;]/div[@class=&quot;inner sc-wb-grey-box sc-wb-grey-box-s&quot;]/input[@id=&quot;input-hg24n5d17&quot;]</value>
+      <webElementGuid>55acb786-0f66-4ae9-8027-8fadd07c2bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/wb7-input_Vorname-enz-37f-72a</value>
+      <webElementGuid>4cf3fad0-60ee-4631-9572-4d4119edf1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d99fa65b-eb0d-447a-8a22-3e1c598c6797</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-hg24n5d17' and @name = 'firstname']</value>
+      <webElementGuid>0b2b1fe0-7b4b-403b-930b-28b7981f5811</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

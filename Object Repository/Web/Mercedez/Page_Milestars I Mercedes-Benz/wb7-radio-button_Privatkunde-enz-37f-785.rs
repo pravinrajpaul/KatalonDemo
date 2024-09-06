@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wb7-radio-button_Privatkunde-enz-37f-785</name>
+   <tag></tag>
+   <elementGuidId>aff4a044-8e02-4c58-ba53-f58d51173cf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Privatkunde']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.aemf-form-container > form[name=&quot;d1074087-f2c7-4563-91c5-7695bcafa7a1&quot;] > div.form-renderer.wbx-grid-row > div.form-group.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto > div.form-renderer.wbx-grid-row > div.form-radio.wbx-grid-col-mq1-12.wbx-grid-col-mq6-12.wbx-grid-col-offset-mq6-auto.form-radio--vertical > div.form-radio__list > wb7-radio-group.wb-radio-group.hydrated > wb7-radio-button.wb-radio-button.hydrated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Privatkunde&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>wb7-radio-button</value>
+      <webElementGuid>8628fb37-151c-490d-aa92-716f469a9519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wb-radio-button hydrated</value>
+      <webElementGuid>ba5baacd-020b-4dbe-9441-44b0418f658c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>theme</name>
+      <type>Main</type>
+      <value>light</value>
+      <webElementGuid>c0929abc-b926-4c3b-a0ca-2666721e84a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privatkunde </value>
+      <webElementGuid>61506e53-061d-41fe-bb61-0997f4c00ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;aemf-form-container&quot;]/form[@class=&quot;aemf-form-container__form&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-group wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto&quot;]/div[@class=&quot;form-renderer wbx-grid-row&quot;]/div[@class=&quot;form-radio wbx-grid-col-mq1-12 wbx-grid-col-mq6-12 wbx-grid-col-offset-mq6-auto form-radio--vertical&quot;]/div[@class=&quot;form-radio__list&quot;]/wb7-radio-group[@class=&quot;wb-radio-group hydrated&quot;]/wb7-radio-button[@class=&quot;wb-radio-button hydrated&quot;]</value>
+      <webElementGuid>019bafa8-7f37-4702-a299-9da13e5be649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/aemf-form-container-es-Benz-37f</value>
+      <webElementGuid>6c069bcf-740c-46f6-9d34-01a8c2c5260e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3de0773b-6b66-4f3a-9f97-215d8e6ff2ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Privatkunde']/parent::*</value>
+      <webElementGuid>1021004a-73ba-4bb4-84a5-12e4eee74023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

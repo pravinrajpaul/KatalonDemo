@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Products</name>
+   <tag></tag>
+   <elementGuidId>cccfffdb-14f5-4797-8b99-225c7dd04811</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Appliances'])[1]/following::span[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-link.menu-link.js-menu-link > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Products&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10707fc9-6883-41e8-9215-01ea430b26a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b952264d-aa93-497e-88ca-27f2296b37b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Products</value>
+      <webElementGuid>3693f40b-a997-4d3c-b2b0-600d60292b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;supports no-touchevents cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside csstransforms csstransforms3d csstransitions webp webp-alpha webp-animation webp-lossless windows-os&quot;]/body[@class=&quot;site-structure-level-1 pagetype-home&quot;]/div[@class=&quot;g-container&quot;]/header[@class=&quot;o-headerrebrush js-header-rebrush headerrebrush-transparent-toggle transparent-above-stage is-transparent-now&quot;]/div[@class=&quot;full-width-elements-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;menu js-header-menu&quot;]/div[@class=&quot;hidden-mobile hidden-tablet&quot;]/div[@class=&quot;a-menulinks js-menulinks&quot;]/a[@class=&quot;a-link menu-link js-menu-link&quot;]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>d7a1f8e6-cb12-40d8-b054-ca6c1285dc0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Appliances'])[1]/following::span[5]</value>
+      <webElementGuid>0adb0c23-fe62-4929-8903-55311f754988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[global.cookielaw.txt.headline.thirdparty]'])[1]/following::span[6]</value>
+      <webElementGuid>269066c3-009e-4735-8a1d-69f7a245e295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offers'])[1]/preceding::span[1]</value>
+      <webElementGuid>3b428cfa-e188-466d-8c83-f23bf6ce182c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service'])[1]/preceding::span[2]</value>
+      <webElementGuid>8631409c-4024-42fe-bf50-e348248670bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Products']/parent::*</value>
+      <webElementGuid>d7b7249c-ebc1-408a-8ae2-2c4663943a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>805e6992-ae3f-4066-b569-13696965dc55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

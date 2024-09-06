@@ -32,7 +32,7 @@ Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - ZainCash/com
 
 WebUI.delay(3)
 
-CustomKeywords.'katalon.Mobil.androidTypeKeyboardDigits'('11111')
+CustomKeywords.'katalon.Mobile.androidTypeKeyboardDigits'('11111')
 
 WebUI.delay(5)
 

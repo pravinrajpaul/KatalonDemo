@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'yahoo.com'</initValue>
+      <initValue>'https://katalon-inc.lightning.force.com/lightning/r/Opportunity/006RA00000F3GijYAF/view'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

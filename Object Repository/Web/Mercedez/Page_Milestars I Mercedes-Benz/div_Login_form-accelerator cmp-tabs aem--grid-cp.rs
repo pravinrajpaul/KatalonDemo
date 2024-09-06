@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login_form-accelerator cmp-tabs aem--grid-cp</name>
+   <tag></tag>
+   <elementGuidId>7e9efac3-4230-4e2c-8967-e6f920c5fee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='first-web-component']/div/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-accelerator.cmp-tabs.aem--grid-cp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.form-accelerator</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f8836ba-1f09-4c8e-953d-8ccc7ca127d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-accelerator cmp-tabs aem--grid-cp </value>
+      <webElementGuid>10d592ee-2052-4fa2-bf08-a2a5b8fda532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-panelcontainer</name>
+      <type>Main</type>
+      <value>tabs</value>
+      <webElementGuid>3101074a-5f60-46b3-bbc8-e83501d5f11e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;first-web-component&quot;)/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;forms-reference component-base aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;multistepform tabs panelcontainer aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;form-accelerator cmp-tabs aem--grid-cp&quot;]</value>
+      <webElementGuid>1242aca4-e66b-4751-8ed8-e8d946801919</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='first-web-component']/div/div/div/div[3]/div</value>
+      <webElementGuid>e854c80a-ff40-4553-ae51-0d2eac2ee40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[22]</value>
+      <webElementGuid>06cd976e-5209-49de-8883-fb61177d5886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Markenwelt'])[1]/following::div[24]</value>
+      <webElementGuid>1b2088bd-17b3-40ac-ba95-6977d620ce0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>e925723c-aafc-4779-a118-e59f49fda6b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

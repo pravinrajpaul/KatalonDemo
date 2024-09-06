@@ -17,5 +17,11 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Web/OrangeHR/OrangeHR - Positive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -3,7 +3,48 @@
    <description></description>
    <name>OrangeHR - Positive</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>1</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>be344c1f-1577-47f1-a7ca-bcb4ea746247</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ed39d410-6499-44bf-9739-bbdf952b7335</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DBData</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e18446d9-fe5b-4dec-90e9-1a88b2471863</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/ContactDetails-SIT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e18446d9-fe5b-4dec-90e9-1a88b2471863</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>City</value>
+      <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>b304d225-ca73-41b6-85b2-ea611c9ecc2e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
 </TestCaseEntity>

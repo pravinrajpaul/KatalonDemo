@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dishwashers</name>
+   <tag></tag>
+   <elementGuidId>4428dbac-fd06-44f0-b9f5-596a402361f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Washers &amp; Dryers'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Dishwashers &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>11d311ee-16af-47b3-a32f-e845121c86d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/dishwasher</value>
+      <webElementGuid>571a99a1-a262-4644-9724-8b0dac5d1bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link js-navigation-link navigation-link has-child-level</value>
+      <webElementGuid>b3fdfd0e-5282-4b2d-9415-4db78835cc1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reference-id</name>
+      <type>Main</type>
+      <value>SHOP-dishwashers</value>
+      <webElementGuid>4fbbb4f3-62cf-4748-b315-3e66a246ad92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>00d16441-802d-46ac-9ab2-cc93993fc407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9af908e-def3-488d-b7e4-41e9e575a12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		
+			Dishwashers
+	</value>
+      <webElementGuid>fd8cb427-44d1-46ab-afdc-3f47602786e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;supports no-touchevents cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside csstransforms csstransforms3d csstransitions webp webp-alpha webp-animation webp-lossless windows-os&quot;]/body[@class=&quot;site-structure-level-1 pagetype-home no-scroll&quot;]/div[@class=&quot;g-container&quot;]/header[@class=&quot;o-headerrebrush js-header-rebrush headerrebrush-transparent-toggle transparent-above-stage is-transparent-now open&quot;]/div[@class=&quot;fly-out-wrap&quot;]/div[@class=&quot;fly-out-container active&quot;]/div[@class=&quot;fly-out&quot;]/div[@class=&quot;m-navigation-flyout&quot;]/nav[@class=&quot;navigation-lists-container&quot;]/div[@class=&quot;navigation-lists-wrap&quot;]/div[@class=&quot;second-level js-second-level sublevel js-navigation-col navigation-col active&quot;]/div[@class=&quot;js-navigation-link-list m-navigation-link-list active&quot;]/a[@class=&quot;a-link js-navigation-link navigation-link has-child-level&quot;]</value>
+      <webElementGuid>c56ada39-4fe3-4799-a0db-db05fdcf3767</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Washers &amp; Dryers'])[1]/following::a[1]</value>
+      <webElementGuid>081492ab-0766-4a21-99f8-75fd4fe31e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cooking &amp; Baking'])[1]/following::a[2]</value>
+      <webElementGuid>8a488893-94bf-46db-b944-3dd16fc975db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fridges &amp; Freezers'])[1]/preceding::a[1]</value>
+      <webElementGuid>6396b7f9-12a8-4916-86aa-1af00086a915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/products/dishwasher')]</value>
+      <webElementGuid>9d0844ec-97a3-4ed9-b9ec-9b452d47a948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[5]</value>
+      <webElementGuid>49cb04fd-d1d3-4cbe-b3f3-4611cab4b783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/dishwasher']</value>
+      <webElementGuid>203ca4d4-b838-4b9b-9b8a-502a6482575f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

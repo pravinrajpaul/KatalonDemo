@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_dl-map--loading-37f-1ca-ea4</name>
+   <tag></tag>
+   <elementGuidId>ed797b25-655f-4f12-8582-57c0952962af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='map']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.dl-app.dl-app--no-margin > main.dl-map-view > #map > div.dl-map--loading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#map div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>99ca4602-a5a9-40f2-a0f3-f07a10c40217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dl-map--loading</value>
+      <webElementGuid>05ebb4b9-1eaa-4641-947c-30f4717b3585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;dl-app dl-app--no-margin&quot;]/main[@class=&quot;dl-map-view&quot;]/div[@id=&quot;map&quot;]/div[@class=&quot;dl-map--loading&quot;]</value>
+      <webElementGuid>12bbae4b-accb-4c4f-a3d1-8c55d57ef302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Web/Mercedez/Page_Milestars I Mercedes-Benz/div_form-dealer-section__selector-widget-en_b4d307</value>
+      <webElementGuid>3129d33f-bfde-4fcf-84a2-4d5a9e924e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ee3a1806-841f-472c-a4e9-9c63c08673b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='map']/div[2]</value>
+      <webElementGuid>be1d4f45-23c1-46ad-8317-959238e11e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>ab116524-cf12-41cf-b729-54821ee87a9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
