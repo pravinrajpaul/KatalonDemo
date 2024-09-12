@@ -17,35 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('Resources/Mobile/Apk/Telegram.apk', true)
+Mobile.startApplication('2cb56193-de84-4659-8f70-3c679c90fe29', true)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Start Messaging'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView -  USA'), 0)
+Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.ImageView'), 0)
 
 Mobile.scrollToText('Benin')
 
-Mobile.tap(findTestObject('Mobile/AndroidNative - Telegram/android.widget.TextView - 229'), 0, FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView -  Benin'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView -  USA'), 0, FailureHandling.CONTINUE_ON_FAILURE)
-
-Mobile.scrollToText('Benin')
-
-Mobile.tap(findTestObject('Mobile/AndroidNative - Telegram/android.widget.TextView - 229'), 0, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (1)'), 0, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (2)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.view.View (3)'), 0)
-
-Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Error Txt'), 
-    'Invalid phone number. Please check the number and try again.', FailureHandling.CONTINUE_ON_FAILURE)
-
-Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - OK'), 0)
+Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Your phone number'), 
+    'Your phone number')
 
 Mobile.closeApplication()
 

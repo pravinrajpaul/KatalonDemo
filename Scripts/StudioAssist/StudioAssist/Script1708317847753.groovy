@@ -37,11 +37,11 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://www.google.com')
 
 // Type "today's news" in the search box
-WebUI.setText(findTestObject('Web/1Mg/Page_Dolo 650 Tablet View Uses, Side Effect_90d47c/div_Add to cart'), 'today\'s news')
+WebUI.setText(findTestObject('Button'), 'today\'s news')
 
 // Click the search button
-WebUI.click(findTestObject('Web/1Mg/Page_Dolo 650 Tablet View Uses, Side Effect_90d47c/li_PROCEED TO CART'))
+WebUI.click(findTestObject('Demo/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
 
 // Navigate to the first result
-WebUI.click(findTestObject('Web/1Mg/Page_Dolo 650 Tablet View Uses, Side Effect_90d47c/LoginModal'))
+WebUI.click(findTestObject('first_search_result'))
 

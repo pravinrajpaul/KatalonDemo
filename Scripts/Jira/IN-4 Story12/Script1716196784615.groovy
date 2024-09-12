@@ -31,3 +31,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Web/OrangeHR/Page_Oran
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
+
+println GlobalVariable.Demo

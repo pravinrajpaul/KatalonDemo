@@ -4,5 +4,6 @@
    <name>AndroidNative - Telegram</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
    <testCaseGuid>7f6c4fab-32cb-4021-ae1d-71929126701f</testCaseGuid>
 </TestCaseEntity>

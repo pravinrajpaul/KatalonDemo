@@ -17,4 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFile('Include/features/IN-11 Test 1.feature')
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+
+WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), 'Admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
+
+WebUI.closeBrowser()

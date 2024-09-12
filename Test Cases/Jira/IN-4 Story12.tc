@@ -15,7 +15,20 @@ Description: </description>
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>af696ce5-9289-43f1-b2f0-ea16459535f7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7df137d4-fc94-441e-bea3-43056b20b2d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7f56398-0714-4173-9d25-2b2414499116</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'admin1'</defaultValue>
       <description></description>

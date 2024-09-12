@@ -15,5 +15,6 @@ Description: </description>
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>baddefb2-22c4-4b1f-92d1-0592307adffa</testCaseGuid>
 </TestCaseEntity>

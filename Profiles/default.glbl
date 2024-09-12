@@ -39,4 +39,9 @@
       <initValue>'S14'</initValue>
       <name>deviceName</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hi*****'</initValue>
+      <name>Demo</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -32,3 +32,5 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_O
 WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dash', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
+
+println GlobalVariable.Demo
