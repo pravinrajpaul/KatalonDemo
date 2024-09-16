@@ -25,7 +25,7 @@ WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-CustomKeywords.'api.Actions.replaceJSONPathValue'('', '', null)
+WebUI.takeFullPageScreenshotAsCheckpoint('LoginPageOrangeHR')
 
 WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), username)
 
@@ -36,8 +36,6 @@ WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button
 WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
-
-WebUI.takeFullPageScreenshotAsCheckpoint('OrangeHR-Dashboard')
 
 WebUI.closeBrowser()
 

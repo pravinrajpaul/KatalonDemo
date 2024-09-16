@@ -35,9 +35,9 @@
       <testDataId>Data Files/ContactDetails-SIT</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>e18446d9-fe5b-4dec-90e9-1a88b2471863</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>City</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
    </variableLinks>
    <variable>

@@ -17,8 +17,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'csv.Compare.compareCSVs'('Resources\\CsvCompare\\Fil1.csv', 'Resources\\CsvCompare\\Fil2-Match.csv', 'Resources\\CsvCompare', 
-    '', true, false, 0, 0, false, false, '')
+not_run: CustomKeywords.'csv.Compare.addColumnHeaders'('Resources\\CsvCompare\\sample.csv', ['sno', 'empno', 'salary', 'location'])
+
+not_run: CustomKeywords.'csv.Compare.renameColumnHeaders'('Resources\\CsvCompare\\sample.csv', [('sno') : 's.no', ('empno') : 'emp.no'])
+
+not_run: CustomKeywords.'csv.Compare.moveColumnInCSV'('Resources\\CsvCompare\\sample.csv', 0, 3)
+
+not_run: CustomKeywords.'csv.Compare.deleteColumnsFromCSV'('Resources\\CsvCompare\\sample.csv', ['location'])
+
+not_run: CustomKeywords.'csv.Compare.addColumnsToCSV'('Resources\\CsvCompare\\sample.csv', [('emp and sal') : 'C0+C1'])
+
+not_run: sum = CustomKeywords.'csv.Compare.aggregateColumnInCSV'('Resources\\CsvCompare\\sample.csv', 's.no', 'sum')
+
+not_run: println(sum)
+
+not_run: CustomKeywords.'csv.Compare.compareCSVs'('Resources\\CsvCompare\\Fil1.csv', 'Resources\\CsvCompare\\Fil2-Match.csv', 
+    'Resources\\CsvCompare', '', true, false, 0, 0, false, false, '')
 
 not_run: CustomKeywords.'csv.Compare.compareCSVs'('Resources\\CsvCompare\\Fil1.csv', 'Resources\\CsvCompare\\Fil3-3RecsDiff.csv', 
     'Resources\\CsvCompare', '', true, true, 0, 0, false, false, '')

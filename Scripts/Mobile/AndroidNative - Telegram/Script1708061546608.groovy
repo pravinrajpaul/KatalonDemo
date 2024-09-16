@@ -33,3 +33,4 @@ Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative 
 
 Mobile.closeApplication()
 
+

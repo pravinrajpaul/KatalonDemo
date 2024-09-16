@@ -1,0 +1,12 @@
+Summary for file1:
+Number of records in file 1: 50
+Number of columns in file 1: 5
+
+Summary for file2:
+Number of records in file 2: 50
+Number of columns in file 2: 5
+
+Comparison Summary:
+Time taken for comparison: 0.028020 seconds
+Number of records matched from both files: 45
+Number of records mismatch from both files: 5
