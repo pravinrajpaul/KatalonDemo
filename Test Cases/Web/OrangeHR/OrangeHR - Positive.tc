@@ -18,27 +18,24 @@
    <testCaseGuid>be344c1f-1577-47f1-a7ca-bcb4ea746247</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>ed39d410-6499-44bf-9739-bbdf952b7335</id>
+      <id>37a2a701-729e-4e74-ac54-c6e2561d239a</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/DBData</testDataId>
+      <testDataId>Data Files/New Test Data</testDataId>
    </testDataLinks>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>e18446d9-fe5b-4dec-90e9-1a88b2471863</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/ContactDetails-SIT</testDataId>
-   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>37a2a701-729e-4e74-ac54-c6e2561d239a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
+   </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
+      <variableId>5e500b7a-c76b-46ca-b30d-bb17e8f0a62e</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'Admin'</defaultValue>
@@ -46,5 +43,12 @@
       <id>b304d225-ca73-41b6-85b2-ea611c9ecc2e</id>
       <masked>false</masked>
       <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e500b7a-c76b-46ca-b30d-bb17e8f0a62e</id>
+      <masked>false</masked>
+      <name>orderId</name>
    </variable>
 </TestCaseEntity>

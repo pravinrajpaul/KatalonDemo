@@ -30,7 +30,7 @@ public class Actions extends BuiltinKeywords {
 	def Object replaceJSONPathValue(String json, String jsonPath, Object value) {
 		return JsonPath.parse(json).put(jsonPath, null, value).json()
 	}
-	
+
 	@Keyword
 	def Object replaceJSONPathValue(Object json, String jsonPath, Object value) {
 		return JsonPath.parse(json).put(jsonPath, null, value).json()

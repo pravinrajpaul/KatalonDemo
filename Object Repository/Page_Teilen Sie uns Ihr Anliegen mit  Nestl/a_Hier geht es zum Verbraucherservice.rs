@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hier geht es zum Verbraucherservice</name>
+   <tag></tag>
+   <elementGuidId>eed7dbd1-1e94-40f8-9cf9-3d2b88d7a003</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-142631']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.center.aqua-dark.ext</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hier geht es zum Verbraucherservice&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89c84efb-746d-40fd-a814-ae50de709c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button center aqua-dark ext</value>
+      <webElementGuid>4ed721de-1b9c-4655-bc96-bf4109821320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nestle.de/unternehmen/kontakt</value>
+      <webElementGuid>bc5929b5-840d-4b5f-ad6c-0a7616941877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>be298064-54cb-453a-b732-c32efa9cb7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer noopener</value>
+      <webElementGuid>31b1c03a-4c7c-40e8-bd2c-97971e01a88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-once</name>
+      <type>Main</type>
+      <value>ln_datalayer_outbound_link</value>
+      <webElementGuid>d82ec89c-6f46-4add-aca9-a13cb4473c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hier geht es zum Verbraucherservice</value>
+      <webElementGuid>014432ab-51af-41ed-b977-f5799a093811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-142631&quot;)/div[@class=&quot;component-paragraph-field&quot;]/div[@class=&quot;field field--name-field-c-text field--type-text-long field--label-hidden field--item&quot;]/div[@class=&quot;pw&quot;]/div[@class=&quot;TintedText&quot;]/a[@class=&quot;button center aqua-dark ext&quot;]</value>
+      <webElementGuid>2aac7351-5fc4-4e7f-ae44-83aba0cfc715</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-142631']/div/div/div/div/a</value>
+      <webElementGuid>16ed2786-9e83-41c2-b986-c67cfa487603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hier geht es zum Verbraucherservice')]</value>
+      <webElementGuid>19c8ea75-ca2b-44fe-a381-ca85c1bfb8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klicke hier'])[1]/following::a[1]</value>
+      <webElementGuid>69b98a0c-811c-4f2c-b491-cefa371e9c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LkSG - Verfahrensordnung (Leichte Sprache)'])[1]/preceding::a[1]</value>
+      <webElementGuid>46435980-7245-44fc-ae0b-34fcf3b51736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LkSG - Verfahrensordnung (DE)'])[1]/preceding::a[2]</value>
+      <webElementGuid>773fb4e2-6ba8-41c5-8b5e-ae87203721da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hier geht es zum Verbraucherservice']/parent::*</value>
+      <webElementGuid>5989abea-e035-4c9c-a522-892333cf45cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.nestle.de/unternehmen/kontakt')]</value>
+      <webElementGuid>76595820-0443-4fa3-b596-b9adf3808168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/a</value>
+      <webElementGuid>bebef956-1c37-4f7b-8966-6c6372fb37d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

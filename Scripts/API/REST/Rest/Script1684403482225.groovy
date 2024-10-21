@@ -20,12 +20,11 @@ import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 
-'@Given Prereq'
-response = WS.sendRequest(findTestObject('API/Rest/CreaterUser', [('name') : name]))
+response = WS.sendRequest(findTestObject('API/Rest/CreaterUser'))
 
 idFromCreate = WS.getElementText(response, 'id')
 
-response1 = WS.sendRequest(findTestObject('API/Rest/ListUsers', [('id') : id]))
+response1 = WS.sendRequest(findTestObject('API/Rest/ListUsers', [('id') : idFromCreate]))
 
 nameCreated = WS.getElementText(response1, 'data.first_name')
 

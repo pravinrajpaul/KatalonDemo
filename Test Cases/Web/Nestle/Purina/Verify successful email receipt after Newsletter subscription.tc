@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify successful email receipt after Newsletter subscription</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>120f6a65-4a4a-4fcb-9aa8-e538da30900e</testCaseGuid>
+</TestCaseEntity>

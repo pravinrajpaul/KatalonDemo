@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Health Care</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fa67d3a-8849-4331-ba11-964a2d815b65</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>45e1f7bc-8be5-4a62-a6ed-ae70a368428b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>45e1f7bc-8be5-4a62-a6ed-ae70a368428b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>364da991-a3e5-4b6f-9906-40c75cdedf3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>45e1f7bc-8be5-4a62-a6ed-ae70a368428b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>4439aa1e-8436-4ede-a5e3-09882c6c5fec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>364da991-a3e5-4b6f-9906-40c75cdedf3a</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4439aa1e-8436-4ede-a5e3-09882c6c5fec</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

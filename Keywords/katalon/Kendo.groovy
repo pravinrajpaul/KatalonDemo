@@ -22,27 +22,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class Kendo {
-	
-	
+
+
 	//date format dd MMM YYYY
-	
+
 	@Keyword
 	def setDateKendoCalendar(String date) {
 		String[] dateSplit = date.split(" ")
 		String day = dateSplit[0]
 		String month = dateSplit[1]
 		String year = dateSplit[2]
-		
+
 		WebUI.findWebElement(findTestObject('Web/Kendo/Calendar/Calendar'), 0)
-		
+
 		String calMonYear = WebUI.getText(findTestObject('Web/Kendo/Calendar/Parent')).split(" ")
 		String calMonth = calMonYear[0]
 		String calYear = calMonYear[1]
 		String todaysDate = WebUI.getText(findTestObject('Web/Kendo/Calendar/Today'))
-		
+
 		if (year.equals(calYear) &&  month.equalsIgnoreCase(calMonth) && day.equals(todaysDate)) WebUI.click(findTestObject('Web/Kendo/Calendar/Today'))
 		else if (year.equals(calYear) &&  month.equalsIgnoreCase(calMonth)) WebUI.click(findTestObject('Web/Kendo/Calendar/Date',[('date'):day]))
-		
+
 		else if (year.equals(calYear)) {
 			WebUI.click(findTestObject('Web/Kendo/Calendar/Parent'))
 			WebUI.delay(1)
@@ -87,5 +87,4 @@ public class Kendo {
 			WebUI.click(findTestObject('Web/Kendo/Calendar/Date',[('date'):day]))
 		}
 	}
-	
 }

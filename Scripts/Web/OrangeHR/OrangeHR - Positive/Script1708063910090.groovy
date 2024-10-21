@@ -20,12 +20,9 @@ import org.apache.poi.sl.usermodel.Sheet as Sheet
 
 WebUI.openBrowser('')
 
-'@Given'
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
-
-WebUI.takeFullPageScreenshotAsCheckpoint('LoginPageOrangeHR')
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), username)
 
@@ -35,7 +32,9 @@ WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
+WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dashboard', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeFullPageScreenshotAsCheckpoint('DashboardPage')
 
 WebUI.closeBrowser()
 

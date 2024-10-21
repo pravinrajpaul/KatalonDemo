@@ -9,11 +9,11 @@
    <dataFileGUID>6f77ac36-31bb-4229-a961-481d1f976388</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>5+Jan+2015</data>
-   <data>10+Feb+2016</data>
+   <data>Account+opening+deposit</data>
+   <data>Account+opening</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
-      <name>Date</name>
+      <name>VerificationText</name>
       <size>2</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>

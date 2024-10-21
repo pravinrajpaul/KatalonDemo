@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Katze  Hund</name>
+   <tag></tag>
+   <elementGuidId>b7454cf8-23f0-43ff-9d5e-49132dfd62e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-pettype']/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Katze &amp; Hund&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>732e9f2c-3ccd-4f06-a566-5ae8ae862f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>edit-pettype-catdog</value>
+      <webElementGuid>7ac98f23-f178-4bbd-b2c9-a607be8cc19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>f60502cf-981e-4228-b3c1-25e102d5756d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katze &amp; Hund</value>
+      <webElementGuid>539ce657-ae69-4ba4-8264-2cf5da555a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-pettype&quot;)/div[@class=&quot;image-label--cat&amp;dog js-form-item form-item js-form-type-radio form-type-radio js-form-item-pettype form-item-pettype&quot;]/label[@class=&quot;option&quot;]</value>
+      <webElementGuid>83156706-348a-4f39-b21c-48e21f21cf77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-pettype']/div[3]/label</value>
+      <webElementGuid>96947534-85fd-40c4-ada4-3eba0a53a3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hund'])[7]/following::label[1]</value>
+      <webElementGuid>08b78ef7-0f2d-4283-b49d-37277ea66f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katze'])[7]/following::label[2]</value>
+      <webElementGuid>10464326-a2e8-4429-a2c4-e9ce1748e0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name deines Haustiers'])[1]/preceding::label[1]</value>
+      <webElementGuid>91057439-aec6-4ea3-826f-da15df22911c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geburtstag deines Haustiers'])[1]/preceding::label[2]</value>
+      <webElementGuid>4823398d-6962-4e27-b346-de9dc91ed992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katze &amp; Hund']/parent::*</value>
+      <webElementGuid>c18be41a-d4d1-41e8-be3b-92798e2c3a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/label</value>
+      <webElementGuid>ba14697c-2a56-4139-bd03-f75f8b79ce35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

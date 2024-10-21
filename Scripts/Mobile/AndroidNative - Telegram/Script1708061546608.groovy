@@ -31,6 +31,7 @@ Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/and
 Mobile.verifyElementText(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Your phone number'), 
     'Your phone number')
 
-Mobile.closeApplication()
+Mobile.takeScreenshotAsCheckpoint('Summary Page', FailureHandling.STOP_ON_FAILURE)
 
+Mobile.closeApplication()
 

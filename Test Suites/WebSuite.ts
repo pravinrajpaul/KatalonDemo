@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>WebSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fc41c848-10cc-4536-882e-f146f6635ff4</testSuiteGuid>
+   <testCaseLink>
+      <guid>cd95f1a1-fcd1-4b44-9822-52bbe18da192</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Health Care</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>24635ae2-b8b2-44e3-9d4f-120fbd39b672</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>24635ae2-b8b2-44e3-9d4f-120fbd39b672</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>364da991-a3e5-4b6f-9906-40c75cdedf3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24635ae2-b8b2-44e3-9d4f-120fbd39b672</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>4439aa1e-8436-4ede-a5e3-09882c6c5fec</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

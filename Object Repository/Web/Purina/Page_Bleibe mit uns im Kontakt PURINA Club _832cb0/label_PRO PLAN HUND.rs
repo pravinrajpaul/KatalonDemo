@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_PRO PLAN HUND</name>
+   <tag></tag>
+   <elementGuidId>5935baee-e039-4376-8660-d5c7a31ea097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.image-label--pro_plan_dog.js-form-item.form-item.js-form-type-checkbox.form-type-checkbox.js-form-item-dog-brand-pro-plan-dog.form-item-dog-brand-pro-plan-dog > label.option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-dog-brand']/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;PRO PLAN HUND&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5671bd0e-78a3-4063-8c0c-0a3237bde1ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>edit-dog-brand-pro-plan-dog</value>
+      <webElementGuid>d44ef3c3-6172-4467-bc6d-903249280f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>33fba3ff-2760-4ee2-89f3-35fe4180be7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRO PLAN HUND</value>
+      <webElementGuid>9944dcc1-9130-41c7-8fc7-9009831188e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-dog-brand&quot;)/div[@class=&quot;image-label--pro_plan_dog js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-dog-brand-pro-plan-dog form-item-dog-brand-pro-plan-dog&quot;]/label[@class=&quot;option&quot;]</value>
+      <webElementGuid>d69c644b-4164-4f69-9dda-ef281b3e5e39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-dog-brand']/div[3]/label</value>
+      <webElementGuid>acf31de0-817f-4cea-a063-c1d5922036db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PURINA ONE DOG MINI'])[1]/following::label[1]</value>
+      <webElementGuid>a3826609-d22d-4de4-b4a0-60569115520b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BENEFUL'])[3]/following::label[2]</value>
+      <webElementGuid>b0b011aa-c4ec-4049-b1d2-a018d101c93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADVENTUROS'])[1]/preceding::label[1]</value>
+      <webElementGuid>d1024808-0d12-423e-9e28-e3fff8ad76a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DENTALIFE'])[3]/preceding::label[2]</value>
+      <webElementGuid>bff2557b-b796-436f-b359-40082ddf847a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PRO PLAN HUND']/parent::*</value>
+      <webElementGuid>c0c02290-f0e7-4a0c-917e-e79245f33236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[4]/div/div/div[3]/label</value>
+      <webElementGuid>8e1d0363-2356-43f1-964a-71fd7daa12bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

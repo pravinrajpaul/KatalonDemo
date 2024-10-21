@@ -67,7 +67,7 @@ public class Mobile {
 			default: return null;
 		}
 	}
-	
+
 	@Keyword
 	def tapAtPosition(int x, int y) {
 		def driver = MobileDriverFactory.getDriver()
@@ -82,7 +82,6 @@ public class Mobile {
 	}
 
 	@Keyword
-
 	def tapAndHoldAtPosition(int x, int y, int seconds) {
 		def driver = MobileDriverFactory.getDriver()
 		Duration holdDuration = Duration.ofSeconds(seconds);

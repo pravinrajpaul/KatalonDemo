@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Santander</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e280b37-8153-4337-a0c0-fdd1f8d64118</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b4edfb56-ebf2-4421-9f56-686f5d0f153f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Internal</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b4edfb56-ebf2-4421-9f56-686f5d0f153f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>VerificationText</value>
+      <variableId>7947f610-58bb-4f16-96e4-c2a29fa18578</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7947f610-58bb-4f16-96e4-c2a29fa18578</id>
+      <masked>false</masked>
+      <name>VerficationText</name>
+   </variable>
+</TestCaseEntity>

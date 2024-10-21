@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>u_More details</name>
+   <tag></tag>
+   <elementGuidId>5ee85275-1f16-461f-a3ab-d011998075e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>u</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='selck-more-btn1']/p/u</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;selck-more-btn&quot;)/p[1]/u[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#selck-more-btn</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>u</value>
+      <webElementGuid>3a913bd9-0766-4439-93cd-f5b48067b9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More details</value>
+      <webElementGuid>1890bae7-8bcb-4e04-bd4d-13c4d4d2987b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selck-more-btn&quot;)/p[1]/u[1]</value>
+      <webElementGuid>3718516f-58eb-4df9-bc50-55ae31dc0af5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='selck-more-btn']/p/u</value>
+      <webElementGuid>45ab8cef-52ad-44e4-9487-a6515b2598f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open account'])[1]/following::u[1]</value>
+      <webElementGuid>ba2c46da-2ed5-4359-a164-230fa9f2c480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Santander Select® Checking'])[1]/following::u[1]</value>
+      <webElementGuid>621b21e1-ce7d-4174-b857-ff1a3ac70e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simply Right® Checking'])[1]/preceding::u[1]</value>
+      <webElementGuid>02a72889-d66b-4727-b046-99e4e8b05043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open account'])[2]/preceding::u[1]</value>
+      <webElementGuid>1301ebcc-12d3-4f33-9153-577ee21010ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More details']/parent::*</value>
+      <webElementGuid>9d3c7ef1-e9a1-4ae1-a769-4e70cae18d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//u</value>
+      <webElementGuid>58f922d3-39eb-4285-9df9-f80de5ac50dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

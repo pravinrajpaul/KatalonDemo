@@ -48,6 +48,4 @@ public class Functions {
 			if (connection != null) return connection
 		}
 	}
-	
-	
 }

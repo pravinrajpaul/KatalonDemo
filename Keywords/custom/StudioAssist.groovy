@@ -50,5 +50,4 @@ public class StudioAssist {
 
 	/*Generate a Katalon Studio keyword with @Keyword annotation, give relevant function name, arguments and return type, finally add all the imports required for the keyword.*/
 
-	/*Need a katalon keyword to access deep links with different protocol prefix other than http(s):// */
 }

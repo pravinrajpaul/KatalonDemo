@@ -4,5 +4,6 @@
    <name>Excel</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>1b87c83c-a41a-4f1a-bfb3-2ec2da2b7a7a</testCaseGuid>
 </TestCaseEntity>

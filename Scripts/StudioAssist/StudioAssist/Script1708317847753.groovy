@@ -27,21 +27,20 @@ import org.openqa.selenium.Keys as Keys
  Click the search button
  Navigate to the first result
  */
-// Open browser
-WebUI.openBrowser('')
+/*
+Navigate to the login page at https://opensource-demo.orangehrmlive.com/web/index.php/auth/login	The login page is displayed
+Enter valid username 'Admin' and valid password 'admin123'	Username and password are entered in their respective fields
+Click on the 'Login' button	User is redirected to the dashboard page
+*/
+// Navigate to the login page
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-// Maximize browser window
-WebUI.maximizeWindow()
+// Enter valid username 'Admin'
+WebUI.setText(findTestObject('Web/OrangeHR/Page_OrangeHRM/input_username'), 'Admin')
 
-// Navigate to google.com
-WebUI.navigateToUrl('https://www.google.com')
+// Enter valid password 'admin123'
+WebUI.setText(findTestObject('Web/OrangeHR/Page_OrangeHRM/input_password'), 'admin123')
 
-// Type "today's news" in the search box
-WebUI.setText(findTestObject('Button'), 'today\'s news')
-
-// Click the search button
-WebUI.click(findTestObject('Demo/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
-
-// Navigate to the first result
-WebUI.click(findTestObject('first_search_result'))
+// Click on the 'Login' button
+WebUI.click(findTestObject('Web/OrangeHR/Page_OrangeHRM/button_Login'))
 
