@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AndroidNative - Swipe and Read Notifications</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19396b61-464e-477a-8b70-70706c76dd73</testCaseGuid>
+</TestCaseEntity>

@@ -93,6 +93,13 @@ public class Web {
 			Thread.sleep(10) // Adjust the speed of movement here
 		}
 	}
+	
+	@Keyword
+	def void uploadOnWindowsOpenWindow(String uploadExePath, String filePath, String  fileName, String fileType) {
+		def command = uploadExePath + " " + filePath + " " + fileName + " " + fileType
+		def process = command.execute()
+		process.waitFor()
+	}
 
 	// Function to move the mouse to the reCAPTCHA checkbox using WebDriver and then simulate a distorted move and click
 	@Keyword

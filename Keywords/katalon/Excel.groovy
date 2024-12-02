@@ -8,6 +8,7 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
 
 import org.apache.poi.ss.usermodel.*
+import org.apache.poi.xssf.usermodel.XSSFRow
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import org.apache.poi.ss.util.CellRangeAddress
 
@@ -132,4 +133,54 @@ public class Excel {
 	//		}
 	//		return -1;
 	//	}
+
+	@Keyword
+	def String getExcelColumnName(String excelPath) {
+		def data = ExcelKeywords.getExcelSheet(excelPath, 0)
+
+		def headerRow = data[0]
+
+		ArrayList<XSSFRow> filteredRows = new ArrayList<XSSFRow>()
+
+		int formuleIndex = -1
+		headerRow.eachWithIndex {
+			headerValue, index -> 
+				if (headerValue.getStringCellValue() == "FORMULE") {
+				formuleIndex = index
+				return
+			}
+		}
+
+		int garantieIndex = -1
+
+		headerRow.eachWithIndex {
+			headerValue, index ->
+			if (headerValue.getStringCellValue() == "GAD_LIBELLE") {
+				garantieIndex = index
+				return // Exit the loop once found
+			}
+		}
+		data.each {
+			XSSFRow row ->
+			boolean matches = false
+			if(!garant.equals("") && row[garantieIndex].getStringCellValue().equals(garant) && row[formuleIndex].getStringCellValue().equals(formule)) {
+				matches = true
+			}
+			if (matches) {
+				filteredRows.add(row)
+			}
+		}
+		int   size1 = filteredRows.size()
+
+		Integer rand_num = new Random().nextInt(size1)
+		XSSFRow rown = filteredRows[rand_num]
+
+		Cell formule=rown.getCell(formuleIndex)
+
+		Cell garantie=rown.getCell(garantieIndex)
+
+		WriteExcel.dataExcel(folder+output,ligne,'Input_output',formule.getStringCellValue(),'Formule')
+
+		WriteExcel.dataExcel(folder+output,ligne,'Input_output',garantie.getStringCellValue(),'Garantie')
+	}
 }

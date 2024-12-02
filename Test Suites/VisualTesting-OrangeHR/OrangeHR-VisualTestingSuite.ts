@@ -5,29 +5,29 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ef1eab48-a078-4114-a3b2-7f479e84d36c</testSuiteGuid>
    <testCaseLink>
-      <guid>5ee4ff9e-5cd2-4377-a83f-f6bb27772cd5</guid>
+      <guid>843fd221-e625-495f-a09d-d6f2ac563319</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web/OrangeHR/OrangeHR - Positive</testCaseId>
+      <testCaseId>Test Cases/Web/OrangeHR/OrangeHR - VisualTest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
+         <variableId>5d728442-af2b-40cd-b6eb-37d64a5a5e63</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5e500b7a-c76b-46ca-b30d-bb17e8f0a62e</variableId>
+         <variableId>3a015f89-d306-44ac-ab5a-da65bc57d3ca</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

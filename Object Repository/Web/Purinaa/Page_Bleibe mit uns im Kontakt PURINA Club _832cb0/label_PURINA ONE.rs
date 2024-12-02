@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_PURINA ONE</name>
+   <tag></tag>
+   <elementGuidId>211be7fa-0a89-4f8a-90ca-20f4261378c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.image-label--purina_one_cat.js-form-item.form-item.js-form-type-checkbox.form-type-checkbox.js-form-item-cat-brand-purina-one-cat.form-item-cat-brand-purina-one-cat > label.option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-cat-brand']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#edit-cat-brand >> internal:text=&quot;PURINA ONE&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>05f67972-2326-4765-aa9f-c739161dff87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>edit-cat-brand-purina-one-cat</value>
+      <webElementGuid>a1d4c4e3-cc50-4f36-9512-baaf7922e77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ccf5fdf3-b20d-4a06-8709-f49abe6875ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PURINA ONE</value>
+      <webElementGuid>62bedcdd-3355-4bad-86ee-97504611aa58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-cat-brand&quot;)/div[@class=&quot;image-label--purina_one_cat js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-cat-brand-purina-one-cat form-item-cat-brand-purina-one-cat&quot;]/label[@class=&quot;option&quot;]</value>
+      <webElementGuid>a6d55ef1-d9ac-4782-ac36-4aeceea860bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-cat-brand']/div/label</value>
+      <webElementGuid>2fca1b1c-bb31-4843-81db-2c4ccbacfde6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsere Katzenmarken'])[1]/following::label[1]</value>
+      <webElementGuid>0b0f02c8-3b46-49bc-a00e-bd962b6cb5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geburtstag deines Haustiers'])[1]/following::label[1]</value>
+      <webElementGuid>ec60c80f-0051-4b57-835f-2a523c3d9769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GOURMET'])[2]/preceding::label[1]</value>
+      <webElementGuid>b8f552b3-152e-4a08-a974-df16bb4dbeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FELIX'])[2]/preceding::label[2]</value>
+      <webElementGuid>e7d34363-e41c-4328-8ad5-973f2a09dc9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[3]/div/div/div/label</value>
+      <webElementGuid>d99615de-e3cc-4d37-91f9-10c54cd2dc6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

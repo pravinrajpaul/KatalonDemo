@@ -1,9 +1,15 @@
 {
-  "keywordFileContentHash": "3E7BFEFDBF16214A507FBF7000FA3839",
+  "keywordFileContentHash": "5AB98A366A45A5B5A9BEEE161E31DB03",
   "keywordClasses": [
     {
       "name": "custom.StudioAssist",
-      "keywordMethods": []
+      "keywordMethods": [
+        {
+          "name": "generateTestData",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
     }
   ],
   "javadocParsed": true

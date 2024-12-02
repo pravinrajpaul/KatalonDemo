@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Input Katalon Registered email</description>
-      <initValue>'pravin.raveendran@katalon.com'</initValue>
+      <initValue>'yourEmail@Org.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Input your personal Api Key</description>
-      <initValue>'81ab5e6a-c629-457c-8eb7-cdfeac4656f1'</initValue>
+      <initValue>'81ab5e8a-c629-458c-8bb7-cdfeac4656f1'</initValue>
       <name>apikey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

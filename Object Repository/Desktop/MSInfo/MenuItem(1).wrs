@@ -3,7 +3,7 @@
    <description></description>
    <name>MenuItem(1)</name>
    <tag></tag>
-   <locator>/Window/Menu[1]/MenuItem[2]</locator>
+   <locator>/Window/Menu[1]/MenuItem[2]/${variable}</locator>
    <locatorStrategy>XPATH</locatorStrategy>
    <properties>
       <isSelected>false</isSelected>

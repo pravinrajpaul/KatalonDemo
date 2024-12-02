@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "9FC9EDCFC38D836A7CABB07C9029D17B",
+  "keywordFileContentHash": "EEB34E884BCA69A773BA5CA3C799DE66",
   "keywordClasses": [
     {
       "name": "katalon.Excel",
@@ -75,6 +75,25 @@
                     "errorOnParsing": false
                   }
                 ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getExcelColumnName",
+          "parameters": [
+            {
+              "name": "excelPath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
                 "errorOnParsing": false
               }
             }

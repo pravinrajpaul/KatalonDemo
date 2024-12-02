@@ -17,7 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('2cb56193-de84-4659-8f70-3c679c90fe29', true)
+'2cb56193-de84-4659-8f70-3c679c90fe29'
+Mobile.startApplication('Resources/Mobile/Apk/Telegram.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/AndroidNative - Telegram/android.widget.TextView - Start Messaging'), 
     0)

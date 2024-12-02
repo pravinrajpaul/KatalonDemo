@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pro Plan</name>
+   <tag></tag>
+   <elementGuidId>900c7bee-9593-4076-b6e0-615a7bd467fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submenu-1']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Pro Plan®&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e6c60148-0dd9-43b4-b140-d77b2aff6d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://preprod.proplanvetdirect.com/shop-cat-1/pro-plan-cat</value>
+      <webElementGuid>a692bb21-c6f8-4fe2-9d9a-f96faa711ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block w-full p-3 text-nav-level0 hover:bg-nav-level0-hover</value>
+      <webElementGuid>b38d058b-5717-4f6f-9dcc-2c289ab296e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Pro Plan®                                                </value>
+      <webElementGuid>2cd3b1fe-aaf2-4d1e-94c8-65fee089608e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu-1&quot;)/ul[@class=&quot;px-3&quot;]/li[1]/a[@class=&quot;inline-block w-full p-3 text-nav-level0 hover:bg-nav-level0-hover&quot;]</value>
+      <webElementGuid>ec856f4c-662a-4f5b-bde0-e8bcf3a7c20b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='submenu-1']/ul/li/a</value>
+      <webElementGuid>c8ffa185-8372-49b2-923b-6a21946a7c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pro Plan®')])[4]</value>
+      <webElementGuid>c00adceb-f08d-41e6-bcfa-c77082573741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submenu for Shop Cat'])[1]/following::a[1]</value>
+      <webElementGuid>7bdb922f-46a3-47b6-97cc-03c2663a6cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Cat'])[2]/following::a[1]</value>
+      <webElementGuid>2ba5a95f-c7d4-481c-9793-e9eb270d8284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pro Plan® Veterinary Diets'])[4]/preceding::a[1]</value>
+      <webElementGuid>bdddd0f4-b8e7-46e1-9f16-543fe6feadcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pro Plan® Veterinary Supplements'])[4]/preceding::a[2]</value>
+      <webElementGuid>4de7c200-52ad-4dc4-82b8-135c67677353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://preprod.proplanvetdirect.com/shop-cat-1/pro-plan-cat')])[2]</value>
+      <webElementGuid>7fbd72c2-6c4d-4763-ad27-43afeaf66356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[2]/div/ul/li/a</value>
+      <webElementGuid>a881c1cb-d6b9-433b-95d2-5fca6399a4bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

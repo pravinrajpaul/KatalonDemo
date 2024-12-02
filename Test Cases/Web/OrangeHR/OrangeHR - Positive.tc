@@ -18,24 +18,18 @@
    <testCaseGuid>be344c1f-1577-47f1-a7ca-bcb4ea746247</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>37a2a701-729e-4e74-ac54-c6e2561d239a</id>
+      <id>f8233461-2717-401c-82d8-ddc5bcb0599b</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/New Test Data</testDataId>
+      <testDataId>Data Files/Data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>37a2a701-729e-4e74-ac54-c6e2561d239a</testDataLinkId>
+      <testDataLinkId>f8233461-2717-401c-82d8-ddc5bcb0599b</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>UserName</value>
       <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>5e500b7a-c76b-46ca-b30d-bb17e8f0a62e</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'Admin'</defaultValue>
@@ -43,12 +37,5 @@
       <id>b304d225-ca73-41b6-85b2-ea611c9ecc2e</id>
       <masked>false</masked>
       <name>username</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>5e500b7a-c76b-46ca-b30d-bb17e8f0a62e</id>
-      <masked>false</masked>
-      <name>orderId</name>
    </variable>
 </TestCaseEntity>

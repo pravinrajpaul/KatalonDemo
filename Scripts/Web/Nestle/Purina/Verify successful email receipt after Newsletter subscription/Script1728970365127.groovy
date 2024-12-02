@@ -41,20 +41,24 @@ WebUI.setText(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns i
 WebUI.setText(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_E-Mail Adresse wiederholen_e_mail_confirm'), 
     'pravinrajpaul@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_Katze  Hund'))
-
-WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_PURINA ONE'), 
+not_run: WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_PURINA ONE'), 
     0)
+
+CustomKeywords.'web.Actions.scrollToElement'(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_PURINA ONE'))
+
+WebUI.click(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_Katze  Hund'))
 
 WebUI.click(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_PURINA ONE'))
 
-WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_ADVENTUROS'), 
+not_run: WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_ADVENTUROS'), 
     0)
 
 WebUI.click(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/label_ADVENTUROS'))
 
-WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_Einwilligung_consent_d'), 
+not_run: WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_Einwilligung_consent_d'), 
     0)
+
+CustomKeywords.'web.Actions.scrollToElement'(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_Einwilligung_consent_d'))
 
 WebUI.click(findTestObject('Object Repository/Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_Einwilligung_consent_d'))
 
@@ -70,6 +74,8 @@ WebUI.scrollToElement(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 CustomKeywords.'katalon.Web.moveToElement'(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_CAPTCHA_op'))
+
+CustomKeywords.'web.Actions.scrollToElement'(findTestObject('Web/Purina/Page_Bleibe mit uns im Kontakt PURINA Club _832cb0/input_CAPTCHA_op'))
 
 WebUI.delay(60, FailureHandling.STOP_ON_FAILURE)
 
@@ -88,4 +94,6 @@ String email = CustomKeywords.'email.Keywords.getLatestGmail'('pravinrajpaul@gma
 expected = 'Bitte bestätige deine Newsletter-Bestellung durch Klick auf den unten stehenden Link. Deine Daten werden verwendet, um dir folgende Newsletter und Services zukommen zu lassen:'
 
 assert email.contains(expected)
+
+WebUI.closeBrowser()
 

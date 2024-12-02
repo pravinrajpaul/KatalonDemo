@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "50876DBFD16EF97C31F20A71AC5D8A39",
+  "keywordClasses": [
+    {
+      "name": "custom.Report",
+      "keywordMethods": [
+        {
+          "name": "takeScreenShot",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

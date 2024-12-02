@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_I ACCEPT</name>
+   <tag></tag>
+   <elementGuidId>d8d3d2dd-7482-40d9-95c3-80323fdd1b56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-sm.cmp-cookieBanner__button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'I ACCEPT' or . = 'I ACCEPT')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='spa-root']/div/div/div/div[5]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;temp_cookieBannerAccesibility&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>942925cf-1264-4142-9efb-8d6be3e748c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm cmp-cookieBanner__button</value>
+      <webElementGuid>933885c9-92bd-4681-9ee4-15a025844c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>temp_cookieBannerAccesibility</value>
+      <webElementGuid>56586385-d147-44ae-8a1e-4b96dc568f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I ACCEPT</value>
+      <webElementGuid>962c7821-aaf0-4469-9ef2-716168597d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spa-root&quot;)/div[1]/div[1]/div[@class=&quot;aem-container aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cmp-cookieBanner alert fixed-bottom  animate__animated animate__fadeIn&quot;]/div[@class=&quot;cmp-cookieBanner_innerContainer&quot;]/button[@class=&quot;btn btn-primary btn-sm cmp-cookieBanner__button&quot;]</value>
+      <webElementGuid>000d2d51-2638-4c0c-af1e-38d643964226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='spa-root']/div/div/div/div[5]/div/div/button</value>
+      <webElementGuid>dacc9470-afee-445b-b369-2235b38fad36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='privacy policy.'])[1]/following::button[1]</value>
+      <webElementGuid>564ba5c6-322a-40d5-8edc-7928836c7eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitemap'])[1]/following::button[2]</value>
+      <webElementGuid>cc57de67-ae5f-463c-9f9c-462af6ffca76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I ACCEPT']/parent::*</value>
+      <webElementGuid>ad8e1db6-2425-4990-9d98-44f3cfe38b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>df099b88-db9c-43f2-b7da-ab8409afe5b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

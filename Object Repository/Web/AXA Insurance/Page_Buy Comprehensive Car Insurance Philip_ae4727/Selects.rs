@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Selects</name>
+   <tag></tag>
+   <elementGuidId>efc9a55e-a5f7-447a-96a8-d42b35462c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-expand_less.fs-xl</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mlc-vehicle-qqt&quot;)/div[@class=&quot;cmp-CustomContainer__inner&quot;]/div[@class=&quot;aem-container aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cmp-vehicle-information-form&quot;]/div[@class=&quot;cmp-vehicle-information-form&quot;]/div[@class=&quot;row-gap row&quot;]/div[@class=&quot;col-md-4 col-12&quot;]/div[@class=&quot;custom-input-wrapper cmp-dropdown-button&quot;]/div[@class=&quot;custom-input-border-bottom is-valid css-b62m3t-container&quot;]/div[@class=&quot;css-f51x6t-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;react-select-indicator css-15lsz6c-indicatorContainer&quot;]/i[@class=&quot;icon-expand_less fs-xl&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[text()=&quot;${label}&quot;]/parent::div//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mlc-vehicle-qqt i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ece8003f-5770-43a9-968b-bb4c8a853e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-expand_less fs-xl</value>
+      <webElementGuid>4cf494a7-65b6-42b9-a62c-be587767bc61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mlc-vehicle-qqt&quot;)/div[@class=&quot;cmp-CustomContainer__inner&quot;]/div[@class=&quot;aem-container aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cmp-vehicle-information-form&quot;]/div[@class=&quot;cmp-vehicle-information-form&quot;]/div[@class=&quot;row-gap row&quot;]/div[@class=&quot;col-md-4 col-12&quot;]/div[@class=&quot;custom-input-wrapper cmp-dropdown-button&quot;]/div[@class=&quot;custom-input-border-bottom is-valid css-b62m3t-container&quot;]/div[@class=&quot;css-f51x6t-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;react-select-indicator css-15lsz6c-indicatorContainer&quot;]/i[@class=&quot;icon-expand_less fs-xl&quot;]</value>
+      <webElementGuid>ebb12fe2-ebfa-4679-89ae-fb639b1c76ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mlc-vehicle-qqt']/div/div/div/div/div/div[3]/div/div/div/div/div[2]/div/i</value>
+      <webElementGuid>00ce52f9-7a97-4179-b6d5-ccf09649409c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>d7a6f5b5-96b7-4fef-a600-c04326934eb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'Given - Authenticate app\r\n'
 WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/Authenticate'), [:], FailureHandling.STOP_ON_FAILURE)
 
 List appIds = WebUI.callTestCase(findTestCase('API/REST/UploadAppsAPIs/GetApps'), [:], FailureHandling.STOP_ON_FAILURE)

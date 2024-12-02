@@ -19,17 +19,29 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
-WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), 'Admin')
+WebUI.switchToWindowTitle('OrangeHRM')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/input_Username_username'), 'admini')
 
-WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'))
+WebUI.click(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/button_Login'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/p_Invalid credentials'), 'Invalid credentials')
 
-WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dash', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/input_Username_username'), 'a')
+
+WebUI.setText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/input_Username_username_1'), '')
+
+WebUI.setText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/input_Username_username'), 'Admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/input_Password_password'), '9NLz+4tGZcQ=')
+
+WebUI.setText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/input_Username_username'), 'admin123')
+
+WebUI.click(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/button_Login'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Web/Demo/Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
 
 WebUI.closeBrowser()
 

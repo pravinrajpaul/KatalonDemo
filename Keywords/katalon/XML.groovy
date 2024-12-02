@@ -27,37 +27,37 @@ import groovy.xml.XmlParser
 import groovy.xml.XmlUtil
 
 public class XML {
-	
+
 
 
 
 	@Keyword
-    String getXmlNodeValue(String xmlFilePath, String xmlPath) {
-        def xmlFile = new File(xmlFilePath)
-        
-        if (!xmlFile.exists()) {
-            throw new FileNotFoundException("XML file not found: " + xmlFilePath)
-        }
+	String getXmlNodeValue(String xmlFilePath, String xmlPath) {
+		def xmlFile = new File(xmlFilePath)
 
-        def parser = new XmlParser().parse(xmlFile)
+		if (!xmlFile.exists()) {
+			throw new FileNotFoundException("XML file not found: " + xmlFilePath)
+		}
 
-        def pathElements = xmlPath.split("/")
+		def parser = new XmlParser().parse(xmlFile)
 
-        def currentNode = parser
-        pathElements.each { pathElement ->
-            currentNode = currentNode[pathElement][0]
-            if (!currentNode) {
-                throw new IllegalArgumentException("Invalid XML path: " + xmlPath)
-            }
-        }
+		def pathElements = xmlPath.split("/")
 
-        return currentNode.text()
-    }
-	
+		def currentNode = parser
+		pathElements.each { pathElement ->
+			currentNode = currentNode[pathElement][0]
+			if (!currentNode) {
+				throw new IllegalArgumentException("Invalid XML path: " + xmlPath)
+			}
+		}
+
+		return currentNode.text()
+	}
+
 	@Keyword
 	void setXmlNodeValue(String xmlFilePath, String xmlPath, String newValue) {
 		def xmlFile = new File(xmlFilePath)
-		
+
 		if (!xmlFile.exists()) {
 			throw new FileNotFoundException("XML file not found: " + xmlFilePath)
 		}
@@ -79,5 +79,4 @@ public class XML {
 		def updatedXml = XmlUtil.serialize(parser)
 		xmlFile.write(updatedXml)
 	}
-	
 }

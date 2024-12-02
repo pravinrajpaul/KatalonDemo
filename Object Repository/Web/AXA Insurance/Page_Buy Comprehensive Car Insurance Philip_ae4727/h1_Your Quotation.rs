@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Your Quotation</name>
+   <tag></tag>
+   <elementGuidId>17bbb7fe-36f8-4cdd-a547-4e2ed902f691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mlc-vehicle-qqt']/div/div/div/div/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Your Quotation&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>255e6059-ee4f-49eb-bbc6-a5ba92a706ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Quotation</value>
+      <webElementGuid>d53014b5-6d63-4648-8827-fd1f1e89abcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mlc-vehicle-qqt&quot;)/div[@class=&quot;cmp-CustomContainer__inner&quot;]/div[@class=&quot;aem-container aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cmp-vehicle-information-form__qoutation-result display-flex flex-direction__column&quot;]/div[@class=&quot;cmp-form-heading center&quot;]/div[@class=&quot;cmp-form-heading__details&quot;]/h1[1]</value>
+      <webElementGuid>11aa7e6a-a545-40a1-848c-20bc7a45c7f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mlc-vehicle-qqt']/div/div/div/div/div/div[2]/h1</value>
+      <webElementGuid>08780bb4-2faf-4df4-ac3c-b88287a7a98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receive your quotation in seconds.'])[1]/following::h1[1]</value>
+      <webElementGuid>32b3a46d-e6f2-4679-b28f-193a9c5859a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get a Quote'])[1]/following::h1[1]</value>
+      <webElementGuid>4a0ba9b1-f7da-4a3e-ade8-91b5b8ad6ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1e5d1087-bf5b-4f55-bda0-3a977505feac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This quotation is only valid for 30 days.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>203d15f9-1c42-4ef1-a39b-a2a0d089470f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your Quotation']/parent::*</value>
+      <webElementGuid>2737c40a-c47c-4121-bb49-f12c606ad942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>cbaf096f-9886-4214-83fa-afb2e0904c2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

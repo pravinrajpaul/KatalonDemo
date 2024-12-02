@@ -27,20 +27,8 @@ import org.openqa.selenium.Keys as Keys
  Click the search button
  Navigate to the first result
  */
-/*
-Navigate to the login page at https://opensource-demo.orangehrmlive.com/web/index.php/auth/login	The login page is displayed
-Enter valid username 'Admin' and valid password 'admin123'	Username and password are entered in their respective fields
-Click on the 'Login' button	User is redirected to the dashboard page
-*/
-// Navigate to the login page
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-// Enter valid username 'Admin'
-WebUI.setText(findTestObject('Web/OrangeHR/Page_OrangeHRM/input_username'), 'Admin')
 
-// Enter valid password 'admin123'
-WebUI.setText(findTestObject('Web/OrangeHR/Page_OrangeHRM/input_password'), 'admin123')
 
-// Click on the 'Login' button
-WebUI.click(findTestObject('Web/OrangeHR/Page_OrangeHRM/button_Login'))
+
 

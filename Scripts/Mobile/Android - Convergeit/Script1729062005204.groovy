@@ -28,4 +28,3 @@ Mobile.tap(findTestObject('Mobile/Convergeit/android.widget.EditText (1)'), 0)
 Mobile.setText(findTestObject('Mobile/Convergeit/android.widget.EditText (1)'), 'Yeswecan@123', 0)
 
 Mobile.closeApplication()
-

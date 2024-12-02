@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "9C9FE88B78E836DF1B2FAB8087F9CA90",
+  "keywordClasses": [
+    {
+      "name": "web.Actions",
+      "keywordMethods": [
+        {
+          "name": "scrollToElement",
+          "parameters": [
+            {
+              "name": "testObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

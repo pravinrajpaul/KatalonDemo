@@ -4,5 +4,6 @@
    <name>OrangeHR - PosFail</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>3a533ea4-d5d5-4d59-ad80-b93634859188</testCaseGuid>
 </TestCaseEntity>

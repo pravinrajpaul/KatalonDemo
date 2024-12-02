@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "AC894F822A6B8578B2BE378E9B619848",
+  "keywordFileContentHash": "20352C12207AE6323860A7034028D8CF",
   "keywordClasses": [
     {
       "name": "katalon.Web",
@@ -22,6 +22,64 @@
             }
           ],
           "javadoc": "/**\r\n\t * Get WebElement from TestObject\r\n\t * @param testObject The TestObject\r\n\t * @return WebElement The WebElement corresponding to the TestObject\r\n\t */"
+        },
+        {
+          "name": "uploadOnWindowsOpenWindow",
+          "parameters": [
+            {
+              "name": "uploadExePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "filePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "fileType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
         },
         {
           "name": "moveToCaptchaAndClick",

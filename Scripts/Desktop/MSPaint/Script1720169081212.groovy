@@ -4,15 +4,14 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
-
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.TestObject
-import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
@@ -20,7 +19,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import org.openqa.selenium.Rectangle as Rectangle
 
-not_run: CustomKeywords.'custom.MyKeyWords.startDefaultWinAppDriver'()
+CustomKeywords.'custom.MyKeyWords.startDefaultWinAppDriver'()
 
 //Windows.switchToDesktop(FailureHandling.STOP_ON_FAILURE)
 Windows.startApplicationWithTitle('C:\\Users\\pravi\\AppData\\Local\\Microsoft\\WindowsApps\\mspaint.exe', 'Untitled - Paint')
@@ -160,14 +159,20 @@ Windows.click(findWindowsObject('Object Repository/Desktop/MSPaint/Button'))
 diffPercentage = CustomKeywords.'image.Actions.compareImages'('Resources/Desktop/MSPaint/Images/Baseline.png', ('C:\\Users\\pravi\\Downloads\\AutomationScreens\\' + 
     saveName) + '.png')
 
-if (diffPercentage <= 0.15) KeywordUtil.markPassed("Images Match")
-else KeywordUtil.markFailed("Images don't match")
-	
-diffPercentage = CustomKeywords.'image.Actions.compareImages'('Resources/Desktop/MSPaint/Images/Baseline3.png', ('C:\\Users\\pravi\\Downloads\\AutomationScreens\\' +
-		saveName) + '.png')
+if (diffPercentage <= 0.15) {
+    KeywordUtil.markPassed('Images Match')
+} else {
+    KeywordUtil.markFailed('Images don\'t match')
+}
 
-if (diffPercentage <= 0.15) KeywordUtil.markPassed("Images Match")
-	else KeywordUtil.markFailed("Images don't match")
+diffPercentage = CustomKeywords.'image.Actions.compareImages'('Resources/Desktop/MSPaint/Images/Baseline3.png', ('C:\\Users\\pravi\\Downloads\\AutomationScreens\\' + 
+    saveName) + '.png')
+
+if (diffPercentage <= 0.15) {
+    KeywordUtil.markPassed('Images Match')
+} else {
+    KeywordUtil.markFailed('Images don\'t match')
+}
 
 //diffPercentage = CustomKeywords.'image.Actions.compareImages'('Resources/Desktop/MSPaint/Images/Baseline1.png', 'C:\\Users\\pravi\\Downloads\\AutomationScreens\\' + saveName + ".png")
 //println (diffPercentage)
@@ -180,7 +185,6 @@ if (diffPercentage <= 0.15) KeywordUtil.markPassed("Images Match")
 //diffPercentage = CustomKeywords.'image.Actions.compareImages'('Resources/Desktop/MSPaint/Images/Baseline5.png', 'C:\\Users\\pravi\\Downloads\\AutomationScreens\\' + saveName + ".png")
 //println (diffPercentage)
 //diffPercentage = CustomKeywords.'image.Actions.compareImages'('Resources/Desktop/MSPaint/Images/Baseline6.png', 'C:\\Users\\pravi\\Downloads\\AutomationScreens\\' + saveName + ".png")
-	
 //println (diffPercentage)
 Windows.closeApplication()
 

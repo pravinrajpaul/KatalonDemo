@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My first project</name>
+   <tag></tag>
+   <elementGuidId>74eaa667-f910-4538-8100-84f9b22ddc8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-app']/div/div/div/div/div[2]/div/div/div[2]/div/div/table/tbody/tr/td[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1o4wo1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;My first project&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a8baa6b-5be8-4578-87bf-ba989b450d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1o4wo1x</value>
+      <webElementGuid>f9dbc795-de8d-4c48-bbce-f0abb9057008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My first project</value>
+      <webElementGuid>35c8135d-4aae-4b89-a6db-bb10dac13c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-app&quot;)/div[@class=&quot;css-e69dqy&quot;]/div[@class=&quot;css-e69dqy&quot;]/div[@class=&quot;css-e5j86h&quot;]/div[@class=&quot;css-1c9jniz&quot;]/div[@class=&quot;css-1v6v3k5&quot;]/div[@class=&quot;css-1tj9cbb&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-z08dye&quot;]/div[1]/div[@class=&quot;css-1xsf3r1&quot;]/table[@class=&quot;css-uj88lt css-10msztb&quot;]/tbody[@class=&quot;css-10xm6nz&quot;]/tr[@class=&quot;css-1nywjyu&quot;]/td[@class=&quot;css-dclvjr&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-70qvj9&quot;]/div[@class=&quot;css-1o4wo1x&quot;]</value>
+      <webElementGuid>93ff5281-8ce6-4c82-ba52-fc0dae0d41d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-app']/div/div/div/div/div[2]/div/div/div[2]/div/div/table/tbody/tr/td[2]/div/div/div</value>
+      <webElementGuid>30fdae3f-a3ff-4e61-a56b-a293bfbf50a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channels'])[1]/following::div[7]</value>
+      <webElementGuid>ee89d4fa-8c15-449c-962a-269951f5508a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[1]/following::div[8]</value>
+      <webElementGuid>4b26f5b4-70f9-4fbe-ab35-bcb1e2fa15e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pravin Raveendran’s team'])[1]/preceding::div[1]</value>
+      <webElementGuid>13ced9a4-6b82-4118-991e-2ceb96dec39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[1]/preceding::div[1]</value>
+      <webElementGuid>6d3dbd45-ad8f-4578-89cc-6d79c387f9c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My first project']/parent::*</value>
+      <webElementGuid>8f560367-0ad5-4e1f-a903-a8097db682eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div</value>
+      <webElementGuid>3f620bee-54f2-45cf-9d8c-b924fd796c74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,11 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-not_run: encPass = CustomKeywords.'web.WebAdditives.encryptSecret'('password')
+not_run: encPass = CustomKeywords.'web.WebAdditives.encryptSecret'('admin abc')
 
 not_run: println(encPass)
 
 WebUI.openBrowser('')
 
-CustomKeywords.'web.WebAdditives.navigateToSecureURL'('https://the-internet.herokuapp.com/basic_auth', 'admin', '+AKm3sXxIk1FAA58ShB0+w==:pnGAV1NQsPdlF+m5byqI2Q==')
+//CustomKeywords.'web.WebAdditives.navigateToSecureURL'('https://the-internet.herokuapp.com/basic_auth', 'admin', '+AKm3sXxIk1FAA58ShB0+w==:pnGAV1NQsPdlF+m5byqI2Q==')
+CustomKeywords.'web.WebAdditives.navigateToSecureURL'('http://localhost:3000/protected', 'domain\\admin', 'MLrSMY7p5iow9D23vfvweA==:OV69ug2mbqMgtkaCH1RK6w==')
 

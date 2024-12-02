@@ -10,7 +10,7 @@
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
    <data>Account+opening+deposit</data>
-   <data>Account+opening</data>
+   <data>Aut2Exe+Error</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>VerificationText</name>

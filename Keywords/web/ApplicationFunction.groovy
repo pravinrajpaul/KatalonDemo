@@ -4,7 +4,10 @@ import org.openqa.selenium.By
 import org.openqa.selenium.JavascriptExecutor
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.WebElement
+import org.openqa.selenium.edge.EdgeDriver
+import org.openqa.selenium.edge.EdgeOptions
 import org.openqa.selenium.interactions.Actions
+import org.openqa.selenium.remote.DesiredCapabilities
 
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.testobject.SelectorMethod
@@ -12,8 +15,7 @@ import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.testobject.TestObjectProperty
 import com.kms.katalon.core.webui.common.WebUiCommonHelper
 import com.kms.katalon.core.webui.driver.DriverFactory
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
-
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 
 class ApplicationFunction {
@@ -23,12 +25,12 @@ class ApplicationFunction {
 	@Keyword(keywordObject='WEB')
 	def static enhanced_SetViewportSize(int width, int height) {
 		WebDriver webDriver = DriverFactory.getWebDriver()
-		int browserWidthGap = webDriver.manage().window().getSize().width - Integer.parseInt(WebUiBuiltInKeywords.executeJavaScript('return (window.innerWidth || 0)', null).toString())
-		int browserHeightGap = webDriver.manage().window().getSize().height - Integer.parseInt(WebUiBuiltInKeywords.executeJavaScript('return (window.innerHeight || 0)', null).toString())
-		float ratio = Float.parseFloat(WebUiBuiltInKeywords.executeJavaScript('return (window.devicePixelRatio || 1)', null).toString())
+		int browserWidthGap = webDriver.manage().window().getSize().width - Integer.parseInt(WebUI.executeJavaScript('return (window.innerWidth || 0)', null).toString())
+		int browserHeightGap = webDriver.manage().window().getSize().height - Integer.parseInt(WebUI.executeJavaScript('return (window.innerHeight || 0)', null).toString())
+		float ratio = Float.parseFloat(WebUI.executeJavaScript('return (window.devicePixelRatio || 1)', null).toString())
 		int actualWidth = Math.round((width + browserWidthGap * ratio) / ratio)
 		int actualHeight = Math.round((height + browserHeightGap * ratio) / ratio)
-		WebUiBuiltInKeywords.setViewPortSize(actualWidth, actualHeight)
+		WebUI.setViewPortSize(actualWidth, actualHeight)
 	}
 
 	@Keyword(keywordObject='WEB')
@@ -72,5 +74,29 @@ class ApplicationFunction {
 		}
 
 		return selectorsMap
+	}
+
+	@Keyword
+	def openCustomEdgeBrowser(String edgeDriverPath, String browserPath) {
+
+
+		EdgeOptions options = new EdgeOptions()
+		options.setCapability("binary", browserPath)
+
+		System.setProperty("webdriver.edge.driver", edgeDriverPath)
+		WebDriver wd = new EdgeDriver(options)
+		DriverFactory.changeWebDriver(wd)
+	}
+
+	@Keyword
+	def scrollToElement(TestObject testObject) {
+		try {
+			WebElement element = WebUiCommonHelper.findWebElement(testObject, 30)
+			JavascriptExecutor js = (JavascriptExecutor) DriverFactory.getWebDriver()
+			js.executeScript("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", element)
+			WebUI.delay(1) // optional delay to ensure scrolling is complete
+		} catch (Exception e) {
+			WebUI.comment("Error scrolling to element: " + e.getMessage())
+		}
 	}
 }

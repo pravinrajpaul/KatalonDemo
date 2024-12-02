@@ -15,7 +15,7 @@
       <guid>9ffadad3-6d6e-41a1-9070-e9e78cba8cd1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Santander</testCaseId>
+      <testCaseId>Test Cases/Web/Santander</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

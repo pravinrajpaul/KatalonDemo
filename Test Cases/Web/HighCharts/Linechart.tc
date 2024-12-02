@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Linechart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7907dba-5f32-4334-884c-aea3fecf014a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c1aedcf-f9a3-40f8-942b-548311d3e5ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>3c1aedcf-f9a3-40f8-942b-548311d3e5ae</id>
+      <masked>false</masked>
+      <name>plotPoints</name>
+   </variable>
+</TestCaseEntity>

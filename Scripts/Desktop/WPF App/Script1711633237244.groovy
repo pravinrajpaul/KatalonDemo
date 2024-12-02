@@ -27,7 +27,7 @@ Windows.setText(findWindowsObject('Desktop/WPF App/Edit(1)'), 'D:\\PortableSoft\
 
 Windows.click(findWindowsObject('Object Repository/Desktop/WPF App/Button'))
 
-Windows.switchToWindowTitle('Aut2Exe Error')
+Windows.switchToWindowTitle(errorText)
 
 text = Windows.getText(findWindowsObject('Object Repository/Desktop/WPF App/Text'), FailureHandling.STOP_ON_FAILURE)
 
@@ -37,6 +37,11 @@ assert text == text
 
 Windows.click(findWindowsObject('Desktop/WPF App/Button(1)'))
 
+isDisabled = Windows.getAttribute(findWindowsObject('Desktop/WPF App/Button(1)'), 'IsDisabled')
+
+assert isDisabled
+
 Windows.switchToWindowTitle('Aut2Exe - ')
 
 Windows.closeApplication()
+

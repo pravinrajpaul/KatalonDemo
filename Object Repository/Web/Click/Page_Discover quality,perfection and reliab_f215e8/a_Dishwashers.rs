@@ -6,15 +6,18 @@
    <elementGuidId>4428dbac-fd06-44f0-b9f5-596a402361f9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Washers &amp; Dryers'])[1]/following::a[1]</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/products/dishwasher']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Washers &amp; Dryers'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>11d311ee-16af-47b3-a32f-e845121c86d0</webElementGuid>
+      <webElementGuid>b13648dc-b206-4cb9-9ced-925d2be3cf44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +40,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/products/dishwasher</value>
-      <webElementGuid>571a99a1-a262-4644-9724-8b0dac5d1bfb</webElementGuid>
+      <webElementGuid>d99b580a-020a-45e6-b44c-39f26228eca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-link js-navigation-link navigation-link has-child-level</value>
-      <webElementGuid>b3fdfd0e-5282-4b2d-9415-4db78835cc1a</webElementGuid>
+      <webElementGuid>1776b08b-c5d1-4ad1-b415-7de821bca7f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +56,7 @@
       <name>data-reference-id</name>
       <type>Main</type>
       <value>SHOP-dishwashers</value>
-      <webElementGuid>4fbbb4f3-62cf-4748-b315-3e66a246ad92</webElementGuid>
+      <webElementGuid>fa550094-438c-4ec1-8c24-8dff79e53e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +64,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>00d16441-802d-46ac-9ab2-cc93993fc407</webElementGuid>
+      <webElementGuid>cd5c7d5b-9dfa-46c5-891f-09104fe4b342</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +72,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a9af908e-def3-488d-b7e4-41e9e575a12e</webElementGuid>
+      <webElementGuid>62c31251-0344-4a35-b5cd-6f37e77e2309</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +83,7 @@
 		
 			Dishwashers
 	</value>
-      <webElementGuid>fd8cb427-44d1-46ab-afdc-3f47602786e6</webElementGuid>
+      <webElementGuid>5083efea-daed-4eae-ba81-c2dfdcb09dce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,7 +91,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;supports no-touchevents cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside csstransforms csstransforms3d csstransitions webp webp-alpha webp-animation webp-lossless windows-os&quot;]/body[@class=&quot;site-structure-level-1 pagetype-home no-scroll&quot;]/div[@class=&quot;g-container&quot;]/header[@class=&quot;o-headerrebrush js-header-rebrush headerrebrush-transparent-toggle transparent-above-stage is-transparent-now open&quot;]/div[@class=&quot;fly-out-wrap&quot;]/div[@class=&quot;fly-out-container active&quot;]/div[@class=&quot;fly-out&quot;]/div[@class=&quot;m-navigation-flyout&quot;]/nav[@class=&quot;navigation-lists-container&quot;]/div[@class=&quot;navigation-lists-wrap&quot;]/div[@class=&quot;second-level js-second-level sublevel js-navigation-col navigation-col active&quot;]/div[@class=&quot;js-navigation-link-list m-navigation-link-list active&quot;]/a[@class=&quot;a-link js-navigation-link navigation-link has-child-level&quot;]</value>
-      <webElementGuid>c56ada39-4fe3-4799-a0db-db05fdcf3767</webElementGuid>
+      <webElementGuid>f29002a4-0508-44fa-9aac-3adf4ad484e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -96,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Washers &amp; Dryers'])[1]/following::a[1]</value>
-      <webElementGuid>081492ab-0766-4a21-99f8-75fd4fe31e44</webElementGuid>
+      <webElementGuid>63e02eee-c54a-4e3c-afbe-7e29ca497914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cooking &amp; Baking'])[1]/following::a[2]</value>
-      <webElementGuid>8a488893-94bf-46db-b944-3dd16fc975db</webElementGuid>
+      <webElementGuid>9c2fbbcc-7976-42a9-af01-361e1a8ce131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fridges &amp; Freezers'])[1]/preceding::a[1]</value>
-      <webElementGuid>6396b7f9-12a8-4916-86aa-1af00086a915</webElementGuid>
+      <webElementGuid>d8b515cf-e5ec-445a-90b0-ca4e93f96251</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +123,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/products/dishwasher')]</value>
-      <webElementGuid>9d0844ec-97a3-4ed9-b9ec-9b452d47a948</webElementGuid>
+      <webElementGuid>7151a75d-cb1c-4076-af8e-6349baf4e0d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a[5]</value>
-      <webElementGuid>49cb04fd-d1d3-4cbe-b3f3-4611cab4b783</webElementGuid>
+      <webElementGuid>ffb08d96-43f9-4083-8f95-bd7298f483f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/products/dishwasher']</value>
-      <webElementGuid>203ca4d4-b838-4b9b-9b8a-502a6482575f</webElementGuid>
+      <webElementGuid>4ed73065-ae80-4aa2-aee6-603e60d391a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

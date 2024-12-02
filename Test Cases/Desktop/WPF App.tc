@@ -4,5 +4,37 @@
    <name>WPF App</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>d76cac4f-178a-4c1d-9313-8e4012072cd7</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5f656316-fdb7-4cfc-b64f-8ffaa2620eda</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Internal</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>25bfc9b7-2aeb-443f-b6ed-c45120d490d0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5f656316-fdb7-4cfc-b64f-8ffaa2620eda</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>VerificationText</value>
+      <variableId>b02c7929-8bc2-4c42-9a71-45adc80036ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Aut2Exe Error'</defaultValue>
+      <description></description>
+      <id>b02c7929-8bc2-4c42-9a71-45adc80036ca</id>
+      <masked>false</masked>
+      <name>errorText</name>
+   </variable>
 </TestCaseEntity>
