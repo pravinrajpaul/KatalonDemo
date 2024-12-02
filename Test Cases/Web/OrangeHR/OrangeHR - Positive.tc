@@ -31,11 +31,24 @@
       <value>UserName</value>
       <variableId>b304d225-ca73-41b6-85b2-ea611c9ecc2e</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f8233461-2717-401c-82d8-ddc5bcb0599b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>7812a1e4-be6e-4408-a698-67adb1e33654</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Admin'</defaultValue>
       <description></description>
       <id>b304d225-ca73-41b6-85b2-ea611c9ecc2e</id>
       <masked>false</masked>
       <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7812a1e4-be6e-4408-a698-67adb1e33654</id>
+      <masked>false</masked>
+      <name>password</name>
    </variable>
 </TestCaseEntity>
