@@ -16,33 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.apache.poi.sl.usermodel.Sheet as Sheet
 
-'@Given Browser Opened'
-WebUI.openBrowser('')
 
-WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
-
-'@Given User Logged In'
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
-
-WebUI.setText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_username'), username)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/input_password'), password)
-
-WebUI.click(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/button_Login'), FailureHandling.STOP_ON_FAILURE)
-
-'@When User Navigates to Dashboard'
-WebUI.verifyElementVisible(findTestObject('Object Repository/Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.verifyElementText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'), 'Dashboard', FailureHandling.STOP_ON_FAILURE)
-
-actualText = WebUI.getText(findTestObject('Web/OrangeHR/Page_OrangeHRM/h6_Dashboard'))
-
-assert actualText == 'Dashboard'
-
-'@Then User lands on Dashboard'
-WebUI.takeFullPageScreenshotAsCheckpoint('OrangeHRDashboardPage')
-
-WebUI.closeBrowser()
 
